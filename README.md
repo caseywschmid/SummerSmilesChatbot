@@ -9,7 +9,7 @@ A FastAPI-powered chatbot system that provides intelligent customer support usin
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd SummerSmiles
+cd SummerSmilesChatbot
 
 # Create and activate virtual environment
 python -m venv .venv
