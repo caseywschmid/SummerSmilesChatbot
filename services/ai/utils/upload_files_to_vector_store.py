@@ -10,7 +10,6 @@ from constants import (
     FRENCH_PRODUCTS_PATH,
 )
 
-# Import the function directly to avoid module shadowing issues
 from services.ai.utils.create_vector_store import create_vector_store
 from services.ai.utils.get_vector_store_by_name import get_vector_store_by_name
 import logging
@@ -22,6 +21,11 @@ log = configure_logging(__name__, log_level=logging.DEBUG)
 def upload_files_to_vector_store(client: OpenAI, name: str):
     """
     Upload all content files for the specified language to the corresponding vector store. If the specified vector store does not exist, it will be created.
+
+    Note on chunking strategy:
+    - max_chunk_size_tokens: Required[int] - The maximum number of tokens in each chunk. The default value is `800`. The minimum value is `100` and the maximum value is
+    `4096`.
+    - chunk_overlap_tokens: Required[int] - The number of tokens that overlap between chunks. The default value is `400`. Note that the overlap must not exceed half of `max_chunk_size_tokens`.
     """
     if name == "SummerSmiles_English" or name == "SummerSmiles_English_DEV":
         dir_paths = [ENGLISH_PAGES_PATH, ENGLISH_POSTS_PATH, ENGLISH_PRODUCTS_PATH]
@@ -32,10 +36,8 @@ def upload_files_to_vector_store(client: OpenAI, name: str):
 
     vector_store = get_vector_store_by_name(client, name)
     if vector_store:
-        deleted_vector_store = client.vector_stores.delete(
-            vector_store_id=vector_store.id
-        )
-        print("deleted vector store")
+        client.vector_stores.delete(vector_store_id=vector_store.id)
+        log.info("deleted vector store")
     vector_store = create_vector_store(client, name)
     for dir_path in dir_paths:
         log.info(f"Uploading files from {dir_path}")
@@ -52,5 +54,13 @@ def upload_files_to_vector_store(client: OpenAI, name: str):
                         file=file_content, purpose="assistants"
                     )
                 client.vector_stores.files.create(
-                    vector_store_id=vector_store.id, file_id=file_result.id
+                    vector_store_id=vector_store.id,
+                    file_id=file_result.id,
+                    chunking_strategy={
+                        "type": "static",
+                        "static": {
+                            "chunk_overlap_tokens": 400,
+                            "max_chunk_size_tokens": 800,
+                        },
+                    },
                 )
