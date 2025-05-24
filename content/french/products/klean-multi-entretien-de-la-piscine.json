@@ -1,0 +1,38 @@
+{
+  "title": "KLEAN MULTI",
+  "link": "/fr/produit/klean-multi-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "KLEAN MULTI est un nettoyant biodégradable qui dissout instantanément tout genre de graisses, de saletés et de cernes sur les surfaces de vinyle des piscines et des spas. Sa puissance de nettoyage ainsi que sa rapidité d’action en font un produit facile d’usage et très efficace. KLEAN MULTI peut également être utilisé sur les meubles de jardin, les surfaces en résine, les parois extérieures de la piscine, les pièces métalliques recouvertes de vinyle et les revêtements de maison de vinyle et de chrome.",
+  "short_description": "BÉNÉFICE Biodégradable FORMATS 1 L et 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Disperser le produit sur un linge, une éponge ou une brosse douce."
+    },
+    {
+      "title": "Instructions",
+      "text": "Frotter légèrement la surface jusqu’à la disparition des taches. Ajouter un peu de KLEAN MULTI au besoin. Rincer la surface à l’eau. Essuyer au besoin."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Compatible avec les systèmes au sel. Il est de la responsabilité de l’utilisateur de s’assurer que les surfaces à nettoyer ne décolorent pas. Faire l’essai de KLEAN MULTI en le versant sur un linge, une éponge ou une brosse et en l’appliquant sur une petite portion de la surface à nettoyer en suivant les instructions.",
+  "sku": "3007270",
+  "related_products": [
+    {
+      "name": "KLEAN SURFACE",
+      "link": "/fr/produit/klean-surface-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN SURFACE ULTRA",
+      "link": "/fr/produit/klean-surface-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/fr/produit/stain-out-entretien-de-la-piscine/"
+    }
+  ]
+}

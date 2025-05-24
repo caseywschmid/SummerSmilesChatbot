@@ -1,0 +1,60 @@
+{
+  "title": "SPA STAIN OUT",
+  "link": "/fr/produit/spa-stain-out-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA STAIN OUT est principalement utilisé pour enlever les taches résultant de la présence de métaux tels que le manganèse, le fer et le cuivre sur tous les types de revêtements de spa. SPA STAIN OUT est un séquestrant qui aide à retrouver une eau claire suite à une coloration provoquée par ces mêmes métaux.",
+  "short_description": "BÉNÉFICES Élimine les taches dues aux métaux sur tous les types de revêtements de spa Enlève la coloration de l’eau due au manganèse, au fer et au cuivre provenant de toute source d’eau Sans phosphates FORMAT 1,2 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer SPA STAIN OUT directement à la surface de l’eau du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajuster le pH du spa à une valeur comprise entre 6,8 et 7,2 et laisser descendre le niveau de chlore en dessous de 2 ppm. Verser SPA STAIN OUT selon la méthode d’application et le dosage recommandé. Faire circuler en continu durant une période de 24 heures. Après 24 heures, ajuster le pH entre 7,2 et 7,8 et l’alcalinité entre 80 et 120 ppm. Ajouter du chlore après 72 heures. Attendre 30 minutes avant la baignade, tout dépendamment de la situation."
+    }
+  ],
+  "dosage": {
+    "specifications": "Dans le cas d’une eau colorée, ajouter 15 g de SPA STAIN OUT par 1 000 L d’eau de spa. En cas de taches, ajouter doucement de l’eau à 15 g de SPA STAIN OUT pour ainsi former une pâte et l’appliquer sur les parois du spa et/ou aux endroits où se trouvent les taches. Là où il y a concentration de taches, brosser directement les taches avec le produit. Pour les taches tenaces, appliquer le produit une deuxième fois.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "EAU COLORÉE",
+          "TACHES SUR LES SURFACES"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "15 g",
+          "Formez une pâte avec 15 g de produit"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "25 g",
+          "Formez une pâte avec 15 g de produit"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "2907335",
+  "related_products": [
+    {
+      "name": "SPA ALL OUT ULTRA 4 EN 1",
+      "link": "/fr/produit/spa-all-out-ultra-4-en-1-entretien-du-spa/"
+    },
+    {
+      "name": "SPA FLUSH OUT",
+      "link": "/fr/produit/spa-flush-out-entretien-du-spa/"
+    },
+    {
+      "name": "SPA PHOS OUT ULTRA 2 EN 1",
+      "link": "/fr/produit/spa-phos-out-ultra-2-en-1-entretien-du-spa/"
+    }
+  ]
+}

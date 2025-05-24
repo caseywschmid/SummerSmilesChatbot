@@ -1,0 +1,61 @@
+{
+  "title": "STAIN OUT ULTRA",
+  "link": "/fr/produit/stain-out-ultra-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "STAIN OUT ULTRA est principalement utilisé pour enlever les taches tenaces de cuivre dans l’eau des piscines. STAIN OUT ULTRA est utilisé en complément au STAIN OUT pour enlever les taches les plus tenaces.",
+  "short_description": "BÉNÉFICES Élimine les taches tenaces de cuivre sur tous les types de revêtements de piscine Sans phosphates FORMAT 2 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser la totalité du contenant de STAIN OUT ULTRA directement sur la tache ou à la surface de l’eau, en faisant le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Abaisser l’alcalinité à 30 ppm. Pour ce faire, utiliser KLEAN SURFACE en ajoutant 160 mL par 10 000 L d’eau afin d’abaisser l’alcalinité de 10 ppm. Vérifier le pH afin qu’il soit inférieur à 6,5. Quand les paramètres seront au niveau recommandé, arrêter la filtration pendant 30 minutes pour éviter tout mouvement dans l’eau. Verser la totalité de STAIN OUT ULTRA à la surface de l’eau, en faisant le tour de la piscine. Attendre 2 heures. Brosser les taches avec un balai conçu à cet effet. Remettre la filtration en marche. Après 24 heures, ajuster les paramètres graduellement : – pH entre 7,2 et 7,8; – Alcalinité entre 80 et 120 ppm."
+    },
+    {
+      "title": "Remarques",
+      "text": "Il est fortement suggéré d’utiliser un neutralisant à base de métaux après le traitement."
+    }
+  ],
+  "dosage": {
+    "specifications": "En cas de taches tenaces, verser 500 g de STAIN OUT ULTRA par 10 000 L d’eau de piscine. Il est important de laisser agir le produit pendant 2 heures. Par la suite, brosser pour nettoyer les parois de la piscine qui contient des taches de métaux.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "POUR TACHES TENACES"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "2 kg (1 contenant)"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "4 kg (2 contenants)"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. Il est important de fermer le générateur de chlore avant l’utilisation du produit.. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007320",
+  "related_products": [
+    {
+      "name": "KLEAN FILTER",
+      "link": "/fr/produit/klean-filter-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN MULTI",
+      "link": "/fr/produit/klean-multi-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN SURFACE ULTRA",
+      "link": "/fr/produit/klean-surface-ultra-entretien-de-la-piscine/"
+    }
+  ]
+}

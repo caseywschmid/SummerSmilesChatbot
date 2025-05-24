@@ -1,0 +1,57 @@
+{
+  "title": "SPA ICE AWAY",
+  "link": "/product/spa-ice-away-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA ICE AWAY is specially formulated to protect spa and water heater pipes and equipment against freezing down to -51°C. This antifreeze is odour-free, non-toxic and safe for swimmers.",
+  "short_description": "BENEFIT Protects pipes against freezing down to -51°C FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour the undiluted SPA ICE AWAY into the spa piping through the skimmer, or into the water heater piping through the inlet."
+    },
+    {
+      "title": "Instructions",
+      "text": "Drain all water from spa or water heater equipment and piping. It is important to get as much water as possible out of pipes and equipment. Be sure to treat all lines, jets and equipment. Continue adding SPA ICE AWAY until the coloured antifreeze pours out of the return outlets. Your return lines are now ready to be plugged for winterizing"
+    },
+    {
+      "title": "Note",
+      "text": "Consult your specialist in the spring for proper procedures to open your spa or water heater."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "AT CLOSING"
+        ]
+      },
+      {
+        "name": "1,000 L ",
+        "rows": [
+          "4 L (1 container)"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "8 L (2 containers)"
+        ]
+      }
+    ]
+  },
+  "warning": "The efficiency of SPA ICE AWAY decreases rapidly if the product is diluted.",
+  "sku": "2907390",
+  "related_products": [
+    {
+      "name": "SPA DRAIN ULTRA",
+      "link": "/product/spa-drain-ultra-spa-care/"
+    },
+    {
+      "name": "SPA ROUTINE KIT",
+      "link": "/product/spa-routine-kit/"
+    }
+  ]
+}

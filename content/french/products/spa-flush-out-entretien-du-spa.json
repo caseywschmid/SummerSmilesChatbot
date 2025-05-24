@@ -1,0 +1,47 @@
+{
+  "title": "SPA FLUSH OUT",
+  "link": "/fr/produit/spa-flush-out-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA FLUSH OUT est un nettoyant liquide concentré qui permet de déloger les biofilms, la saleté et les dépôts accumulés dans la tuyauterie des spas.",
+  "short_description": "BÉNÉFICE Déloge la saleté et les dépôts de matières organiques accumulés dans la tuyauterie des spas Prévient l’accumulation des résidus qui contribuent à l’obstruction des jets FORMAT 500 mL",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser directement à la surface de l’eau du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "Retirer les filtres et appuie-tête, puis ajuster le niveau d’eau au besoin. Ajouter SPA FLUSH OUT directement dans l’eau du spa. Faire fonctionner les jets et les chutes d’eau à pleine capacité pendant 2 à 3 cycles complets afin de nettoyer en profondeur la tuyauterie du spa. Si une quantité excessive de mousse apparaît, fermer les jets. Une fois la mousse disparue, recommencer le cycle. Vider le spa, bien rincer avec de l’eau et essuyer les surfaces à l’aide d’un chiffon propre. Remplir le spa, puis replacer les filtres et appuie-tête."
+    },
+    {
+      "title": "Remarques",
+      "text": "Utiliser ce produit lors de l’installation d’un nouveau spa ou avant chaque vidange d’eau."
+    }
+  ],
+  "dosage": {
+    "specifications": "Chaque bouteille traite jusqu’à 2 000 L d’eau.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "Jusqu’à 2 000 L",
+        "rows": [
+          "500 ml"
+        ]
+      }
+    ]
+  },
+  "warning": "Aucune baignade n’est permise avant la vidange complète de l’eau du spa contenant le produit.",
+  "sku": "2907515",
+  "related_products": [
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/fr/produit/spa-stain-out-entretien-du-spa/"
+    }
+  ]
+}

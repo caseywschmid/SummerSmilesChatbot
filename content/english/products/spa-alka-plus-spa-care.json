@@ -1,0 +1,61 @@
+{
+  "title": "SPA ALKA+",
+  "link": "/product/spa-alka-plus-spa-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "SPA ALKA + prevents fluctuations in pH and helps to keep spa water perfectly balanced to optimize the efficiency of sanitizers. Maintaining balanced alkalinity will also improve bather comfort and protect spa equipment.",
+  "short_description": "BENEFITS Helps maintain a balanced pH Improves bather comfort FORMAT 1 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels ",
+      "text": "The recommended alkalinity level is 80 to 120 ppm for chlorine sanitizers and 100 to 150 ppm for bromine sanitizers. Check alkalinity levels every two weeks with a test kit and adjust as needed."
+    },
+    {
+      "title": "Application method",
+      "text": "Sprinkle SPA ALKA + over the surface of the spa water."
+    },
+    {
+      "title": "Instructions",
+      "text": "Adjust alkalinity level as needed according to application method and recommended dosage. Wait 20 minutes before bathing."
+    }
+  ],
+  "dosage": {
+    "specifications": "To increase total alkalinity by 10 ppm: Add 16 g of SPA ALKA + per 1,000 L of spa water.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "TO INCREASE ALKALINITY BY 10 ppm"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "16 g"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "24 g"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the spa.",
+  "sku": "2907980",
+  "related_products": [
+    {
+      "name": "SPA <span class=\"ph-text\">pH+</span>",
+      "link": "/product/spa-ph-plus-spa-care/"
+    },
+    {
+      "name": "SPA <span class=\"ph-text\">pH-</span>",
+      "link": "/product/spa-ph-minus-spa-care/"
+    },
+    {
+      "name": "SPA ALKA-",
+      "link": "/product/spa-alka-minus-spa-care/"
+    }
+  ]
+}

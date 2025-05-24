@@ -1,0 +1,67 @@
+{
+  "title": "CHLOR (granules)",
+  "link": "/product/chlor-granules-pool-care/",
+  "lang": "en",
+  "date": "2023-03-20",
+  "long_description": "CHLOR is a non-stabilized chlorine sanitizer for pool water. Its chlorine-based formula disinfects water by efficiently destroying bacteria and algae. CHLOR is not stabilized and must be used in combination with STAB to withstand the sun’s ultraviolet rays.",
+  "short_description": "BENEFIT Controls bacteria and algae in pool water FORMATS 5 kg, 10 kg and 18 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "Maintain proper daily levels as determined by testing kit. Free available chlorine: 1.0 – 3.0 ppm pH: 7.2 – 7.8 Total alkalinity: 80 – 120 ppm Calcium hardness: 200 – 300 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "To minimize bleaching, predissolve required amount of CHLOR in a plastic pail with concentration not exceeding 1 kg per 10,000 L of pool water. Always add chemical to water, NEVER water to chemical. Pour resulting slurry directly into pool water."
+    },
+    {
+      "title": "Note",
+      "text": "Hot weather, heavy pool usage and rain may require higher usage rates to maintain proper chlorine residuals. For outdoor pools, chlorine residuals can be protected from destruction by sun’s rays by the addition of STAB."
+    }
+  ],
+  "dosage": {
+    "specifications": "Initially, superchlorinate pool water by adding 150 g of CHLOR per 10,000 L of pool water. For best results, superchlorinate at dusk. Maintain proper chlorine residual by pouring around the pool, directly on the surface of water, 30 g of CHLOR per 10,000 L of pool water, daily or as needed. Superchlorinate weekly with 150 g of CHLOR per 10,000 L of pool water when average daily temperature is between 25°C and 32°C. Otherwise, superchlorinate every other week. For visible algae, superchlorinate using 350 g of CHLOR per 10,000 L of pool water. Heavy algae infestation may require dosages up to 500 g per 10,000 L of pool water. Vacuum pool when dead algae settle.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (daily)",
+          "SUPERCHLORINATION",
+          "VISIBLE ALGAE PROBLEM"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "120 g",
+          "600 g",
+          "1.4 kg"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "240 g",
+          "1.2 kg",
+          "2.8 kg"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "3007200",
+  "related_products": [
+    {
+      "name": "CHLOR LIQUID",
+      "link": "/product/chlor-liquid-pool-care/"
+    },
+    {
+      "name": "CHLOR ULTRA (1 inch)",
+      "link": "/product/chlor-ultra-1-inch-pool-care/"
+    },
+    {
+      "name": "Duo Z Chlor",
+      "link": "/product/duo-z-chlor/"
+    }
+  ]
+}

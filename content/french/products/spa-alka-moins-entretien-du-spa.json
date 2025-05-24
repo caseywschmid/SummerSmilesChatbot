@@ -1,0 +1,61 @@
+{
+  "title": "SPA ALKA-",
+  "link": "/fr/produit/spa-alka-moins-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "SPA ALKA – réduit l’alcalinité et le pH dans l’eau des spas. Sa formule liquide est spécialement conçue pour les spas et permet une dissolution immédiate et une action rapide sans laisser de dépôts.",
+  "short_description": "BÉNÉFICES Formule liquide concentrée à effet rapide Améliore le confort des baigneurs FORMAT 1 L",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs appropriées : pH : 7,2 – 7,8 Alcalinité totale : 80 – 120 ppm Vérifier fréquemment l’alcalinité à l’aide d’une trousse d’analyse et procéder aux ajustements nécessaires."
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Verser SPA ALKA – directement à la surface de l’eau du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter le produit au besoin selon la méthode d’application et le dosage recommandé. Attendre 15 minutes et vérifier à nouveau l’alcalinité et le pH. Répéter l’opération jusqu’à ce que les teneurs soient aux valeurs appropriées. Attendre 10 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Lorsque l’analyse indique des valeurs supérieures à celles recommandées, ajouter 60 mL de SPA ALKA – par 1 000 L d’eau de spa pour diminuer l’alcalinité d’environ 14 ppm et le pH d’environ 0,4.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "POUR RÉDUIRE L’ALCALINITÉ DE 14 ppm ET LE pH DE 0.4 ppm"
+        ]
+      },
+      {
+        "name": "1 000 L ",
+        "rows": [
+          "60 mL"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "90 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "Le spa doit être en fonction lors de l’ajout de SPA ALKA -. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907981",
+  "related_products": [
+    {
+      "name": "SPA <span class=\"ph-text\">pH+</span>",
+      "link": "/fr/produit/spa-ph-plus-entretien-du-spa/"
+    },
+    {
+      "name": "SPA <span class=\"ph-text\">pH-</span>",
+      "link": "/fr/produit/spa-ph-moins-entretien-du-spa/"
+    },
+    {
+      "name": "SPA ALKA+",
+      "link": "/fr/produit/spa-alka-plus-entretien-du-spa/"
+    }
+  ]
+}

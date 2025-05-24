@@ -1,0 +1,65 @@
+{
+  "title": "SPA BROMA ULTRA",
+  "link": "/product/spa-broma-ultra-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA BROMA ULTRA is an easy-to-use spa sanitizer that comes in tablet format to simplify dosing. The brominating tablets efficiently sanitize and disinfect water while also eliminating organic waste such as perspiration, body oils and cosmetics which tend to cloud water. Its odourless bromine formula works well in hot water, making it ideal for use in spas. It’s also gentler to eyes and skin than chlorine-based sanitizers. A great option for people with allergies or sensitive skin.",
+  "short_description": "BENEFIT Brominating tablets Controls bacteria and algae in spa water No chlorine odour FORMAT 1.5 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels ",
+      "text": "Maintain recommended daily levels as determined by testing kit. Free available bromine: 3.0 – 5.0 ppm pH: 7.2 – 7.8 Total alkalinity: 100 – 120 ppm Calcium hardness: 150 – 200 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "If using an automatic feeding device, fill the chamber(s) with tablets and adjust flow rate according to manufacturer’s recommendations to maintain proper bromine residual. Adding tablets to the spa skimmer is an alternative bromine feed method."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add SPA BROMA ULTRA according to the chosen application method. Maintain circulation for at least 30 minutes. Wait 5 minutes before bathing."
+    },
+    {
+      "title": "Note",
+      "text": "Heavy spa usage and higher temperatures may require higher usage rates to maintain proper bromine residuals. Periodic superchlorination of spa water is recommended. Follow label instructions of the superchlorination product being employed. Persistent foam formation and turbid or malodorous water may be indicators of inadequate sanitizer levels. To correct such conditions, superchlorinate spa water by adding superchlorination product. Maintain circulation at least 30 minutes and wait 4 hours before using. DO NOT contaminate irrigation or drinking water supplies or aquatic habitats by cleaning of equipment or disposal of wastes."
+    }
+  ],
+  "dosage": {
+    "specifications": "Weekly usage (routine) should approximate 20 g of SPA BROMA ULTRA per 1,000 L of spa water.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (weekly)"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "1 tablet"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "2 tablets"
+        ]
+      }
+    ]
+  },
+  "warning": "Direct tablet contact may cause bleaching of vinyl, acrylic or synthetic spa surfaces. Automatic feeding devices employing these tablets must be free from other spa sanitizers to avoid the probability of an explosion. DO NOT apply when swimmers are in the spa.",
+  "sku": "2907055",
+  "related_products": [
+    {
+      "name": "SPA CHLOR ULTRA",
+      "link": "/product/spa-chlor-ultra-spa-care/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA 1″",
+      "link": "/product/spa-chlor-ultra-1-inch-spa-care/"
+    },
+    {
+      "name": "SPA SHOK ULTRA",
+      "link": "/product/spa-shok-ultra-spa-care/"
+    }
+  ]
+}

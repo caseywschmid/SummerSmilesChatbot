@@ -1,0 +1,9 @@
+###
+POST http://127.0.0.1:8000/chat
+Content-Type: application/json
+
+{
+"user_input": "Tell me more about ALL OUT ULTRA 4 in 1",
+"language": "en",
+"previous_response_id": "resp_6830b2cd896c81989c1f2e83f34612ae011b71a535f87d24"
+}

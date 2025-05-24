@@ -1,0 +1,38 @@
+{
+  "title": "SPA DRAIN ULTRA",
+  "link": "/fr/produit/spa-drain-ultra-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA DRAIN ULTRA est une trousse de nettoyage et détartrage pour la tuyauterie des spas. Elle comprend trois produits numérotés à appliquer dans le spa selon des étapes faciles à suivre.",
+  "short_description": "BÉNÉFICES Élimine les dépôts de matières organiques Déloge et dissout les dépôts de calcium accumulés dans la tuyauterie",
+  "characteristics": [
+    {
+      "title": "Contenu de la trousse",
+      "text": "1 x No. 1 | 170 g 1 x No. 2 | 700 g 1 x No. 3 | 340 g"
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer le contenu des produits à la surface de l’eau du spa en suivant les instructions."
+    },
+    {
+      "title": "Instructions",
+      "text": "Retirer les appuie-têtes (les cartouches peuvent rester à l’intérieur durant le traitement). Saupoudrer le contenu entier du sachet No. 1, suivi du produit No. 2. Faire fonctionner le spa durant 4 heures en activant les pompes. Après le temps d’attente de 4 heures, ajouter le contenu du produit No. 3 et faire fonctionner le spa en activant les pompes durant 15 minutes. Vidanger le spa. Rincer les cartouches et remplir avec de l’eau fraîche."
+    }
+  ],
+  "dosage": {
+    "specifications": "Une trousse traite jusqu’à 2 000 L d’eau de spa.",
+    "columns": []
+  },
+  "warning": "",
+  "sku": "2907440",
+  "related_products": [
+    {
+      "name": "SPA ICE AWAY",
+      "link": "/fr/produit/spa-ice-away-entretien-du-spa/"
+    },
+    {
+      "name": "TROUSSE SPA ROUTINE",
+      "link": "/fr/produit/trousse-spa-routine-entretien-du-spa/"
+    }
+  ]
+}

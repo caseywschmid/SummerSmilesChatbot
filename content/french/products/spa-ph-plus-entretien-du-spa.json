@@ -1,0 +1,61 @@
+{
+  "title": "SPA pH+",
+  "link": "/fr/produit/spa-ph-plus-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "SPA pH + aide à augmenter le pH. Sa formule sous forme de gel concentré est inodore et spécialement conçue pour les spas. Le gel se dissout et agit rapidement dans l’eau chaude, et ce, sans laisser de dépôts pour le confort des baigneurs.",
+  "short_description": "BÉNÉFICES Formule en gel concentrée à effet rapide Améliore le confort des baigneurs FORMAT 900 mL",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs appropriées : pH : 7,2 – 7,8 Alcalinité totale : 80 – 120 ppm"
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Verser SPA pH + directement à la surface de l’eau du spa."
+    },
+    {
+      "title": "Avertissement",
+      "text": "Le spa doit être en fonction lors de l’ajout de SPA pH +. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa."
+    }
+  ],
+  "dosage": {
+    "specifications": "Lorsque l’analyse indique des valeurs de pH inférieures à 7,2, ajouter 20 mL de SPA pH + par 1 000 L d’eau de spa pour augmenter le pH d’environ 0,4.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "POUR AUGMENTER LE pH DE 0.4"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "20 mL"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "30 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "Ajouter SPA pH + selon la méthode d’application et le dosage recommandé. Attendre 15 minutes et vérifier à nouveau le pH. Répéter l’opération jusqu’à ce que les teneurs soient aux valeurs appropriées. Attendre 10 minutes avant la baignade.",
+  "sku": "2907192",
+  "related_products": [
+    {
+      "name": "SPA <span class=\"ph-text\">pH-</span>",
+      "link": "/fr/produit/spa-ph-moins-entretien-du-spa/"
+    },
+    {
+      "name": "SPA ALKA+",
+      "link": "/fr/produit/spa-alka-plus-entretien-du-spa/"
+    },
+    {
+      "name": "SPA ALKA-",
+      "link": "/fr/produit/spa-alka-moins-entretien-du-spa/"
+    }
+  ]
+}

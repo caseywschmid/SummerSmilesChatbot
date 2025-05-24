@@ -1,0 +1,56 @@
+{
+  "title": "SPA PEROXY SHOK",
+  "link": "/fr/produit/spa-peroxy-shok-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA PEROXY SHOK est un traitement choc à base de peroxyde d’hydrogène à 29 %. Très performant, il élimine les déchets organiques causés par la transpiration, les savons ou toutes autres matières organiques. De plus, son utilisation régulière permet de réduire la consommation d’assainissant. II est important de bien suivre le mode d’emploi du produit pour assurer un fonctionnement optimal. Sa formule stabilisée lui permet de demeurer actif plus longtemps, prolongeant ainsi son efficacité. Pour une action optimale, SPA PEROXY SHOK doit être utilisé en combinaison avec SPA PEROXY MAX.",
+  "short_description": "BÉNÉFICE Détruit les déchets organiques FORMATS 4 L et 20 L",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs appropriées : Chlore libre disponible : 3 – 5 ppm pH : 7 Alcalinité totale : 60 – 80 ppm Dureté calcique : 100 – 200 ppm"
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Verser SPA PEROXY SHOK directement dans l’eau du spa vis-à-vis le retour d’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "S’assurer que les cartouches de filtration soient propres et rincées avant de faire le traitement. Ajuster les paramètres selon les valeurs ci-haut mentionnées. Attendre 24 heures avant l’ajout du SPA PEROXY SHOK. Ajouter SPA PEROXY SHOK selon la méthode d’application et le dosage recommandé. Vérifier et ajuster les paramètres au besoin. Attendre 30 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "À l’ouverture du spa, verser 600 mL de SPA PEROXY SHOK par 1 000 L d’eau et démarrer la filtration. Pour un traitement hebdomadaire, ajouter 350 mL de SPA PEROXY SHOK par 1 000 L d’eau chaque semaine pour maintenir une eau propre et limpide.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "OUVERTURE",
+          "DOSAGE DE ROUTINE (hebdomadaire)"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "600 mL",
+          "350 mL"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "900 mL",
+          "525 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "2907265",
+  "related_products": [
+    {
+      "name": "SPA PEROXY MAX",
+      "link": "/fr/produit/spa-peroxy-max-entretien-du-spa/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "SPA STAIN OUT",
+  "link": "/product/spa-stain-out-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA STAIN OUT is a sequestrant that is mainly used to remove stains caused by metals such as manganese, iron and copper from all types of spa coatings. SPA STAIN OUT also helps to correct water coloured by these metals.",
+  "short_description": "BENEFITS Removes metal stains from all types of spa coatings Corrects coloured water due to manganese, iron or copper from any water sources Phosphate-free FORMAT 1.2 kg",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Sprinkle SPA STAIN OUT directly over the surface of spa water."
+    },
+    {
+      "title": "Instructions",
+      "text": "Adjust pH to between 6.8 and 7.2 and let chlorine level drop below 2 ppm. Add SPA STAIN OUT according to the application method and recommended dosage. Circulate water continuously for 24 hours. After 24 hours, adjust pH to between 7.2 and 7.8 and alkalinity to between 80 and 120 ppm. After 72 hours, add chlorine. Wait 30 minutes before bathing, depending on the situation."
+    }
+  ],
+  "dosage": {
+    "specifications": "For coloured water: Add 15 g of SPA STAIN OUT per 1,000 L of spa water. For stain removal: Slowly add water to 15 g of SPA STAIN OUT to form a paste. Apply paste to spa walls or wherever stains are present. Where stains are most prevalent, use a brush to apply the paste. For stubborn stains: Apply product a second time.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "COLOURED WATER",
+          "STAINS ON SURFACES"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "15 g",
+          "Form a paste with 15 g of product"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "25 g",
+          "Form a paste with 15 g of product"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the spa.",
+  "sku": "2907335",
+  "related_products": [
+    {
+      "name": "SPA CLARITA",
+      "link": "/product/spa-clarita-spa-care/"
+    },
+    {
+      "name": "SPA FLUSH OUT",
+      "link": "/product/spa-flush-out-spa-care/"
+    },
+    {
+      "name": "SPA SOFT",
+      "link": "/product/spa-soft-spa-care/"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Klean Cell",
+  "link": "/fr/produit/klean-cell-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "KLEAN CELL est formulé pour le nettoyage de la cellule du générateur de chlore au sel sans endommager l’équipement. KLEAN CELL accroît la conductivité et la performance de la cellule en éliminant les accumulations de tartre.",
+  "short_description": "BÉNÉFICE Améliore la performance des générateurs de chlore au sel en délogeant le tartre et le calcium accumulés FORMATS 1,25 L et 4 L",
+  "characteristics": [
+    {
+      "title": "Instructions",
+      "text": "Retirer la cellule selon les instructions du manufacturier. Rincer la cellule à l’eau pour enlever l’excédent de débris. Déposer la cellule dans un seau de 10 à 20 litres d’eau, en la tenant droite à la verticale, pour protéger les surfaces environnantes. Remplir la cellule avec le produit jusqu’à ce qu’elle soit recouverte de la solution de KLEAN CELL. Laisser agir de 20 à 30 minutes et vider la solution de la cellule. Rincer immédiatement la cellule à l’eau propre en prenant soin de récupérer l’eau de rinçage dans le sceau. Réinstaller la cellule selon les instructions du manufacturier. Remplir le seau contenant l’eau de rinçage à capacité. Disposer de l’eau de rinçage dans le drain."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Le produit peut endommager le béton, le gazon ou la pelouse.",
+  "sku": "3007423",
+  "related_products": [
+    {
+      "name": "KLEAN FILTER",
+      "link": "/fr/produit/klean-filter-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN SURFACE",
+      "link": "/fr/produit/klean-surface-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN SURFACE ULTRA",
+      "link": "/fr/produit/klean-surface-ultra-entretien-de-la-piscine/"
+    }
+  ]
+}

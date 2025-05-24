@@ -1,0 +1,57 @@
+{
+  "title": "ICE AWAY ULTRA",
+  "link": "/product/ice-away-ultra-pool-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "ICE AWAY ULTRA protects and lubricates pool pipes and equipment such as bottom drain, seals and heat exchanger for pool heat pumps, from swelling, bursting or breaking due to freezing down to -51°C.",
+  "short_description": "BENEFITS Protects pipes against freezing down to -51°C Prevents pipes from drying out by lubricating them FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour the undiluted ICE AWAY ULTRA into the pool piping through the skimmer and return lines."
+    },
+    {
+      "title": "Instructions",
+      "text": "After lowering or draining the pool water, disconnect the pump and filter, and add ICE AWAY ULTRA according to the application method and recommended dosage. Continue adding ICE AWAY ULTRA until the coloured antifreeze pours out of the return outlets. Your return lines are now ready to be plugged for winterizing. Be sure to treat all lines and equipment."
+    }
+  ],
+  "dosage": {
+    "specifications": "The suggested dosage is for information purposes only; the actual amount of ICE AWAY ULTRA needed will depend on how your pool piping is installed. Continue adding the product until the coloured antifreeze pours out of the return outlets.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "AT CLOSING"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "4 L (1 container)"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "8 L (2 containers)"
+        ]
+      }
+    ]
+  },
+  "warning": "Drain all water from pool equipment and piping (except for bottom drains). It is important to get as much water as possible out of pool lines and equipment. No need to drain ICE AWAY ULTRA from pool pipes and equipment in the spring; the antifreeze is compatible with pool water.",
+  "sku": "3007380",
+  "related_products": [
+    {
+      "name": "CORRECT KIT",
+      "link": "/product/correct-kit-pool-care/"
+    },
+    {
+      "name": "HIBERNA",
+      "link": "/product/hiberna-pool-care/"
+    },
+    {
+      "name": "OPENING KIT",
+      "link": "/product/opening-kit-pool-care/"
+    }
+  ]
+}

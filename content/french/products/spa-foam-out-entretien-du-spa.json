@@ -1,0 +1,61 @@
+{
+  "title": "SPA FOAM OUT",
+  "link": "/fr/produit/spa-foam-out-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA FOAM OUT élimine la mousse existante dans l’eau du spa et en prévient l’apparition. Il est spécialement conçu pour être utilisé en eau chaude et aérée. Un résultat en quelques secondes permet aux baigneurs de profiter du spa immédiatement.",
+  "short_description": "BÉNÉFICE Agit rapidement pour éliminer la mousse de l’eau des spas FORMAT 500 mL",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser SPA FOAM OUT directement à la surface de l’eau du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter SPA FOAM OUT selon la méthode d’application et le dosage recommandé. Laisser agir environ 10 minutes et répéter le traitement si la mousse persiste. Attendre 5 minutes avant la baignade."
+    },
+    {
+      "title": "Remarques",
+      "text": "Cette solution peut être utilisée aussi souvent que nécessaire pour éviter la formation de mousse."
+    }
+  ],
+  "dosage": {
+    "specifications": "Ajouter 10 mL de SPA FOAM OUT par 1 000 L d’eau de spa. Utiliser une fois par semaine pour un entretien régulier.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE HEBDOMADAIRE"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "10 ml"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "15 ml"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit quand il y a des baigneurs dans le spa. Bien agiter le produit avant l’utilisation. Le spa doit être en fonction lors de l’ajout de SPA FOAM OUT.",
+  "sku": "2907405",
+  "related_products": [
+    {
+      "name": "SPA CLARITA",
+      "link": "/fr/produit/spa-clarita-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SOFT",
+      "link": "/fr/produit/spa-soft-entretien-du-spa/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/fr/produit/spa-stain-out-entretien-du-spa/"
+    }
+  ]
+}

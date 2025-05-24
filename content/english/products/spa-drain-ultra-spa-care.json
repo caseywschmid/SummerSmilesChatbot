@@ -1,0 +1,38 @@
+{
+  "title": "SPA DRAIN ULTRA",
+  "link": "/product/spa-drain-ultra-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA DRAIN ULTRA is a spa pipe cleaner and descaler kit. It contains 3 numbered products to be added to the spa in easy steps.",
+  "short_description": "BENEFITS Eliminates organic matter deposits Removes and dissolves calcium build-ups in pipes",
+  "characteristics": [
+    {
+      "title": "Contents of the kit",
+      "text": "1 x No. 1 | 170 g 1 x No. 2 | 700 g 1 x No. 3 | 340 g"
+    },
+    {
+      "title": "Application method",
+      "text": "Sprinkle the contents of the products on the surface of the spa water according to the instructions."
+    },
+    {
+      "title": "Instructions",
+      "text": "Remove headrests (cartridges can remain in the spa during the process). Sprinkle the entire content of No. 1 pouch, followed by No. 2 product. Run the spa pumps for 4 hours. After the 4-hour wait, pour the content of No. 3 product and activate the pumps for 15 minutes. Drain. Rinse the cartridges and refill with fresh water."
+    }
+  ],
+  "dosage": {
+    "specifications": "One kit treats up to 2,000 L of spa water.",
+    "columns": []
+  },
+  "warning": "Always keep the spa cover open during the cleaning process. DO NOT apply the product when people are in the spa.",
+  "sku": "2907440",
+  "related_products": [
+    {
+      "name": "SPA ICE AWAY",
+      "link": "/product/spa-ice-away-spa-care/"
+    },
+    {
+      "name": "SPA ROUTINE KIT",
+      "link": "/product/spa-routine-kit/"
+    }
+  ]
+}

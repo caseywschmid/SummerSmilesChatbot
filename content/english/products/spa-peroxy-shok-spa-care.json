@@ -1,0 +1,56 @@
+{
+  "title": "SPA PEROXY SHOK",
+  "link": "/product/spa-peroxy-shok-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA PEROXY SHOK is an ultra-powerful shock treatment containing 29% hydrogen peroxide. It quickly eliminates organic waste caused by perspiration, soap and other organic materials. Its stabilized formula stays active longer, prolonging its efficacy. Regular use of SPA PEROXY SHOK reduces the amount of sanitizer needed. For best results, always follow the instructions on the label. For optimal results, SPA PEROXY SHOK should be used in combination with SPA PEROXY MAX.",
+  "short_description": "BENEFIT Eliminates organic waste FORMATS 4 L – 20 L",
+  "characteristics": [
+    {
+      "title": "Recommended levels ",
+      "text": "Check parameters daily to ensure they are at the proper levels: Free available chlorine: 3 – 5 ppm pH: 7 Total alkalinity: 60 – 80 ppm Calcium hardness: 100 – 200 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "Pour SPA PEROXY SHOK directly into the spa in front of the water return outlet."
+    },
+    {
+      "title": "Instructions",
+      "text": "Make sure the cartridge filters have been cleaned and rinsed before the treatment. Adjust water parameters according to the values listed above. Wait 24 hours before using SPA PEROXY SHOK. Add SPA PEROXY SHOK according to the application method and recommended dosage. Check water parameters; re-adjust as needed. Wait 30 minutes before bathing."
+    }
+  ],
+  "dosage": {
+    "specifications": "When opening spa: Add 600 mL of SPA PEROXY SHOK per 1,000 L of water and start the filtration system. Weekly treatment: Add 350 mL of SPA PEROXY SHOK per 1,000 L of water to keep water crystal clear.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "OPENING",
+          "ROUTINE DOSAGE (weekly)"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "600 mL",
+          "350 mL"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "900 mL",
+          "525 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when bathers are in the spa. When using SPA PEROXY SHOK, always use a liquid product to adjust the water’s pH and alkalinity levels – never use a gel or solid product.",
+  "sku": "2907265",
+  "related_products": [
+    {
+      "name": "SPA PEROXY MAX",
+      "link": "/product/spa-peroxy-max-spa-care/"
+    }
+  ]
+}

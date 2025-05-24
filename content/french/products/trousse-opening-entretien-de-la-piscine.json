@@ -1,0 +1,57 @@
+{
+  "title": "Trousse Opening",
+  "link": "/fr/produit/trousse-opening-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-18",
+  "long_description": "La TROUSSE OPENING Summer Smiles MC a été conçue pour vous permettre d’effectuer facilement et efficacement l’ouverture de votre piscine et d’ainsi débuter la saison de baignade du bon pied. Seulement 24 heures après l’application des produits, vous retrouverez une eau claire prête à être balancée.",
+  "short_description": "VOTRE TROUSSE CONTIENT 1 x 500 mL de All Out Ultra 4 en 1 (bouteille) 1 x 125 g de Clarita (boîte de pastilles) 1 x 1 kg de Chlor Ultra (bouteille) BÉNÉFICES Procure une eau claire Agit rapidement en 24 heures Simple d’utilisation FORMAT 1,63 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d'application",
+      "text": "ALL OUT ULTRA 4 EN 1: Verser le produit à la surface de l’eau, tout le tour de la piscine. CHLOR ULTRA: Saupoudrer le contenu de la bouteille directement à la surface de l’eau, en faisant tout le tour de la piscine. CLARITA: Déposer les pastilles directement dans le panier de l’écumoire ou de la pompe."
+    },
+    {
+      "title": "Instructions",
+      "text": "Afin d’obtenir un résultat optimal, il est impératif de suivre les étapes suivantes: Enlever manuellement la totalité des feuilles et des débris déposés dans l’eau. Remonter le niveau d’eau jusqu’au milieu de l’écumoire. Placer le filtre à la position « drain » ou « waste », puis passer la balayeuse afin d’enlever tous les débris restants. Faire un lavage à contre-courant (« backwash »). Mettre le filtre en position « Recirculer » (ou « Whirlpool »). Ajouter la totalité du ALL OUT ULTRA 4 EN 1 selon la méthode d’application. Laisser le filtre à la position « Recirculer » (ou « Whirlpool ») pendant six (6) heures afin de bien disperser le produit. Ajouter la totalité du CHLOR ULTRA MC selon la méthode d’application.. Ajouter la totalité du CLARITA selon la méthode d’application. Remettre le système à la position « Filtration » et laisser filtrer pour un minimum de 24 heures. Faire une analyse de l’eau pour s’assurer que les paramètres sont bien ajustés avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "80 000 L et moins",
+        "rows": [
+          "1 trousse"
+        ]
+      },
+      {
+        "name": "Plus de 80 000 L",
+        "rows": [
+          "2 trousses"
+        ]
+      }
+    ]
+  },
+  "warning": "Le mode d’emploi suivant remplace ceux sur chacun des produits inclus dans cette trousse. Bien tenir compte des avertissements sur chacune des étiquettes des produits. Compatible avec les systèmes au sel.",
+  "sku": "3007463",
+  "related_products": [
+    {
+      "name": "HIBERNA",
+      "link": "/fr/produit/hiberna-entretien-de-la-piscine/"
+    },
+    {
+      "name": "ICE AWAY",
+      "link": "/fr/produit/ice-away-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE CLOSING",
+      "link": "/fr/produit/trousse-closing-entretien-de-la-piscine/"
+    }
+  ]
+}

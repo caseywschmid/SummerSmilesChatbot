@@ -1,0 +1,60 @@
+{
+  "title": "SPA SOFT",
+  "link": "/product/spa-soft-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA SOFT is a water softener that improves water quality and bather comfort. It balances the pH of spa water to boost the effectiveness of sanitizers. It also protects spa surfaces from corrosion and is compatible with all types of sanitizer. SPA SOFT increases the solubility of salts in water, leaving water clearer, cleaner and softer to the skin. Its pleasant scent enhances the sense of relaxation.",
+  "short_description": "BENEFITS Leaves skin feeling soft Increases the efficiency of sanitizers Pleasant scent FORMAT 1 kg",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Slowly sprinkle SPA SOFT on the surface of spa water with the pump running."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add SPA SOFT according to the application method and recommended dosage. Wait 10 minutes before bathing."
+    }
+  ],
+  "dosage": {
+    "specifications": "For initial treatment: Add 150 g of SPA SOFT per 1,000 L of spa water. For weekly maintenance: Add 40 g of SPA SOFT per 1,000 L of spa water to maintain proper levels.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "INITIAL DOSAGE",
+          "WEEKLY DOSAGE"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "150 g",
+          "40 g"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "225 g",
+          "60 g"
+        ]
+      }
+    ]
+  },
+  "warning": "To avoid incompatibility with other products, the skimmer must be completely free of other spa chemicals. DO NOT apply the product when people are in the spa.",
+  "sku": "2907047",
+  "related_products": [
+    {
+      "name": "SPA CALCIUM +",
+      "link": "/product/spa-calcium-plus-spa-care/"
+    },
+    {
+      "name": "SPA PHOS OUT ULTRA 2 IN 1",
+      "link": "/product/spa-phos-out-ultra-2-in-1-spa-care/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/product/spa-stain-out-spa-care/"
+    }
+  ]
+}

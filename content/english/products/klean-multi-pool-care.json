@@ -1,0 +1,38 @@
+{
+  "title": "KLEAN MULTI",
+  "link": "/product/klean-multi-pool-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "KLEAN MULTI is a biodegradable cleaner that instantly dissolves all kinds of grease, dirt and water marks on vinyl pool and spa surfaces. Its fast-acting cleaning power makes cleaning quick and easy. KLEAN MULTI can also be used on garden furniture, resin-coated surfaces, pool walls, vinyl-coated metal parts, chrome and vinyl siding.",
+  "short_description": "BENEFIT Biodegradable FORMATS 1 L and 4 L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Spread the product on a cloth, sponge or soft brush."
+    },
+    {
+      "title": "Instructions",
+      "text": "Gently rub the surface until stains disappear. Add a small amount of KLEAN MULTI as needed. Rinse the surface with water. Wipe as needed."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Compatible with salt systems. It is the user’s responsibility of the ensure colours and/or patterns hold onto the cleaned surface. Test the surface by applying KLEAN MULTI using a cloth, sponge or brush on a small area of the surface to be cleaned according to the instructions.",
+  "sku": "3007270",
+  "related_products": [
+    {
+      "name": "KLEAN FILTER",
+      "link": "/product/klean-filter-pool-care/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/product/stain-out-pool-care/"
+    },
+    {
+      "name": "STAIN OUT ULTRA",
+      "link": "/product/stain-out-ultra-pool-care/"
+    }
+  ]
+}

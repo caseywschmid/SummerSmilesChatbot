@@ -1,0 +1,38 @@
+{
+  "title": "Klean Filter",
+  "link": "/product/klean-filter-pool-care/",
+  "lang": "en",
+  "date": "2023-03-16",
+  "long_description": "KLEAN FILTER is a concentrated cleaner that efficiently removes dirt, scale, rust, body oils and cosmetics residue buildup in pool and spa sand or cartridge filters. When used on a regular basis, KLEAN FILTER will improve filtration and prolong the life of the cartridge or sand filter.",
+  "short_description": "BENEFIT Removes dirt and grease buildup in pool and spa cartridge or sand filters FORMATS 1 L and 4 L",
+  "characteristics": [
+    {
+      "title": "Cartridge Filters",
+      "text": "Prepare a solution of 250 mL of KLEAN FILTER per 5 L of water in a bucket. Adjust quantities as needed depending on height of cartridge. Place cartridge upright in the pail, ensuring it is completely covered by the solution. Allow to soak for a minimum of 6 hours. Remove cartridge from solution and rinse immediately with cold tap water. Let cartridge dry, replace in filter and restart filter. 6 HOURS OF SOAKING 1 CARTRIDGE AT A TIME : 250 mL of KLEAN FILTER + 5 L OF WATER"
+    },
+    {
+      "title": "Sand Filters",
+      "text": "Raise the water level to above the skimmer (maximum level). Stop the filter. Ensure skimmer basket is clean and empty. If the filter is located near the skimmer, pour the contents of the bottle directly into the skimmer basket with the filter in the “Filter” position. Start the filter, let run for 5 seconds and then stop the filter. If the filter is located far from the skimmer, pour the contents of the bottle directly into the pump basket, close the lid and run the pump until the colored liquid is gone and the water is clear. Let soak for 8 hours. After 8 hours, change the filter position to “Backwash”, start the pump and let it run for 2 to 5 minutes. Stop the pump, put the filter back to the “Filter” position and restart. 8 HOURS OF SOAKING : 1 L (1 container) of KLEAN FILTER"
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "DO NOT apply when swimmers are in the pool. Compatible with salt systems and spas.",
+  "sku": "3007420",
+  "related_products": [
+    {
+      "name": "KLEAN SURFACE ULTRA",
+      "link": "/product/klean-surface-ultra-pool-care/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/product/stain-out-pool-care/"
+    },
+    {
+      "name": "STAIN OUT ULTRA",
+      "link": "/product/stain-out-ultra-pool-care/"
+    }
+  ]
+}

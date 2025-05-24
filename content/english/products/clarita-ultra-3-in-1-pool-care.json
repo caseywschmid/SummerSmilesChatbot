@@ -1,0 +1,55 @@
+{
+  "title": "CLARITA ULTRA 3 IN 1",
+  "link": "/product/clarita-ultra-3-in-1-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "Clarita Ultra TM 3-in-1 is a prolonged action clarifier that clarifies water, eliminates phosphates and improves filtration. Its gel formula improves filtration and water clarity in just 12 hours.",
+  "short_description": "BENEFITS Clarifies pool water Eliminates phosphates Improves filtration FORMAT 1 x 100 g",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Place CLARITA ULTRA TM 3 IN 1 directly in the skimmer basket."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ensure chlorine and pH levels are correct. Add one cube of CLARITA ULTRA TM 3 IN 1 according to the application method. Check filter pressure and backwash if needed to evacuate waste buildup created by the treatment and lower filter pressure. Run the filter for 24 hours. If needed, add a second cube to further clarify water."
+    },
+    {
+      "title": "Note",
+      "text": "Remove any residue from the water’s surface close to the pool walls."
+    }
+  ],
+  "dosage": {
+    "specifications": "One cube of CLARITA ULTRA TM 3 IN 1 treats up to 120,000 L of pool water.",
+    "columns": [
+      {
+        "name": "EVERY POOL SIZES",
+        "rows": [
+          "DOSAGE (as needed)"
+        ]
+      },
+      {
+        "name": "(up to 80,000 L)",
+        "rows": [
+          "1 cube"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems.",
+  "sku": "3007100",
+  "related_products": [
+    {
+      "name": "CLARITA",
+      "link": "/product/clarita-pool-care/"
+    },
+    {
+      "name": "CLARITA (Tablets)",
+      "link": "/product/clarita-tablets-pool-care/"
+    },
+    {
+      "name": "CORRECT KIT",
+      "link": "/product/correct-kit-pool-care/"
+    }
+  ]
+}

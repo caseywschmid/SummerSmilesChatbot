@@ -1,0 +1,34 @@
+{
+  "title": "KLEAN SURFACE",
+  "link": "/product/klean-surface-pool-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "KLEAN SURFACE is an aqueous solution of 29% hydrochloric acid. It cleans concrete efficiently to improve the adherence of paint work. Effectively eliminates efflorescence salts and calcareous deposits, and can also be used to clean bricks, stones, ceramics and concrete pools. KLEAN SURFACE can also be used to lower pH and total alkalinity in pool water.",
+  "short_description": "BENEFITS Cleans surfaces Effectively eliminates efflorescence salts and calcareous deposit FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Instructions",
+      "text": "Dilute product in water and spread on the surfaces to be treated. Wait for effervescence to disappear and rinse thoroughly with clear water."
+    }
+  ],
+  "dosage": {
+    "specifications": "To clean concrete, dilute 1 part of KLEAN SURFACE with 3 to 5 parts of water.",
+    "columns": []
+  },
+  "warning": "Compatible with salt systems. To dilute, slowly pour acid into water. NEVER pour water into acid. Do not use on stones or bricks covered with silicone.",
+  "sku": "3007000",
+  "related_products": [
+    {
+      "name": "KLEAN FILTER",
+      "link": "/product/klean-filter-pool-care/"
+    },
+    {
+      "name": "KLEAN MULTI",
+      "link": "/product/klean-multi-pool-care/"
+    },
+    {
+      "name": "STAIN OUT ULTRA",
+      "link": "/product/stain-out-ultra-pool-care/"
+    }
+  ]
+}

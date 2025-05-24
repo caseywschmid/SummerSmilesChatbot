@@ -1,0 +1,57 @@
+{
+  "title": "PROTECT CELL ULTRA 3 IN 1",
+  "link": "/product/protect-cell-ultra-3-in-1-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "PROTECT CELL ULTRA 3 IN 1 is designed to prolong the life of salt cells, delay corrosion, leave pool water crystal clear and improve bather comfort with just one yearly application each spring  . PROTECT CELL ULTRA 3 IN 1 also increases the efficiency of salt chlorine generators to improve water quality. Its balanced pH formula will not affect water parameters.",
+  "short_description": "BENEFITS Preserves salt cells and delays corrosion Prolongs the efficiency of sanitizers Leaves skin feeling soft FORMAT 5 kg",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Lightly sprinkle PROTECT CELL ULTRA 3 IN 1 in front of the water return outlet."
+    },
+    {
+      "title": "Instructions",
+      "text": "Must be used once in the spring after the pool opening. Add PROTECT CELL ULTRA 3 IN 1 according to the application method and recommended dosage. Add the required quantity in 2 applications; wait 1 hour between applications. Wait 30 minutes after the second application before using the pool."
+    }
+  ],
+  "dosage": {
+    "specifications": "When opening pool in spring: Add 1.25 kg of PROTECT CELL ULTRA 3 IN 1 per 10,000 L of pool water.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "INITIAL DOSAGE (at opening)"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "5 kg (1 container)"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "10 kg (2 containers)"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT add the product to the skimmer basket. DO NOT apply the product when people are in the pool.",
+  "sku": "3007505",
+  "related_products": [
+    {
+      "name": "METAL OUT",
+      "link": "/product/metal-out-pool-care/"
+    },
+    {
+      "name": "PHOS OUT ULTRA 2 IN 1",
+      "link": "/product/phos-out-ultra-2-in-1-pool-care/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/product/stain-out-pool-care/"
+    }
+  ]
+}

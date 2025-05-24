@@ -1,0 +1,57 @@
+{
+  "title": "PROTECT CELL ULTRA 2 IN 1",
+  "link": "/product/protect-cell-ultra-2-in-1-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "PROTECT CELL ULTRA 2 IN 1 is a specialized product that improves water quality and leaves water crystal clear in pools with a salt chlorine generator. When used in conjunction with PROTECT CELL ULTRA 3 IN 1, it will increase the efficiency of salt chlorine generators, protect cells, delay corrosion and improve swimmer comfort with just once a month application.",
+  "short_description": "BENEFITS Increases the efficiency of salt chlorine generators and delays corrosion Softens water to improve swimmer comfort FORMAT Pouch of 454 g",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Sprinkle the required amount of PROTECT CELL ULTRA 2 IN 1 PROTECT CELL ULTRA 2 IN 1 into the pool in front of the water return outlet."
+    },
+    {
+      "title": "Instructions",
+      "text": "Check the water’s pH after adding PROTECT CELL ULTRA 2 IN 1 and adjust to between 7.2 and 7.8 if necessary. PROTECT CELL ULTRA 2 IN 1 must be used monthly. Wait 30 minutes before using the pool."
+    }
+  ],
+  "dosage": {
+    "specifications": "Add one 454 g pouch of PROTECT CELL ULTRA 2 IN 1 per 25,000 L of pool water once a month in a single application.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (monthly)"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "2 pouches"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "4 pouches"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product directly in the skimmer basket. DO NOT apply the product when people are in the pool.",
+  "sku": "3007510",
+  "related_products": [
+    {
+      "name": "FOAM OUT",
+      "link": "/product/foam-out-pool-care/"
+    },
+    {
+      "name": "KLEAN CELL",
+      "link": "/product/klean-cell-pool-care/"
+    },
+    {
+      "name": "SOFT",
+      "link": "/product/soft-pool-care/"
+    }
+  ]
+}

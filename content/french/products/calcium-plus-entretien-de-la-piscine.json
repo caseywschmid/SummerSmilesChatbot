@@ -1,0 +1,61 @@
+{
+  "title": "Calcium +",
+  "link": "/fr/produit/calcium-plus-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-20",
+  "long_description": "CALCIUM + aide à obtenir une eau de piscine parfaitement équilibrée et permet d’éviter la corrosion des surfaces de métal. Le maintien d’une dureté calcique équilibrée assure le confort des baigneurs et la protection des équipements de piscine.",
+  "short_description": "BÉNÉFICES Aide à prévenir la corrosion des surfaces de métal Améliore le confort des baigneurs FORMATS 1.8 kg, 4 kg, 8 kg et 20 kg",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "L’eau de la piscine devrait avoir une dureté calcique comprise entre 200 et 300 ppm. Les teneurs sont déterminées à l’aide d’une trousse d’analyse."
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "CALCIUM + doit être dissout dans une chaudière d’eau avant d’être ajouté à l’eau de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Lors de l’ouverture de la piscine, vérifier la dureté calcique à l’aide d’une trousse d’analyse. Procéder à un ajustement au besoin selon la méthode d’application et le dosage recommandé. La baignade est possible tout de suite après l’application du produit."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour augmenter la dureté calcique de 10 ppm, dissoudre dans une chaudière d’eau 130 g de CALCIUM + par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "POUR AUGMENTER LA DURETÉ CALCIQUE DE 10 PPM"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "500 g"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "1 kg"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "300750018",
+  "related_products": [
+    {
+      "name": "STAB",
+      "link": "/fr/produit/stab-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAB ULTRA",
+      "link": "/fr/produit/stab-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "pH-",
+      "link": "/fr/produit/ph-moins-entretien-de-la-piscine/"
+    }
+  ]
+}

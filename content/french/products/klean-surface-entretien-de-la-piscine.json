@@ -1,0 +1,38 @@
+{
+  "title": "KLEAN SURFACE",
+  "link": "/fr/produit/klean-surface-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "KLEAN SURFACE est une solution aqueuse d’acide chlorhydrique à 29 %. Il est efficace pour le nettoyage des surfaces de béton afin d’assurer une meilleure adhérence des peintures, ainsi que pour le nettoyage des briques, des pierres et de la céramique. KLEAN SURFACE permet d’éliminer efficacement les sels d’efflorescence et les dépôts de calcaire. KLEAN SURFACE peut aussi être utilisé pour réduire le niveau de pH et d’alcalinité totale dans les eaux de piscine.",
+  "short_description": "BÉNÉFICES Nettoie les surfaces Élimine efficacement les sels d’efflorescence et les dépôts de calcaire FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Répandre KLEAN SURFACE préalablement dilué dans de l’eau sur les surfaces à traiter."
+    },
+    {
+      "title": "Instructions",
+      "text": "Diluer le produit dans l’eau et répandre sur les surfaces à traiter. Laisser réagir jusqu’à disparition de l’effervescence puis rincer à fond avec de l’eau claire. Laisser sécher."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Compatible avec les systèmes au sel. Pour diluer, verser l’acide lentement dans l’eau. Ne JAMAIS verser l’eau dans l’acide. Ne pas utiliser sur la pierre ou les briques recouvertes de silicone.",
+  "sku": "3007000",
+  "related_products": [
+    {
+      "name": "KLEAN FILTER",
+      "link": "/fr/produit/klean-filter-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN MULTI",
+      "link": "/fr/produit/klean-multi-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAIN OUT ULTRA",
+      "link": "/fr/produit/stain-out-ultra-entretien-de-la-piscine/"
+    }
+  ]
+}

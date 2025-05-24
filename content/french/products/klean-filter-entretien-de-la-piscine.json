@@ -1,0 +1,38 @@
+{
+  "title": "Klean Filter",
+  "link": "/fr/produit/klean-filter-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "KLEAN FILTER est un nettoyant concentré qui déloge efficacement les saletés, le tartre, la rouille, les huiles corporelles et les résidus de cosmétiques qui s’accumulent dans les filtres à sable et à cartouches réutilisables des piscines et spas. L’utilisation périodique de KLEAN FILTER permettra d’améliorer la performance du système de filtration et augmentera la durée d’utilisation de la cartouche ou du sable.",
+  "short_description": "BÉNÉFICE Déloge la saleté et les graisses accumulées dans les filtres à sable et à cartouches des piscines et spas FORMATS 1 L et 4 L",
+  "characteristics": [
+    {
+      "title": "Mode d'emploi - Filtres à cartouches",
+      "text": "Dans une chaudière, diluer 250 mL de KLEAN FILTER par 5 L d’eau, selon la hauteur de la cartouche. Déposer la cartouche dans le seau en la tenant droite jusqu’à ce qu’elle soit recouverte de la solution. Laisser agir ainsi pendant un minimum de 6 heures. Rincer immédiatement la cartouche à l’eau froide du robinet. Laisser sécher la cartouche, remettre au filtreur et remettre en fonction. 6 HEURES DE TREMPAGE 1 CARTOUCHE À LA FOIS : 250 mL de KLEAN FILTER + 5 L D’EAU"
+    },
+    {
+      "title": "Mode d'emploi - Filtres à sable",
+      "text": "Le niveau de l’eau de la piscine doit être au-dessus de l’écumoire (au maximum). Arrêter la pompe et s’assurer que le panier de l’écumoire soit vide et propre. Lorsque le filtre est installé près de l’écumoire, verser le contenu de la bouteille dans le panier de l’écumoire. Actionner la pompe pendant 5 secondes à la position « Filtre » et l’éteindre. Lorsque le filtre est installé loin de l’écumoire, mettre le contenu de la bouteille dans le panier de la pompe et refermer le panier. Actionner la pompe jusqu’à ce que la couleur du produit soit disparue du panier. Laisser tremper 8 heures. Après 8 heures, changer la position du filtre à « Backwash » et l’actionner pour une période de 2 à 5 minutes. Par la suite, arrêter la pompe, remettre le système de filtration à la position « Filtre » et remettre le système en marche. 8 HEURES DE TREMPAGE : 1 L (1 contenant) de KLEAN FILTER"
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "NE PAS appliquer lorsqu’il y a des baigneurs dans la piscine. Compatible avec les systèmes au sel et les spas.",
+  "sku": "3007420",
+  "related_products": [
+    {
+      "name": "KLEAN CELL",
+      "link": "/fr/produit/klean-cell-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN SURFACE",
+      "link": "/fr/produit/klean-surface-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAIN OUT ULTRA",
+      "link": "/fr/produit/stain-out-ultra-entretien-de-la-piscine/"
+    }
+  ]
+}

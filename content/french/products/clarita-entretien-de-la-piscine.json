@@ -1,0 +1,38 @@
+{
+  "title": "CLARITA",
+  "link": "/fr/produit/clarita-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-21",
+  "long_description": "CLARITA MC est un clarifiant concentré à action rapide qui coagule les fines particules en suspension dans l’eau afin d’augmenter l’efficacité de la filtration. Les grosses particules ainsi formées se déposent au fond de la piscine ou sont captées par le système de filtration. Il en résulte une eau claire et étincelante. CLARITA MC n’est pas affecté par le chlore, ne contient pas d’alun et il est efficace dans toutes les conditions de pH, sans modifier le niveau de ce dernier.",
+  "short_description": "BÉNÉFICE Clarifie l’eau de la piscine FORMAT 1 L, 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser CLARITA MC directement à la surface de l’eau, vis-à-vis le retour d’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "CLARITA MC s’emploie lorsque le filtre fonctionne. Ajouter CLARITA MC selon la méthode d’application. Attendre 60 minutes avant la baignade. Faire fonctionner le filtre pendant 8 heures. Laver le filtre à contre-courant si la pression maximum recommandée est atteinte ou rincer les cartouches. Au besoin, nettoyer le fond de la piscine.."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Compatible avec les systèmes au sel. Compatible avec tous les types de filtres NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007080",
+  "related_products": [
+    {
+      "name": "CLARITA (pastilles)",
+      "link": "/fr/produit/clarita-pastilles-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CLARITA ULTRA 3 EN 1",
+      "link": "/fr/produit/clarita-ultra-3-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "PHOS OUT ULTRA 2 EN 1",
+      "link": "/fr/produit/phos-out-ultra-2-en-1-entretien-de-la-piscine/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "STAB ULTRA",
+  "link": "/product/stab-ultra-pool-care/",
+  "lang": "en",
+  "date": "2023-03-20",
+  "long_description": "STAB ULTRA helps to maximize the efficiency of non-stabilized chlorine by preventing chlorine loss due to ultraviolet rays. With STAB ULTRA, chlorine will last 3 to 5 times longer in pool water. Its easy-to-use tablets dissolve slowly for longer-lasting action.",
+  "short_description": "BENEFITS Maintains non-stabilized chlorine in water Dissolves slowly for long-lasting effect FORMATS 1 kg and 4 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "Keep the stabilizer level within the ideal range of 30 to 50 ppm to maintain chlorine residuals. Levels are determined with a stabilizer test kit."
+    },
+    {
+      "title": "Application method",
+      "text": "Place STAB ULTRA in the skimmer basket. Tablets can take up to 72 hours to dissolve completely."
+    },
+    {
+      "title": "Instructions",
+      "text": "Adjust stabilizer level as needed according to the application method and recommended dosage. Pool can be used immediately after adding the product."
+    }
+  ],
+  "dosage": {
+    "specifications": "Add one 200 g tablet of STAB ULTRA per 10,000 L of pool water to increase the stabilizer level by 20 ppm.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "TO INCREASE STABILIZER BY 20 ppm"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "2 tablets"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "4 tablets"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "3007345",
+  "related_products": [
+    {
+      "name": "ALKA +",
+      "link": "/product/alka-plus-pool-care/"
+    },
+    {
+      "name": "CALCIUM +",
+      "link": "/product/calcium-plus-pool-care/"
+    },
+    {
+      "name": "STAB",
+      "link": "/product/stab-pool-care/"
+    }
+  ]
+}

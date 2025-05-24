@@ -1,0 +1,38 @@
+{
+  "title": "ICE AWAY",
+  "link": "/product/ice-away-pool-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "ICE AWAY protects pool pipes and equipment during the winter season from swelling, bursting or breaking due to freezing down to -51°C.",
+  "short_description": "BENEFIT Protects pipes against freezing down to -51°C FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour the undiluted ICE AWAY into the pool piping through the skimmer and return lines."
+    },
+    {
+      "title": "Instructions",
+      "text": "After lowering or draining the pool water, disconnect the pump and filter, and add ICE AWAY according to the application method and recommended dosage. Continue adding ICE AWAY until the coloured antifreeze pours out of the return outlets. Your return lines are now ready to be plugged for winterizing. Be sure to treat all lines and equipment."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Compatible with salt systems. DO NOT use in spas. DO NOT use in car radiators.",
+  "sku": "3007375",
+  "related_products": [
+    {
+      "name": "CORRECT KIT",
+      "link": "/product/correct-kit-pool-care/"
+    },
+    {
+      "name": "ICE AWAY ULTRA",
+      "link": "/product/ice-away-ultra-pool-care/"
+    },
+    {
+      "name": "OPENING KIT",
+      "link": "/product/opening-kit-pool-care/"
+    }
+  ]
+}

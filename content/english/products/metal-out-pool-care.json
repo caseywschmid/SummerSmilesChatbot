@@ -1,0 +1,60 @@
+{
+  "title": "METAL OUT",
+  "link": "/product/metal-out-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "METAL OUT eliminates and prevents metal build-up in pool water and on pool surfaces. Its fully biodegradable formula also makes METAL OUT safer for the environment and will not add phosphates to the water.",
+  "short_description": "BENEFITS Eliminates and controls iron, copper and manganese in pool water Biodegradable FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour METAL OUT in front of the water return outlet."
+    },
+    {
+      "title": "Instructions",
+      "text": "Stop the filtration system and put the filter in Recirculate (or Whirlpool) position. Restart the system. Add METAL OUT according to the application method and recommended dosage. Wait 60 minutes before swimming. Run the filter in the Recirculate (or Whirlpool) position for 6 hours in order to disperse the product. Stop the filtration system and put the filter in Filter position. Shock the pool water according to the label instructions of the product used. If metal levels are very high: Remove residue by vacuuming the pool with the filter in Drain (or Waste) position. Clean the clean the filter by backwashing it, or rinse the cartridges."
+    }
+  ],
+  "dosage": {
+    "specifications": "Add 150 mL of METAL OUT per 10,000 L of pool water. Weekly treatment: To protect pool equipment and increase its life span, add 30 mL of METAL OUT per 10,000 L of pool water.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "INITIAL DOSAGE",
+          "WEEKLY DOSAGE"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "600 mL",
+          "120 mL"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "1.2 L",
+          "240 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems. DO NOT apply the product when swimmers are in the pool. Using METAL OUT with a diatomaceous earth filter is not recommended.",
+  "sku": "3007121",
+  "related_products": [
+    {
+      "name": "ALL OUT ULTRA 4 IN 1",
+      "link": "/product/all-out-ultra-4-in-1-pool-care/"
+    },
+    {
+      "name": "FOAM OUT",
+      "link": "/product/foam-out-pool-care/"
+    },
+    {
+      "name": "SOFT",
+      "link": "/product/soft-pool-care/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "SOFT",
+  "link": "/fr/produit/soft-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-21",
+  "long_description": "SOFT améliore la qualité de l’eau et le confort des baigneurs. Sa formule augmente la solubilité des sels dans l’eau, ce qui rend l’eau encore plus claire et limpide, améliore la sensation de douceur sur la peau, et inhibe la croissance des algues. Il est compatible avec tous les types d’assainissant et sa formule aide à maintenir un pH équilibré.",
+  "short_description": "BÉNÉFICE Procure une sensation de douceur sur la peau FORMAT 4 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer SOFT vis-à-vis le retour d’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "Verser SOFT selon la méthode d’application et le dosage recommandé. Pour le dosage initial, verser la quantité requise en 2 applications, à 1 heure d’intervalle. Attendre 15 minutes, après la deuxième application, avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "En début de saison, pour le traitement initial, ajouter 500 g de SOFT par 10 000 L d’eau de piscine. Chaque mois, ajouter 250 g de SOFT par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE INITIAL (à l’ouveture)",
+          "DOSAGE MENSUEL"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "2 kg",
+          "1 kg"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "4 kg",
+          "2 kg"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine. NE PAS appliquer le produit dans le panier de l’écumoire.",
+  "sku": "3007045",
+  "related_products": [
+    {
+      "name": "CHLOR OUT (liquide)",
+      "link": "/fr/produit/chlor-out-liquide-entretien-de-la-piscine/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 3 EN 1",
+      "link": "/fr/produit/protect-cell-ultra-3-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/fr/produit/stain-out-entretien-de-la-piscine/"
+    }
+  ]
+}

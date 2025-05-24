@@ -1,0 +1,61 @@
+{
+  "title": "DUO Z CHLOR",
+  "link": "/fr/produit/duo-z-chlor/",
+  "lang": "fr",
+  "date": "2023-09-15",
+  "long_description": "NOUVEAU! DUO Z CHLOR est un assainissant formulé à base de deux types de chlore, l’un à dissolution rapide et l’autre à dissolution lente, qui agissent de façon complémentaire pour maintenir une désinfection constante de l’eau. Cette double action permet aussi une meilleure stabilité des paramètres et facilite l’entretien hebdomadaire de l’eau des piscines.",
+  "short_description": "BÉNÉFICE Maintient un niveau de chlore constant dans l’eau par sa dissolution en deux temps Détruit les algues avec une technologie de pointe sous forme d’oxyde de zinc et détruit les bactéries dans l’eau des piscines FORMAT 6 Kg, 12 Kg",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs appropriées; ces teneurs sont déterminées à l’aide d’une trousse d’analyse. Chlore libre disponible :        1,0 – 3,0 ppm pH :        7,2 – 7,8 Alcalinité totale :        100 – 120 ppm Dureté en calcium :        200 – 300 ppm"
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Pour une efficacité maximale, utiliser dans un distributeur flottant ou déposer la ou les pastille(s) dans le panier de l’écumoire."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter le produit une fois par semaine selon la méthode d’application choisie et le dosage recommandé."
+    },
+    {
+      "title": "Remarques",
+      "text": "Par temps chaud, après une pluie ou à la suite d’un usage intensif de la piscine, des doses plus fortes peuvent être nécessaires pour garder les teneurs en chlore résiduel aux valeurs appropriées. Dans ces conditions, ajouter une nouvelle pastille dès que le niveau de chlore libre atteint 1 ppm ou moins. DUO Z CHLOR renferme un stabilisant qui peut s’accumuler dans l’eau de la piscine. Garder la teneur de ce stabilisant dans l’intervalle 30 – 100 ppm en diluant avec de l’eau fraîche. Ce produit est toxique pour les poissons et les organismes aquatiques. NE PAS contaminer les sources d’approvisionnement en eau potable ou en eau d’irrigation ni les habitats aquatiques lors du nettoyage de l’équipement ou de l’élimination des déchets."
+    }
+  ],
+  "dosage": {
+    "specifications": "La quantité hebdomadaire utilisée (dosage de routine) doit être d’environ 75 g de DUO Z CHLOR par 10 000 L d’eau de piscine. Le chlore reste présent dans l’eau même après dissolution complète de la pastille.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "Moins de 40 000 L",
+          "40 000 L à 80 000 L"
+        ]
+      },
+      {
+        "name": "DOSAGE DE ROUTINE (hebdomadaire)",
+        "rows": [
+          "1 pastille",
+          "2 pastilles"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "3007258",
+  "related_products": [
+    {
+      "name": "CHLOR (pastilles)",
+      "link": "/fr/produit/chlor-pastilles-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CHLOR LIQUID",
+      "link": "/fr/produit/chlor-liquid-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CHLOR ULTRA (1 pouce)",
+      "link": "/fr/produit/chlor-ultra-1-pouce-entretien-de-la-piscine/"
+    }
+  ]
+}

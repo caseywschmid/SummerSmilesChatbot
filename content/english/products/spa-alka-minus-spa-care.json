@@ -1,0 +1,61 @@
+{
+  "title": "SPA ALKA-",
+  "link": "/product/spa-alka-minus-spa-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "SPA ALKA – lowers alkalinity and pH in spa water. Its liquid formula is specifically designed for spas. Dissolves immediately for rapid results with no residue.",
+  "short_description": "BENEFITS Fast-acting concentrated liquid formula Improves bather comfort FORMAT 1 L",
+  "characteristics": [
+    {
+      "title": "Recommended levels ",
+      "text": "Maintain recommended daily levels as determined by testing kit: pH: 7.2 – 7.8 Total alkalinity: 80 – 120 ppm Check alkalinity levels regularly with a testing kit and make necessary adjustments."
+    },
+    {
+      "title": "Application method",
+      "text": "Pour SPA ALKA – directly over the surface of spa water."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add product as needed according to the application method and recommended dosage. Wait 15 minutes and retest pH and alkalinity. Repeat treatment until recommended levels are reached. Wait 10 minutes before bathing."
+    }
+  ],
+  "dosage": {
+    "specifications": "When levels exceed recommended values: Add 60 mL of SPA ALKA – per 1,000 L of spa water to decrease alkalinity by around 14 ppm and pH by around 0.4.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "TO DECREASE ALKALINITY BY 14 ppm AND pH BY 0.4 ppm"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "60 mL"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "90 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "Spa must be running before adding SPA ALKA -. DO NOT apply the product when people are in the spa.",
+  "sku": "2907981",
+  "related_products": [
+    {
+      "name": "SPA <span class=\"ph-text\">pH-</span>",
+      "link": "/product/spa-ph-minus-spa-care/"
+    },
+    {
+      "name": "SPA ALKA+",
+      "link": "/product/spa-alka-plus-spa-care/"
+    },
+    {
+      "name": "SPA CALCIUM +",
+      "link": "/product/spa-calcium-plus-spa-care/"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "CLARITA (pastilles)",
+  "link": "/fr/produit/clarita-pastilles-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-21",
+  "long_description": "CLARITA MC est un clarifiant à action rapide pour l’eau brouillée des piscines. L’utilisation de CLARITA MC améliore la capacité de filtration et procure une eau étincelante en seulement 24 heures. Les pastilles CLARITA MC sont faciles et sécuritaires à utiliser. La portion est prédosée de façon à ce que l’utilisateur puisse utiliser l’entièreté de la boîte sans qu’il soit nécessaire de manipuler le produit.",
+  "short_description": "BÉNÉFICE Clarifie l’eau de la piscine en 24 heures FORMAT 5 x 25 g",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Vider l’entièreté du contenu de la boîte directement dans le panier de l’écumoire."
+    },
+    {
+      "title": "Instructions",
+      "text": "S’assurer que le filtre est en position de filtration. Ajuster le pH pour qu’il soit entre 7,2 et 7,8. Ajouter CLARITA MC selon la méthode d’application et le dosage requis. La baignade est possible tout de suite après l’application du produit. Procéder à un lavage à contre-courant après 12 heures de filtration. Répéter l’opération si l’eau reste brouillée."
+    }
+  ],
+  "dosage": {
+    "specifications": "Chaque boîte de 125 g de CLARITA MC traite jusqu’à 80 000 L d’eau de piscine. Ajouter CLARITA MC chaque semaine pour éviter les problèmes d’eau brouillée.",
+    "columns": [
+      {
+        "name": "TOUTES TAILLES DE PISCINE",
+        "rows": [
+          "DOSAGE HEBDOMADAIRE"
+        ]
+      },
+      {
+        "name": "(jusqu’à 80 000 L)",
+        "rows": [
+          "1 boîte de 125 g"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. Une utilisation occasionnelle est recommandée avec les filtres à cartouches ou à terre diatomée.* (une application de 125g, 1 à 3 fois par année)",
+  "sku": "3007103",
+  "related_products": [
+    {
+      "name": "CLARITA",
+      "link": "/fr/produit/clarita-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CLARITA ULTRA 3 EN 1",
+      "link": "/fr/produit/clarita-ultra-3-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE CORRECT",
+      "link": "/fr/produit/trousse-correct-entretien-de-la-piscine/"
+    }
+  ]
+}

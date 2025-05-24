@@ -1,0 +1,47 @@
+{
+  "title": "SPA FLUSH OUT",
+  "link": "/product/spa-flush-out-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA FLUSH OUT is a concentrated liquid cleaner that dislodges biofilms, dirt and residue in spa pipes.",
+  "short_description": "BENEFIT Removes dirt and organic debris from spa plumbing Prevents buildup of residue that can clog jets FORMAT 500 mL",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour directly into spa water."
+    },
+    {
+      "title": "Instructions",
+      "text": "Remove filters and headrests. Adjust water level if necessary. Add SPA FLUSH OUT directly to spa water. Run all jets and water features at high speed for 2 or 3 full cycles to deeply clean all spa pipes. If excessive foaming occurs, turn off jets. Once foaming subsides, restart the cycle. Drain spa completely, rinse with water and wipe surfaces with a clean cloth. Refill spa and replace filters and headrests."
+    },
+    {
+      "title": "Note",
+      "text": "Use this product when installing a new spa or before each water change."
+    }
+  ],
+  "dosage": {
+    "specifications": "Each bottle treats up to 2,000 L of water.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "Up to 2,000 L",
+        "rows": [
+          "500 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "MAY IRRITATE EYES. Do not get in eyes. Do not mix with any other chemical. Keep out of reach of children. Handle with care.",
+  "sku": "2907515",
+  "related_products": [
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/product/spa-stain-out-spa-care/"
+    }
+  ]
+}

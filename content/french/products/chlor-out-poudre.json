@@ -1,0 +1,51 @@
+{
+  "title": "CHLOR OUT (poudre)",
+  "link": "/fr/produit/chlor-out-poudre/",
+  "lang": "fr",
+  "date": "2023-03-21",
+  "long_description": "CHLOR OUT réduit rapidement le taux de chlore dans la piscine afin de permettre aux baigneurs d’en profiter immédiatement. CHLOR OUT ne changera pas les couleurs du vinyle, du ciment et des piscines en fibre de verre.",
+  "short_description": "BÉNÉFICE Agit rapidement FORMAT 25 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer CHLOR OUT directement à la surface de l’eau, en faisant le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter CHLOR OUT selon la méthode d’application et le dosage recommandé. La baignade est possible tout de suite après l’application du produit."
+    }
+  ],
+  "dosage": {
+    "specifications": "Ajouter 15 g de CHLOR OUT par 10 000 L d’eau de piscine pour diminuer le niveau d’assainissant de 1 ppm.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": []
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": []
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": []
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007290",
+  "related_products": [
+    {
+      "name": "PHOS OUT ULTRA 2 EN 1",
+      "link": "/fr/produit/phos-out-ultra-2-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 2 EN 1",
+      "link": "/fr/produit/protect-cell-ultra-2-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 3 EN 1",
+      "link": "/fr/produit/protect-cell-ultra-3-en-1-entretien-de-la-piscine/"
+    }
+  ]
+}

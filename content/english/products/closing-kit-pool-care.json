@@ -1,0 +1,57 @@
+{
+  "title": "Closing Kit",
+  "link": "/product/closing-kit-pool-care/",
+  "lang": "en",
+  "date": "2023-03-18",
+  "long_description": "The Summer Smiles™ CLOSING KIT will ensure your pool is properly closed at the end of the season. This kit will prevent algae growth over the winter and its slow-dissolving products will keep working until the spring to make opening the pool easier next season.",
+  "short_description": "YOUR KIT CONTAINS 1x 500 mL Alg Out 40% / bottle 1x 250 mL Clarita Ultra 2 IN 1 / bottle 1x 1 kg Alka+ / bottle OTHER PRODUCTS NOT INCLUDED IN KIT THAT MAY BE REQUIRED Summer Smiles™ Klean Multi Summer Smiles™ pH+ Summer Smiles™ pH- Summer Smiles™ Ice Away BENEFITS Prevents algae growth during winter Slow-dissolving products keep working until spring FORMAT 1.75 kg",
+  "characteristics": [
+    {
+      "title": "Application Method",
+      "text": "ALG OUT 40%: Pour product directly onto the surface of water while walking all around the pool. ALKA +: Sprinkle product directly onto the surface of water while walking all around the pool. Avoid adding product in one spot to ensure it dissolves properly. CLARITA ULTRA 2 IN 1: Pour product directly onto the surface of water while walking all around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "For optimal results, always follow these steps: Remove the solar cover. Clean the water line and pool surfaces.* Adjust the pH of water to between 7.2 and 7.8 according to the instructions on the product used (pH balancing products sold separately). Remove the ladder, diving board, skimmer basket and skimmer door. Do not remove the screws from the plates. Lower the level of the pool water so that it is 12 to 18 inches below he water return. Blow or draw all the air from the water pipes with three-way valve handle in position 1 to close the skimmer. This position should be at the top towards the skimmer. The use of a wet/dry vacuum is recommended for in-ground pools or underground pipes. Next, block the skimmer as recommended by your pool retailer and cap the return jet with the appropriate threaded or expansion plug. Add the entire contents of ALG OUT 40% according to the application method. Add the entire contents of CLARITA ULTRA 2 IN 1 according to the application method. Add the entire contents of ALKA + according to the application method. Add the undiluted antifreeze to the water pipes via the skimmer. Continue adding until the coloured antifreeze appears at the bottom drain. If using antifreeze for a water heater, pour it in the water inlet. Your pipes and equipment are now ready for the winter. Be sure to treat all connection pipes, jets and equipment. Install the winter cover."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "80,000 L and less",
+        "rows": [
+          "1 Kit"
+        ]
+      },
+      {
+        "name": "More than 80,000 L",
+        "rows": [
+          "2 Kits"
+        ]
+      }
+    ]
+  },
+  "warning": "Drain all pipes to prevent freezing during the winter. These instructions replace those found on the individual products included in this kit. Pay close attention to warnings on product labels. Compatible with salt systems.",
+  "sku": "3007722",
+  "related_products": [
+    {
+      "name": "CORRECT KIT",
+      "link": "/product/correct-kit-pool-care/"
+    },
+    {
+      "name": "ICE AWAY",
+      "link": "/product/ice-away-pool-care/"
+    },
+    {
+      "name": "OPENING KIT",
+      "link": "/product/opening-kit-pool-care/"
+    }
+  ]
+}

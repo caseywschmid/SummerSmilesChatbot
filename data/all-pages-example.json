@@ -1,0 +1,1156 @@
+{
+  "pages": [
+    {
+      "type": "page",
+      "id": 8669,
+      "title": "Staycation",
+      "name": "staycation",
+      "homepage": false,
+      "lang": "en",
+      "link": "/staycation/",
+      "langLinks": {
+        "en": "/staycation/",
+        "fr": "/fr/staycation/"
+      },
+      "contentGroups": [],
+      "footerMenu": {
+        "items": [
+          {
+            "menuId": 16,
+            "lang": "en",
+            "id": 1777,
+            "child_items": [
+              {
+                "menuId": 16,
+                "lang": "en",
+                "id": 2957,
+                "child_items": [],
+                "menu_item_parent": "1777",
+                "title": "Shop Products",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/shop-pool-care-products/"
+              },
+              {
+                "menuId": 16,
+                "lang": "en",
+                "id": 4825,
+                "child_items": [],
+                "menu_item_parent": "1777",
+                "title": "4-Step Pool Care Routine",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/summer-smiles-4-step-pool-care-routine/"
+              }
+            ],
+            "menu_item_parent": "0",
+            "title": "Pool Care",
+            "type": "custom",
+            "important_link": false,
+            "super_category": null,
+            "url": "#pool"
+          },
+          {
+            "menuId": 16,
+            "lang": "en",
+            "id": 1782,
+            "child_items": [
+              {
+                "menuId": 16,
+                "lang": "en",
+                "id": 2958,
+                "child_items": [],
+                "menu_item_parent": "1782",
+                "title": "Shop Products",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/shop-spa-care-products/"
+              },
+              {
+                "menuId": 16,
+                "lang": "en",
+                "id": 4839,
+                "child_items": [],
+                "menu_item_parent": "1782",
+                "title": "3-Step Spa Care Routine",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/3-step-spa-care-routine/"
+              }
+            ],
+            "menu_item_parent": "0",
+            "title": "Spa Care",
+            "type": "custom",
+            "important_link": false,
+            "super_category": null,
+            "url": "#spa"
+          }
+        ],
+        "homepageUrl": "/"
+      },
+      "mainMenu": {
+        "items": [
+          {
+            "menuId": 15,
+            "lang": "en",
+            "id": 8652,
+            "child_items": [],
+            "menu_item_parent": "0",
+            "title": "Promotions",
+            "type": "post_type",
+            "important_link": true,
+            "super_category": null,
+            "url": "/promotions/"
+          },
+          {
+            "menuId": 15,
+            "lang": "en",
+            "id": 5705,
+            "child_items": [],
+            "menu_item_parent": "0",
+            "title": "Pool Products",
+            "type": "post_type",
+            "important_link": false,
+            "super_category": null,
+            "url": "/shop-pool-care-products/"
+          },
+          {
+            "menuId": 15,
+            "lang": "en",
+            "id": 8359,
+            "child_items": [],
+            "menu_item_parent": "0",
+            "title": "Spa Products",
+            "type": "post_type",
+            "important_link": false,
+            "super_category": null,
+            "url": "/shop-spa-care-products/"
+          },
+          {
+            "menuId": 15,
+            "lang": "en",
+            "id": 1772,
+            "child_items": [
+              {
+                "menuId": 15,
+                "lang": "en",
+                "id": 8361,
+                "child_items": [],
+                "menu_item_parent": "1772",
+                "title": "Pools",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/pool-problems-solutions/"
+              },
+              {
+                "menuId": 15,
+                "lang": "en",
+                "id": 8373,
+                "child_items": [],
+                "menu_item_parent": "1772",
+                "title": "Spas",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/spas-problems-and-solutions/"
+              }
+            ],
+            "menu_item_parent": "0",
+            "title": "Problems and Solutions",
+            "type": "custom",
+            "important_link": false,
+            "super_category": null,
+            "url": "#problems"
+          },
+          {
+            "menuId": 15,
+            "lang": "en",
+            "id": 8437,
+            "child_items": [
+              {
+                "menuId": 15,
+                "lang": "en",
+                "id": 8439,
+                "child_items": [],
+                "menu_item_parent": "8437",
+                "title": "Pools",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/summer-smiles-pool-care-tips-and-solutions/"
+              },
+              {
+                "menuId": 15,
+                "lang": "en",
+                "id": 8438,
+                "child_items": [],
+                "menu_item_parent": "8437",
+                "title": "Spas",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/summer-smiles-spa-care-tips-and-solutions/"
+              }
+            ],
+            "menu_item_parent": "0",
+            "title": "Ressources and Tools",
+            "type": "custom",
+            "important_link": false,
+            "super_category": null,
+            "url": "#ressources-and-tools"
+          },
+          {
+            "menuId": 15,
+            "lang": "en",
+            "id": 5413,
+            "child_items": [
+              {
+                "menuId": 15,
+                "lang": "en",
+                "id": 8714,
+                "child_items": [],
+                "menu_item_parent": "5413",
+                "title": "In-Store Water Analysis",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/in-store-water-analysis/"
+              },
+              {
+                "menuId": 15,
+                "lang": "en",
+                "id": 8713,
+                "child_items": [],
+                "menu_item_parent": "5413",
+                "title": "Mobile App",
+                "type": "post_type",
+                "important_link": false,
+                "super_category": null,
+                "url": "/tools/water-balance-mobile-app/"
+              }
+            ],
+            "menu_item_parent": "0",
+            "title": "Water Testing",
+            "type": "post_type",
+            "important_link": false,
+            "super_category": null,
+            "url": "/in-store-water-analysis/"
+          },
+          {
+            "menuId": 15,
+            "lang": "en",
+            "id": 8374,
+            "child_items": [],
+            "menu_item_parent": "0",
+            "title": "About Summer Smiles",
+            "type": "post_type",
+            "important_link": false,
+            "super_category": null,
+            "url": "/about-summer-smiles/"
+          }
+        ],
+        "homepageUrl": "/"
+      },
+      "dealerList": [
+        {
+          "dealer": {
+            "id": 8710,
+            "lat": "45.530348420816054",
+            "lng": "-73.81788973151777",
+            "name": "PISCINES STE D'EAU",
+            "street": "571 RUE PRINCIPALE",
+            "city": "SAINTE-DOROTHÉE",
+            "state": "QC",
+            "postal_code": "H7X 1C7",
+            "categories": ["SomeProducts"],
+            "online_shop": "https://www.piscinesstedeau.com/s/shop",
+            "client_number": "1501234"
+          }
+        },
+        {
+          "dealer": {
+            "id": 8658,
+            "lat": "46.05930299",
+            "lng": "-64.81782885",
+            "name": "EAGLE POOLS & SPAS",
+            "street": "720 COVERDALE RD. UNIT 111",
+            "city": "RIVERVIEW",
+            "state": "NB",
+            "postal_code": "E1B 3L4",
+            "categories": ["SomeProducts"],
+            "online_shop": "",
+            "client_number": "2203287"
+          }
+        }
+      ],
+      "fields": [],
+      "analytics": {
+        "content_group": "piscines",
+        "page_type": "produit",
+        "page_category": "catalogue_de_produits",
+        "page_subcategory": false
+      },
+      "blocks": {
+        "acf-block-ikg69z62x4eba": {
+          "blockName": "acf/ad",
+          "fields": {
+            "ad": {
+              "analytics": {
+                "name": "Promotion Concours Profitez de la cours arrière "
+              },
+              "background_gradient_start": "",
+              "background_gradient_end": "",
+              "background_color": "",
+              "background_image": {
+                "filename": "summersmile_bannerad_concours_1250x350_v3.jpg",
+                "alt": "",
+                "mime_type": "image/jpeg",
+                "width": 1250,
+                "height": 350,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2025/04/summersmile_bannerad_concours_1250x350_v3.jpg"
+              },
+              "image": {
+                "filename": "summersmile-Concours-900x560_EN-1.png",
+                "alt": "",
+                "mime_type": "image/png",
+                "width": 900,
+                "height": 560,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2025/04/summersmile-Concours-900x560_EN-1.png"
+              },
+              "text": "\u003Cp\u003E\u003Cstrong\u003E\u003Cspan style=\"color: #f8ad00;\"\u003EWIN A MASTER Chef \u003Csup\u003EMC\u003C/sup\u003Epizza oven\u003C/span\u003E \u003Cspan style=\"color: #ffffff;\"\u003E(valued at $250)\u003C/span\u003E\u003C/strong\u003E\u003C/p\u003E\n",
+              "call_to_action": {
+                "call_to_action": {
+                  "link_type": "text",
+                  "link": {
+                    "title": "Learn more",
+                    "url": "https://api.summersmiles.com/staycation/",
+                    "target": ""
+                  },
+                  "image": false
+                }
+              },
+              "dealers": [
+                4166, 8654, 8655, 4144, 4139, 4260, 4193, 8658, 4153, 4244,
+                4252, 8653, 4155, 4151, 4415, 4265, 4263, 4362, 4148, 4222,
+                4195, 4266, 4163, 4254, 8710
+              ]
+            },
+            "anchor": ""
+          }
+        },
+        "acf-block-38hkdklkp8t0m": {
+          "blockName": "acf/simple-paragraph",
+          "fields": {
+            "title": "",
+            "text": "\u003Cdiv id=\"simple-paragraph\" class=\"block\" data-v-76d3ff1e=\"\"\u003E\n\u003Cdiv class=\"page-width content-padding\" data-v-76d3ff1e=\"\"\u003E\n\u003Cdiv id=\"paragraph\" data-v-c52e52b4=\"\" data-v-76d3ff1e=\"\"\u003E\n\u003Cdiv class=\"mt-3 text-color\" data-v-c52e52b4=\"\"\u003E\n\u003Ch2\u003E\u003Cstrong\u003EStaycation has never tasted so good!\u003C/strong\u003E\u003C/h2\u003E\n\u003Cp\u003E&nbsp;\u003C/p\u003E\n\u003Cp\u003E\u003Cstrong\u003EDraw July 7th, 2024. \u003C/strong\u003E\u003C/p\u003E\n\u003Cp\u003EGet one entry for every $50 spent on Summer Smiles pool or spa care products at a participating retailer (up to a maximum purchase of $1,000). One winner will be drawn per retailer! Check the list of participating retailers to learn more about the contest and its rules.\u003C/p\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003Cdiv class=\"mt-3\" data-v-76d3ff1e=\"\"\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003Cdiv class=\"ad content-padding\"\u003E\n\u003Cdiv class=\"ad-partial block page-width\" data-v-41236965=\"\"\u003E\n\u003Cdiv class=\"border-rounded bg-custom\" data-v-41236965=\"\"\u003E\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n",
+            "ctas": false,
+            "legal_text": "",
+            "anchor": ""
+          }
+        },
+        "acf-block-h9hevjn96omhy": {
+          "blockName": "acf/dealer-limited",
+          "fields": {
+            "title": "Participating Dealers",
+            "list_selection": "promotion",
+            "promotion": 8642,
+            "anchor": "",
+            "dealers": [
+              {
+                "dealer": {
+                  "name": "4 SEASON POOL AND SPA CARE",
+                  "street": "1261 STITTSVILLE MAIN ST #13",
+                  "city": "STITTSVILLE",
+                  "state": "ON",
+                  "postal_code": "K2S2E4",
+                  "country": "CANADA",
+                  "lat": "45.2674161",
+                  "lng": "-75.9284882",
+                  "categories": ["ExclusiveRetailers"],
+                  "online_shop": "",
+                  "ads": [8628, 8642]
+                }
+              },
+              {
+                "dealer": {
+                  "name": "AQUA FRIENDS ",
+                  "street": "#103 - 1990 COPPER RD",
+                  "city": "KELOWNA ",
+                  "state": "BC",
+                  "postal_code": "V1Y8K5",
+                  "country": "CANADA",
+                  "lat": "49.87841",
+                  "lng": "-119.44335",
+                  "categories": ["ExclusiveRetailers"],
+                  "online_shop": "",
+                  "ads": [8628, 8642]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "options": {
+        "navbar": {
+          "tag_icon": {
+            "ID": 8625,
+            "id": 8625,
+            "title": "tagline_en",
+            "filename": "tagline_en.png",
+            "filesize": 3567,
+            "url": "https://api.summersmiles.com/wp-content/uploads/2025/04/tagline_en.png",
+            "link": "https://api.summersmiles.com/tagline_en-2/",
+            "alt": "",
+            "author": "1",
+            "description": "",
+            "caption": "",
+            "name": "tagline_en-2",
+            "status": "inherit",
+            "uploaded_to": 0,
+            "date": "2025-04-14 17:16:53",
+            "modified": "2025-04-14 17:16:53",
+            "menu_order": 0,
+            "mime_type": "image/png",
+            "type": "image",
+            "subtype": "png",
+            "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+            "width": 500,
+            "height": 182,
+            "sizes": {
+              "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2025/04/tagline_en.png",
+              "thumbnail-width": 128,
+              "thumbnail-height": 47,
+              "medium": "https://api.summersmiles.com/wp-content/uploads/2025/04/tagline_en.png",
+              "medium-width": 500,
+              "medium-height": 182,
+              "medium_large": "https://api.summersmiles.com/wp-content/uploads/2025/04/tagline_en.png",
+              "medium_large-width": 500,
+              "medium_large-height": 182,
+              "large": "https://api.summersmiles.com/wp-content/uploads/2025/04/tagline_en.png",
+              "large-width": 500,
+              "large-height": 182,
+              "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2025/04/tagline_en.png",
+              "1536x1536-width": 500,
+              "1536x1536-height": 182,
+              "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2025/04/tagline_en.png",
+              "2048x2048-width": 500,
+              "2048x2048-height": 182
+            }
+          },
+          "tagline": "",
+          "contact": {
+            "title": "Contact Us",
+            "url": "/contact/",
+            "target": ""
+          },
+          "dealer": {
+            "title": "Find a Dealer",
+            "url": "https://api.summersmiles.com/dealers/",
+            "target": ""
+          },
+          "logo": {
+            "ID": 7893,
+            "id": 7893,
+            "title": "SummerSmiles_Logo_Hor_cmyk",
+            "filename": "SummerSmiles_Logo_Hor_cmyk.jpg",
+            "filesize": 666849,
+            "url": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+            "link": "https://api.summersmiles.com/summersmiles_logo_hor_cmyk-2/",
+            "alt": "",
+            "author": "9",
+            "description": "",
+            "caption": "",
+            "name": "summersmiles_logo_hor_cmyk-2",
+            "status": "inherit",
+            "uploaded_to": 0,
+            "date": "2025-01-16 14:40:23",
+            "modified": "2025-01-16 14:40:23",
+            "menu_order": 0,
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "subtype": "jpeg",
+            "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+            "width": 3126,
+            "height": 654,
+            "sizes": {
+              "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "thumbnail-width": 128,
+              "thumbnail-height": 27,
+              "medium": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "medium-width": 3126,
+              "medium-height": 654,
+              "medium_large": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 161,
+              "large": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "large-width": 3126,
+              "large-height": 654,
+              "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "1536x1536-width": 1536,
+              "1536x1536-height": 321,
+              "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "2048x2048-width": 2048,
+              "2048x2048-height": 428
+            }
+          },
+          "logo_mobile": {
+            "ID": 7893,
+            "id": 7893,
+            "title": "SummerSmiles_Logo_Hor_cmyk",
+            "filename": "SummerSmiles_Logo_Hor_cmyk.jpg",
+            "filesize": 666849,
+            "url": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+            "link": "https://api.summersmiles.com/summersmiles_logo_hor_cmyk-2/",
+            "alt": "",
+            "author": "9",
+            "description": "",
+            "caption": "",
+            "name": "summersmiles_logo_hor_cmyk-2",
+            "status": "inherit",
+            "uploaded_to": 0,
+            "date": "2025-01-16 14:40:23",
+            "modified": "2025-01-16 14:40:23",
+            "menu_order": 0,
+            "mime_type": "image/jpeg",
+            "type": "image",
+            "subtype": "jpeg",
+            "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+            "width": 3126,
+            "height": 654,
+            "sizes": {
+              "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "thumbnail-width": 128,
+              "thumbnail-height": 27,
+              "medium": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "medium-width": 3126,
+              "medium-height": 654,
+              "medium_large": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "medium_large-width": 768,
+              "medium_large-height": 161,
+              "large": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "large-width": 3126,
+              "large-height": 654,
+              "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "1536x1536-width": 1536,
+              "1536x1536-height": 321,
+              "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_cmyk.jpg",
+              "2048x2048-width": 2048,
+              "2048x2048-height": 428
+            }
+          }
+        },
+        "footer": {
+          "logo": {
+            "ID": 7898,
+            "id": 7898,
+            "title": "SummerSmiles_Logo_Hor_white",
+            "filename": "SummerSmiles_Logo_Hor_white.png",
+            "filesize": 144149,
+            "url": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_white.png",
+            "link": "https://api.summersmiles.com/summersmiles_logo_hor_white-2/",
+            "alt": "",
+            "author": "9",
+            "description": "",
+            "caption": "",
+            "name": "summersmiles_logo_hor_white-2",
+            "status": "inherit",
+            "uploaded_to": 0,
+            "date": "2025-01-16 16:44:16",
+            "modified": "2025-01-16 16:44:16",
+            "menu_order": 0,
+            "mime_type": "image/png",
+            "type": "image",
+            "subtype": "png",
+            "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+            "width": 1093,
+            "height": 228,
+            "sizes": {
+              "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_white.png",
+              "thumbnail-width": 128,
+              "thumbnail-height": 27,
+              "medium": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_white.png",
+              "medium-width": 1093,
+              "medium-height": 228,
+              "medium_large": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_white.png",
+              "medium_large-width": 768,
+              "medium_large-height": 160,
+              "large": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_white.png",
+              "large-width": 1093,
+              "large-height": 228,
+              "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_white.png",
+              "1536x1536-width": 1093,
+              "1536x1536-height": 228,
+              "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2025/01/SummerSmiles_Logo_Hor_white.png",
+              "2048x2048-width": 1093,
+              "2048x2048-height": 228
+            }
+          },
+          "dealers": {
+            "title": "Find a Dealer",
+            "url": "https://api.summersmiles.com/dealers/",
+            "target": ""
+          },
+          "about": {
+            "title": "About Summer Smiles",
+            "url": "https://api.summersmiles.com/about-summer-smiles/",
+            "target": ""
+          },
+          "contact_number": "1-833-906-0091",
+          "contact_page": {
+            "title": "Contact Us",
+            "url": "/contact/",
+            "target": ""
+          },
+          "follow_title": "Follow us",
+          "facebook": "https://www.facebook.com/summer.smiles.sanimarc/",
+          "youtube": "https://www.youtube.com/@summersmiles5877",
+          "copyright": "\u003Cp\u003E©Sani Marc inc. 2025 | All rights reserved\u003C/p\u003E\n",
+          "terms_of_use": {
+            "title": "Terms of Use",
+            "url": "https://api.summersmiles.com/terms-of-use/",
+            "target": ""
+          },
+          "privacy_policy": {
+            "title": "Privacy Policy",
+            "url": "https://staging-back.sanimarc.nxstar.ca/wp-content/uploads/2024/12/ANG-Sani-Marc-Privacy-policy-website-.pdf",
+            "target": "_blank"
+          }
+        },
+        "links": {
+          "dealers": {
+            "title": "Find a Dealer",
+            "url": "https://api.summersmiles.com/dealers/",
+            "target": ""
+          },
+          "contact": {
+            "title": "Contact Us",
+            "url": "https://api.summersmiles.com/contact-form/",
+            "target": ""
+          },
+          "homepage_pool": "https://api.summersmiles.com/homepage/",
+          "homepage_spa": "https://api.summersmiles.com/homepage-spa/",
+          "shop_products_pool": "https://api.summersmiles.com/shop-pool-care-products/",
+          "shop_products_spa": "https://api.summersmiles.com/shop-spa-care-products/"
+        },
+        "bubbles": {
+          "icons": [
+            {
+              "icon": {
+                "ID": 1537,
+                "id": 1537,
+                "title": "OC_Dose-01-01",
+                "filename": "OC_Dose-01-01-1.svg",
+                "filesize": 9617,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Dose-01-01-1.svg",
+                "link": "https://api.summersmiles.com/oc_dose-01-01-3/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "oc_dose-01-01-3",
+                "status": "inherit",
+                "uploaded_to": 0,
+                "date": "2023-03-28 16:48:18",
+                "modified": "2023-03-28 16:48:18",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": 1,
+                "height": 1,
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Dose-01-01-1.svg",
+                  "thumbnail-width": 1,
+                  "thumbnail-height": 1,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Dose-01-01-1.svg",
+                  "medium-width": 1,
+                  "medium-height": 1,
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Dose-01-01-1.svg",
+                  "medium_large-width": 1,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Dose-01-01-1.svg",
+                  "large-width": 1,
+                  "large-height": 1,
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Dose-01-01-1.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Dose-01-01-1.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 1531,
+                "id": 1531,
+                "title": "OC_Cube Liquide-01-01",
+                "filename": "OC_Cube-Liquide-01-01-1.svg",
+                "filesize": 7991,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Cube-Liquide-01-01-1.svg",
+                "link": "https://api.summersmiles.com/oc_cube-liquide-01-01-3/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "oc_cube-liquide-01-01-3",
+                "status": "inherit",
+                "uploaded_to": 0,
+                "date": "2023-03-28 16:48:16",
+                "modified": "2023-03-28 16:48:16",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": 1,
+                "height": 1,
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Cube-Liquide-01-01-1.svg",
+                  "thumbnail-width": 1,
+                  "thumbnail-height": 1,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Cube-Liquide-01-01-1.svg",
+                  "medium-width": 1,
+                  "medium-height": 1,
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Cube-Liquide-01-01-1.svg",
+                  "medium_large-width": 1,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Cube-Liquide-01-01-1.svg",
+                  "large-width": 1,
+                  "large-height": 1,
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Cube-Liquide-01-01-1.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Cube-Liquide-01-01-1.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 1535,
+                "id": 1535,
+                "title": "OC_Disque-01-01",
+                "filename": "OC_Disque-01-01-1.svg",
+                "filesize": 7977,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Disque-01-01-1.svg",
+                "link": "https://api.summersmiles.com/oc_disque-01-01-3/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "oc_disque-01-01-3",
+                "status": "inherit",
+                "uploaded_to": 0,
+                "date": "2023-03-28 16:48:17",
+                "modified": "2023-03-28 16:48:17",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": 1,
+                "height": 1,
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Disque-01-01-1.svg",
+                  "thumbnail-width": 1,
+                  "thumbnail-height": 1,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Disque-01-01-1.svg",
+                  "medium-width": 1,
+                  "medium-height": 1,
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Disque-01-01-1.svg",
+                  "medium_large-width": 1,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Disque-01-01-1.svg",
+                  "large-width": 1,
+                  "large-height": 1,
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Disque-01-01-1.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/OC_Disque-01-01-1.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 940,
+                "id": 940,
+                "title": "Routine_Cube Gel-01",
+                "filename": "Routine_Cube-Gel-01-1.svg",
+                "filesize": 8728,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Cube-Gel-01-1.svg",
+                "link": "https://api.summersmiles.com/routine_cube-gel-01-2/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "routine_cube-gel-01-2",
+                "status": "inherit",
+                "uploaded_to": 0,
+                "date": "2023-03-23 22:15:38",
+                "modified": "2023-03-23 22:15:38",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": 1,
+                "height": 1,
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Cube-Gel-01-1.svg",
+                  "thumbnail-width": 96,
+                  "thumbnail-height": 96,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Cube-Gel-01-1.svg",
+                  "medium-width": "300",
+                  "medium-height": "300",
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Cube-Gel-01-1.svg",
+                  "medium_large-width": 768,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Cube-Gel-01-1.svg",
+                  "large-width": "1024",
+                  "large-height": "1024",
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Cube-Gel-01-1.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Cube-Gel-01-1.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 950,
+                "id": 950,
+                "title": "Routine_Granule-01",
+                "filename": "Routine_Granule-01-1.svg",
+                "filesize": 5253,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Granule-01-1.svg",
+                "link": "https://api.summersmiles.com/routine_granule-01-2/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "routine_granule-01-2",
+                "status": "inherit",
+                "uploaded_to": 0,
+                "date": "2023-03-23 22:15:50",
+                "modified": "2023-03-23 22:15:50",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": 1,
+                "height": 1,
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Granule-01-1.svg",
+                  "thumbnail-width": 96,
+                  "thumbnail-height": 96,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Granule-01-1.svg",
+                  "medium-width": "300",
+                  "medium-height": "300",
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Granule-01-1.svg",
+                  "medium_large-width": 768,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Granule-01-1.svg",
+                  "large-width": "1024",
+                  "large-height": "1024",
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Granule-01-1.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Granule-01-1.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 588,
+                "id": 588,
+                "title": "Routine_Spa-01",
+                "filename": "Routine_Spa-01-1.svg",
+                "filesize": 3771,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Spa-01-1.svg",
+                "link": "https://api.summersmiles.com/icon/spa-routine/attachment/routine_spa-01/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "routine_spa-01",
+                "status": "inherit",
+                "uploaded_to": 587,
+                "date": "2023-03-17 20:03:22",
+                "modified": "2023-03-17 20:04:12",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": "0",
+                "height": "0",
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Spa-01-1.svg",
+                  "thumbnail-width": 96,
+                  "thumbnail-height": 96,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Spa-01-1.svg",
+                  "medium-width": "300",
+                  "medium-height": "300",
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Spa-01-1.svg",
+                  "medium_large-width": 768,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Spa-01-1.svg",
+                  "large-width": "1024",
+                  "large-height": "1024",
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Spa-01-1.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/Routine_Spa-01-1.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 986,
+                "id": 986,
+                "title": "Solution_Gel Liquide-01-01",
+                "filename": "Solution_Gel-Liquide-01-01.svg",
+                "filesize": 8436,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Gel-Liquide-01-01.svg",
+                "link": "https://api.summersmiles.com/solution_gel-liquide-01-01/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "solution_gel-liquide-01-01",
+                "status": "inherit",
+                "uploaded_to": 0,
+                "date": "2023-03-23 22:16:59",
+                "modified": "2023-03-23 22:16:59",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": 1,
+                "height": 1,
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Gel-Liquide-01-01.svg",
+                  "thumbnail-width": 96,
+                  "thumbnail-height": 96,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Gel-Liquide-01-01.svg",
+                  "medium-width": "300",
+                  "medium-height": "300",
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Gel-Liquide-01-01.svg",
+                  "medium_large-width": 768,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Gel-Liquide-01-01.svg",
+                  "large-width": "1024",
+                  "large-height": "1024",
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Gel-Liquide-01-01.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Gel-Liquide-01-01.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 980,
+                "id": 980,
+                "title": "Solution_Cube-01-01",
+                "filename": "Solution_Cube-01-01.svg",
+                "filesize": 3744,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Cube-01-01.svg",
+                "link": "https://api.summersmiles.com/solution_cube-01-01/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "solution_cube-01-01",
+                "status": "inherit",
+                "uploaded_to": 0,
+                "date": "2023-03-23 22:16:51",
+                "modified": "2023-03-23 22:16:51",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": 1,
+                "height": 1,
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Cube-01-01.svg",
+                  "thumbnail-width": 96,
+                  "thumbnail-height": 96,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Cube-01-01.svg",
+                  "medium-width": "300",
+                  "medium-height": "300",
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Cube-01-01.svg",
+                  "medium_large-width": 768,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Cube-01-01.svg",
+                  "large-width": "1024",
+                  "large-height": "1024",
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Cube-01-01.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Cube-01-01.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 592,
+                "id": 592,
+                "title": "Solution_Spa-01",
+                "filename": "Solution_Spa-01-1.svg",
+                "filesize": 3365,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Spa-01-1.svg",
+                "link": "https://api.summersmiles.com/icon/spa-solution/attachment/solution_spa-01-2/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "solution_spa-01-2",
+                "status": "inherit",
+                "uploaded_to": 593,
+                "date": "2023-03-17 20:12:33",
+                "modified": "2023-03-17 20:38:33",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": 1,
+                "height": 1,
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Spa-01-1.svg",
+                  "thumbnail-width": 96,
+                  "thumbnail-height": 96,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Spa-01-1.svg",
+                  "medium-width": "300",
+                  "medium-height": "300",
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Spa-01-1.svg",
+                  "medium_large-width": 768,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Spa-01-1.svg",
+                  "large-width": "1024",
+                  "large-height": "1024",
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Spa-01-1.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Spa-01-1.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            },
+            {
+              "icon": {
+                "ID": 548,
+                "id": 548,
+                "title": "Solution_Piscine-01",
+                "filename": "Solution_Piscine-01.svg",
+                "filesize": 3365,
+                "url": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Piscine-01.svg",
+                "link": "https://api.summersmiles.com/icon/pool-solution/attachment/solution_piscine-01/",
+                "alt": "",
+                "author": "2",
+                "description": "",
+                "caption": "",
+                "name": "solution_piscine-01",
+                "status": "inherit",
+                "uploaded_to": 501,
+                "date": "2023-03-17 19:31:47",
+                "modified": "2023-03-17 19:34:19",
+                "menu_order": 0,
+                "mime_type": "image/svg+xml",
+                "type": "image",
+                "subtype": "svg+xml",
+                "icon": "https://api.summersmiles.com/wp-includes/images/media/default.png",
+                "width": "0",
+                "height": "0",
+                "sizes": {
+                  "thumbnail": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Piscine-01.svg",
+                  "thumbnail-width": 96,
+                  "thumbnail-height": 96,
+                  "medium": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Piscine-01.svg",
+                  "medium-width": "300",
+                  "medium-height": "300",
+                  "medium_large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Piscine-01.svg",
+                  "medium_large-width": 768,
+                  "medium_large-height": 1,
+                  "large": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Piscine-01.svg",
+                  "large-width": "1024",
+                  "large-height": "1024",
+                  "1536x1536": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Piscine-01.svg",
+                  "1536x1536-width": 1,
+                  "1536x1536-height": 1,
+                  "2048x2048": "https://api.summersmiles.com/wp-content/uploads/2023/03/Solution_Piscine-01.svg",
+                  "2048x2048-width": 1,
+                  "2048x2048-height": 1
+                }
+              }
+            }
+          ]
+        },
+        "error_page": {
+          "message": "https://api.summersmiles.com/wp-content/uploads/2023/05/Oups_AN-FR.png",
+          "404": "https://api.summersmiles.com/wp-content/uploads/2023/05/404.png",
+          "background": "https://api.summersmiles.com/wp-content/uploads/2023/05/Piscine-vide_404_istockphoto-1331128492-2048x2048-1.png",
+          "background_mobile": "https://api.summersmiles.com/wp-content/uploads/2023/05/Piscine-vide_404_side.png",
+          "link": {
+            "title": "Return to home",
+            "url": "https://api.summersmiles.com/",
+            "target": ""
+          }
+        },
+        "subscribe": {
+          "title": "Tips & Tricks Bulletin",
+          "text": "\u003Cp\u003ESubscribe to receive Pool and Spa care tips by email and text message.\u003C/p\u003E\n",
+          "background_color": "#cee2f8",
+          "call_to_action": {
+            "link_type": "text",
+            "link": {
+              "title": "SUBSCRIBE NOW",
+              "url": "https://api.summersmiles.com/newsletter-form/",
+              "target": ""
+            },
+            "image": false
+          }
+        }
+      },
+      "seo": {
+        "title": "",
+        "description": "",
+        "image": false,
+        "follow": "",
+        "index": "",
+        "canonical": "",
+        "og_title": "",
+        "og_description": "",
+        "og_image": false,
+        "twitter_title": "",
+        "twitter_description": "",
+        "twitter_image": false
+      }
+    }
+  ]
+}

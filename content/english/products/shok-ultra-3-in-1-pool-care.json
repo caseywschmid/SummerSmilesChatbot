@@ -1,0 +1,57 @@
+{
+  "title": "Shok Ultra 3 In 1",
+  "link": "/product/shok-ultra-3-in-1-pool-care/",
+  "lang": "en",
+  "date": "2023-03-16",
+  "long_description": "SHOK ULTRA 3 IN 1 is a pre-measured shock treatment that actively eliminates organic waste and maintains water clarity in a single weekly treatment. This re-activating treatment restores water’s sparkle while prolonging the effect of chlorine.",
+  "short_description": "BENEFITS Eliminates organic waste Maintains water clarity FORMATS Pouch of 300 g and 600 g",
+  "characteristics": [
+    {
+      "title": "Application Method",
+      "text": "Sprinkle SHOK ULTRA 3 IN 1 directly over the surface of the water while walking around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "Maintain daily levels as directed on the label of the pool sanitizer used and as determined by test kit. Put filter in filtration mode. For each treatment, add 300 g of SHOK ULTRA 3 IN 1 per 40,000 L of water according to the application method. Wait 30 minutes before using the pool."
+    }
+  ],
+  "dosage": {
+    "specifications": "One pouch of 300 g treats up to 40,000 L of pool water. Use SHOK ULTRA 3 IN 1 weekly to keep water crystal clear.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (weekly)"
+        ]
+      },
+      {
+        "name": "Up to 40,000 L",
+        "rows": [
+          "1 pouch (300 g)"
+        ]
+      },
+      {
+        "name": "Between 40,000 L and 80,000 L",
+        "rows": [
+          "1 pouch (600 g) or 2 pouches (300 g)"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems. DO NOT apply the product at the same time as adding salt. Wait for salt to dissolve completely before adding SHOK ULTRA 3 IN 1. DO NOT apply the product when people are in the pool. DO NOT use with products containing calcium hypochlorite; may cause explosion.",
+  "sku": "3007350",
+  "related_products": [
+    {
+      "name": "SALT SHOK ULTRA",
+      "link": "/product/salt-shok-ultra-pool-care/"
+    },
+    {
+      "name": "SHOK",
+      "link": "/product/shok-pool-care/"
+    },
+    {
+      "name": "SHOK ULTRA",
+      "link": "/product/shok-ultra-pool-care/"
+    }
+  ]
+}

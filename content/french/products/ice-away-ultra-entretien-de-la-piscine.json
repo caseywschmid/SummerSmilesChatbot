@@ -1,0 +1,55 @@
+{
+  "title": "ICE AWAY ULTRA",
+  "link": "/fr/produit/ice-away-ultra-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "ICE AWAY ULTRA est conçu pour empêcher le gel jusqu’à -51 °C afin de protéger et lubrifier les tuyaux et équipements des piscines , tels que drain de fond, joint d’étanchéité et échangeur de chaleur pour thermopompe de piscine. Il permet d’éviter le gonflement et la rupture des tuyaux causés par le gel.",
+  "short_description": "BÉNÉFICES Protège les tuyaux contre le gel jusqu’à -51 °C Prévient l’assèchement des tuyaux en les lubrifiant FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser ICE AWAY ULTRA, sans le diluer, dans les conduits d’eau par l’écumoire et les retours d’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "Après avoir diminué ou vidangé l’eau, débrancher la pompe et le filtreur, puis ajouter ICE AWAY ULTRA selon la méthode d’application et le dosage recommandé. Continuer d’ajouter ICE AWAY ULTRA jusqu’à ce que l’antigel coloré apparaisse aux endroits de vidange. Les tuyaux de retour d’eau sont maintenant prêts à être fermés pour l’hiver. S’assurer que tous les tuyaux d’embranchement et équipements sont traités."
+    },
+    {
+      "title": "Remarques",
+      "text": "Vidanger complètement l’eau de la tuyauterie et des équipements (à l’exception des drains de fond). Il est important d’enlever le plus d’eau possible de la tuyauterie et des équipements de la piscine. Il n’est pas nécessaire de vidanger l’antigel de la tuyauterie et des équipements au printemps, car ICE AWAY ULTRA est compatible avec l’eau de la piscine."
+    }
+  ],
+  "dosage": {
+    "specifications": "Le dosage proposé est à titre indicatif : la quantité requise peut dépendre de l’installation de la tuyauterie. Ajouter le produit jusqu’à ce que l’antigel coloré apparaisse aux endroits de vidange.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": []
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": []
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": []
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. NE PAS utiliser avec les spas. NE PAS utiliser dans les radiateurs d’automobile.",
+  "sku": "3007380",
+  "related_products": [
+    {
+      "name": "HIBERNA",
+      "link": "/fr/produit/hiberna-entretien-de-la-piscine/"
+    },
+    {
+      "name": "ICE AWAY",
+      "link": "/fr/produit/ice-away-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE OPENING",
+      "link": "/fr/produit/trousse-opening-entretien-de-la-piscine/"
+    }
+  ]
+}

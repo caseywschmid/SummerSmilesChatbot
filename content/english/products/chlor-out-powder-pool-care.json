@@ -1,0 +1,57 @@
+{
+  "title": "CHLOR OUT (Powder)",
+  "link": "/product/chlor-out-powder-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "CHLOR OUT quickly lowers the chlorine level in pool water so that you can enjoy your pool right away. CHLOR OUT will not discolour vinyl, concrete or fiberglass pools.",
+  "short_description": "BENEFIT Fast-acting FORMAT 25 kg",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour CHLOR OUT directly onto the surface of the water while walking all around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add CHLOR OUT according to the application method and recommended dosage. Pool can be used immediately after adding the product."
+    }
+  ],
+  "dosage": {
+    "specifications": "Add 15 g of CHLOR OUT per 10,000 L of water to lower chlorine by 1 ppm.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "TO LOWER CHLORINE LEVEL BY 1 PPM"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "60 g"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "120 g"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems. DO NOT apply the product when people are in the pool.",
+  "sku": "3007290",
+  "related_products": [
+    {
+      "name": "CHLOR OUT (Liquid)",
+      "link": "/product/chlor-out-liquid-pool-care/"
+    },
+    {
+      "name": "SOFT",
+      "link": "/product/soft-pool-care/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/product/stain-out-pool-care/"
+    }
+  ]
+}

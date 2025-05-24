@@ -1,0 +1,51 @@
+{
+  "title": "SPA ICE AWAY",
+  "link": "/fr/produit/spa-ice-away-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA ICE AWAY est un antigel formulé spécialement pour empêcher le gel des tuyaux et équipements de spas et chauffe-eau jusqu’à -51 °C. Cet antigel est inodore, non toxique et sans danger pour les baigneurs.",
+  "short_description": "BÉNÉFICE Protège les tuyaux contre le gel jusqu’à -51 °C FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser SPA ICE AWAY, sans le diluer, dans les conduits d’eau par l’écumoire dans le cas d’un spa ou par l’entrée d’eau dans le cas d’un chauffe-eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "Vidanger complètement l’eau de la tuyauterie et des équipements du spa ou chauffe-eau. Il est important d’enlever le plus d’eau possible. S’assurer que tous les tuyaux d’embranchement, jets et équipements sont traités. Ajouter SPA ICE AWAY jusqu’à ce que l’antigel coloré apparaisse aux endroits de vidange. Les tuyaux et équipements sont maintenant prêts à être fermés pour l’hiver."
+    },
+    {
+      "title": "Remarques",
+      "text": ""
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": []
+      },
+      {
+        "name": " 1 000 L",
+        "rows": []
+      },
+      {
+        "name": " 1 500 L",
+        "rows": []
+      }
+    ]
+  },
+  "warning": "L’efficacité du SPA ICE AWAY diminue rapidement si le produit est dilué.",
+  "sku": "2907390",
+  "related_products": [
+    {
+      "name": "SPA DRAIN ULTRA",
+      "link": "/fr/produit/spa-drain-ultra-entretien-du-spa/"
+    },
+    {
+      "name": "TROUSSE SPA ROUTINE",
+      "link": "/fr/produit/trousse-spa-routine-entretien-du-spa/"
+    }
+  ]
+}

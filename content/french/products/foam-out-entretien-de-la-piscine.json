@@ -1,0 +1,61 @@
+{
+  "title": "FOAM OUT",
+  "link": "/fr/produit/foam-out-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-21",
+  "long_description": "FOAM OUT élimine la mousse existante dans l’eau des piscines et en prévient l’apparition. Un résultat en quelques secondes permet aux baigneurs de profiter de la piscine immédiatement.",
+  "short_description": "BÉNÉFICE Action rapide FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser FOAM OUT directement à la surface de l’eau, en faisant le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter FOAM OUT selon la méthode d’application et le dosage recommandé. Laisser agir environ 10 minutes et répéter le traitement si la mousse persiste. La baignade est possible tout de suite après l’application du produit."
+    },
+    {
+      "title": "Remarques",
+      "text": "Ce traitement peut être utilisé autant de fois que nécessaire pour supprimer la mousse."
+    }
+  ],
+  "dosage": {
+    "specifications": "Verser 100 mL de FOAM OUT par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "400 mL"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "800 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine. Bien agiter le produit avant l’utilisation.",
+  "sku": "3007430",
+  "related_products": [
+    {
+      "name": "CHLOR OUT (liquide)",
+      "link": "/fr/produit/chlor-out-liquide-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CHLOR OUT (poudre)",
+      "link": "/fr/produit/chlor-out-poudre/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 2 EN 1",
+      "link": "/fr/produit/protect-cell-ultra-2-en-1-entretien-de-la-piscine/"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "SPA CHLOR ULTRA",
+  "link": "/fr/produit/spa-chlor-ultra-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA CHLOR ULTRA est un assainissant à base de chlore stabilisé pour l’eau de spa qui permet une désinfection efficace de l’eau et une destruction des bactéries, tout en offrant une action prolongée.",
+  "short_description": "BÉNÉFICES Détruit les bactéries et les algues dans l’eau des spas FORMAT 800 g",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs appropriées; les teneurs sont déterminées à l’aide d’une trousse d’analyse. Chlore libre disponible : 3,0 – 5,0 ppm pH : 7,2 – 7,8 Alcalinité totale : 100 – 120 ppm Dureté (en calcium) : 150 – 200 ppm"
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer SPA CHLOR ULTRA selon les quantités requises directement à la surface de l’eau, en faisant tout le tour du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "SPA CHLOR ULTRA contient un stabilisant (acide cyanurique) qui peut s’accumuler dans l’eau du spa. Garder la teneur de ce stabilisant dans l’intervalle 30 – 100 ppm en diluant avec de l’eau fraîche. Ajouter les granules selon la méthode d’application et les dosages recommandés. Attendre 15 minutes avant la baignade."
+    },
+    {
+      "title": "Remarques",
+      "text": "Pour un assainissement optimal, le spa doit être complètement vidé périodiquement. Le nombre de jours entre les VIDANGES COMPLÈTES DU SPA est égal au volume d’eau du spa en litres, divisé par 10 fois le nombre maximum d’utilisateurs quotidiens du spa. Remplissez le spa et répétez le MODE D’EMPLOI. La température maximale de l’eau du spa est de 40°C (104°F). La durée d’utilisation de l’eau du spa à 40°C ne doit pas dépasser 15 minutes."
+    }
+  ],
+  "dosage": {
+    "specifications": "Surchlorer au départ l’eau du spa en ajoutant 20 g de SPA CHLOR ULTRA par 1 000 L d’eau de spa. Maintenir la circulation pendant au moins 15 minutes avant l’emploi. Répéter la surchloration après chaque période d’emploi. Chlorer quotidiennement ou au besoin en ajoutant 10 g de SPA CHLOR ULTRA par 1 000 L d’eau de spa pour garder les teneurs en chlore résiduel aux valeurs voulues. Une formation continue de mousse, une turbidité ou une mauvaise odeur de l’eau sont les signes d’une teneur inadéquate en assainissant. Afin de corriger de telles conditions, surchlorer l’eau du spa en ajoutant 30 g de SPA CHLOR ULTRA par 1 000 L d’eau de spa. Maintenir la circulation pendant au moins 30 minutes et attendre 4 heures avant d’utiliser le spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "SURCHLORATION INITIALE",
+          "DOSAGE DE ROUTINE (quotidien)"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "20 g",
+          "10 g"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "30 g",
+          "15 g"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907210",
+  "related_products": [
+    {
+      "name": "SPA BROMA ULTRA",
+      "link": "/fr/produit/spa-broma-ultra-entretien-du-spa/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA 1 POUCE",
+      "link": "/fr/produit/spa-chlor-ultra-1-pouce-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SHOK ULTRA",
+      "link": "/fr/produit/spa-shok-ultra-entretien-du-spa/"
+    }
+  ]
+}

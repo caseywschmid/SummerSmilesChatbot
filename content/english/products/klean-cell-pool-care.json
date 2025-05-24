@@ -1,0 +1,34 @@
+{
+  "title": "Klean Cell",
+  "link": "/product/klean-cell-pool-care/",
+  "lang": "en",
+  "date": "2023-03-16",
+  "long_description": "KLEAN CELL cleans salt chlorine generator cells without causing damage to equipment. KLEAN CELL restores conductivity and efficiency by eliminating scale buildup.",
+  "short_description": "BENEFIT Improves the performance of salt chlorine generators by removing calcium and scale buildup FORMATS 1.25 L and 4 L",
+  "characteristics": [
+    {
+      "title": "Instructions",
+      "text": "Remove the cell according to the manufacturer’s instructions. Rinse the cell with water to remove excess debris. Place the cell upright in a 10 to 20-litre bucket to protect surrounding surfaces. Fill the cell with the product until it is covered with the KLEAN CELL solution. Allow cell to soak for 20 to 30 minutes, then remove from the solution. Rinse the cell immediately with fresh water, taking extra care to collect all rinse water in the bucket Reinstall the cell according to the manufacturer’s instructions. Fill the bucket containing the rinse water with additional water until it is completely full. Dispose of the rinse water in a drain."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Product may damage concrete, turf or lawn.",
+  "sku": "3007423",
+  "related_products": [
+    {
+      "name": "KLEAN MULTI",
+      "link": "/product/klean-multi-pool-care/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 3 IN 1",
+      "link": "/product/protect-cell-ultra-3-in-1-pool-care/"
+    },
+    {
+      "name": "STAIN OUT ULTRA",
+      "link": "/product/stain-out-ultra-pool-care/"
+    }
+  ]
+}

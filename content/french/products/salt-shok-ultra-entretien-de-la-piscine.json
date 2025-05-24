@@ -1,0 +1,57 @@
+{
+  "title": "SALT SHOK ULTRA",
+  "link": "/fr/produit/salt-shok-ultra-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-20",
+  "long_description": "SALT SHOK ULTRA est un traitement choc sans chlore prémesuré qui détruit activement les déchets organiques et maintient une eau claire en un seul traitement hebdomadaire.",
+  "short_description": "BÉNÉFICES Détruit les déchets organiques Maintient une eau claire FORMAT Sachet de 480 g",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer SALT SHOK ULTRA à la surface de l’eau en faisant le tour de la piscine. Verser le produit dans le panier de l’écumoire peut être une alternative."
+    },
+    {
+      "title": "Instructions",
+      "text": "Placer le filtre en mode de filtration. Pour chaque traitement, ajouter un sachet complet (450 g) par 40 000 L d’eau selon la méthode d’application choisie. Attendre 30 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Un sachet traite jusqu’à 40 000 L d’eau de piscine. Utiliser SALT SHOK ULTRA hebdomadairement pour conserver une eau propre et limpide.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE DE ROUTINE (hebdomadaire)"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "1 sachet"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "2 sachets"
+        ]
+      }
+    ]
+  },
+  "warning": "Ne pas verser le produit en même temps que l’on ajoute du sel. Attendre la dissolution complète du sel avant d’utiliser SALT SHOK ULTRA. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "30-07212-48",
+  "related_products": [
+    {
+      "name": "KLEAN CELL",
+      "link": "/fr/produit/klean-cell-entretien-de-la-piscine/"
+    },
+    {
+      "name": "SHOK ULTRA",
+      "link": "/fr/produit/shok-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "SHOK ULTRA 3 EN 1",
+      "link": "/fr/produit/shok-ultra-3-en-1-entretien-de-la-piscine/"
+    }
+  ]
+}

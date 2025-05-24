@@ -1,0 +1,49 @@
+{
+  "title": "SPA PEROXY MAX",
+  "link": "/product/spa-peroxy-max-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA PEROXY MAX is a complement to SPA PEROXY SHOK. SPA PEROXY MAX optimizes the efficiency of the hydrogen peroxide-based treatment by capturing the particles that can prevent hydrogen peroxide from working properly.",
+  "short_description": "BENEFITS Improves the effectiveness of SPA PEROXY SHOK by allowing the small particles that can prevent the activated oxygen from working properly to be captured. Works instantly FORMAT 250 g",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Add SPA PEROXY MAX directly to the spa water. Or: Place tablet in skimmer."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add SPA PEROXY MAX according to the chosen application method and recommended dosage. Spa can be used immediately after adding the product. Rinse spa cartridge 24 to 48 hours after adding SPA PEROXY MAX."
+    }
+  ],
+  "dosage": {
+    "specifications": "Add one tablet (25 g) of SPA PEROXY MAX per 1,000 L of spa water every two weeks.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (every two weeks)"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "1 tablet"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "2 tablets"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "2907090",
+  "related_products": [
+    {
+      "name": "SPA PEROXY SHOK",
+      "link": "/product/spa-peroxy-shok-spa-care/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "SPA CALCIUM +",
+  "link": "/product/spa-calcium-plus-spa-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "SPA CALCIUM + helps to balance calcium hardness to avoid corrosion of metal surfaces, protect spa equipment and improve bather comfort. Its liquid formula is specifically designed for spas. It dissolves immediately and completely.",
+  "short_description": "BENEFITS Prevents corrosion of metal surfaces and erosion of spa surfaces Helps maintain a balanced pH Improves bather comfort FORMAT 1 L",
+  "characteristics": [
+    {
+      "title": "Recommended levels ",
+      "text": "Total calcium hardness for a spa should be between 100 and 200 ppm. Levels are determined with a testing kit."
+    },
+    {
+      "title": "Application method",
+      "text": "Pour SPA CALCIUM + directly over the surface of spa water."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add product as needed according to the application method and recommended dosage. Spa can be used immediately adding the product."
+    }
+  ],
+  "dosage": {
+    "specifications": "To increase total hardness by 50 ppm: Add 40 mL of SPA CALCIUM + per 1,000 L of spa water.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "TO INCREASE TOTAL HARDNESS BY 50 ppm"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "40 mL"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "60 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the spa.",
+  "sku": "2907501",
+  "related_products": [
+    {
+      "name": "SPA <span class=\"ph-text\">pH+</span>",
+      "link": "/product/spa-ph-plus-spa-care/"
+    },
+    {
+      "name": "SPA <span class=\"ph-text\">pH-</span>",
+      "link": "/product/spa-ph-minus-spa-care/"
+    },
+    {
+      "name": "SPA ALKA+",
+      "link": "/product/spa-alka-plus-spa-care/"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "DUO Z CHLOR",
+  "link": "/product/duo-z-chlor/",
+  "lang": "en",
+  "date": "2023-09-15",
+  "long_description": "NEW! DUO Z CHLOR is a sanitizer formulated with two types of chlorine – one fast-dissolving and the other slow-dissolving – that work together to maintain constant water disinfection. This dual action ensures greater stability of water parameters and facilitates weekly pool water maintenance.",
+  "short_description": "BENEFIT Maintains a constant chlorine level by dissolving in two steps Destroys algae using state-of-the-art zinc oxide technology and controls bacteria in swimming pool water FORMAT 6 Kg, 12 Kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "Maintain recommended daily levels as determined by testing kit. Free available chlorine:       1.0 – 3.0 ppm pH:      7.2 – 7.8 Total alkalinity:       100 – 120 ppm Calcium hardness:       200 – 300 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "For optimum efficiency, use in a floating dispenser or place tablet(s) in the skimmer basket."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add one dose every week according to the chosen application method and recommended dosage."
+    },
+    {
+      "title": "Note",
+      "text": "Hot weather, heavy pool usage and rain may require higher usage rates to maintain proper chlorine residuals. In these conditions, add a new tablet once free chlorine is at or below 1 ppm. DUO Z CHLOR contains a stabilizer that can accumulate in pool water. Keep stabilizer within the range of 30 – 100 ppm by dilution with fresh water. This product is toxic to fish and aquatic organisms. DO NOT contaminate irrigation or drinking water supplies or aquatic habitats by cleaning of equipment or disposal of waste."
+    }
+  ],
+  "dosage": {
+    "specifications": "Weekly usage (routine dosage) should approximate 75 g of DUO Z CHLOR per 10,000 L of pool water. Note that the chlorine remains present in water after the tablet has completely dissolved.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "Less than 40,000 L",
+          "40,000 L to 80,000 L"
+        ]
+      },
+      {
+        "name": "ROUTINE DOSAGE (weekly)",
+        "rows": [
+          "1 tablet",
+          "2 tablets"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "3007258",
+  "related_products": [
+    {
+      "name": "CHLOR (tablets)",
+      "link": "/product/chlor-tablets-pool-care/"
+    },
+    {
+      "name": "CHLOR ULTRA",
+      "link": "/product/chlor-ultra-pool-care/"
+    },
+    {
+      "name": "CHLOR ULTRA (3 inches)",
+      "link": "/product/chlor-ultra-3-inches-pool-care/"
+    }
+  ]
+}

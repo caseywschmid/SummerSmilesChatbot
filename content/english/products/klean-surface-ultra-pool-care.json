@@ -1,0 +1,42 @@
+{
+  "title": "KLEAN SURFACE ULTRA",
+  "link": "/product/klean-surface-ultra-pool-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "KLEAN SURFACE ULTRA is an organic acid solution specially developed for pools. It efficiently cleans concrete, bricks, stones and  ceramic while being safe for users and the environment. KLEAN SURFACE ULTRA improves the adherence of paint on concrete.  KLEAN SURFACE ULTRA efficiently eliminates efflorescence salts and limescale deposits. KLEAN SURFACE ULTRA can also be used to lower pH and total alkalinity levels in pool water.",
+  "short_description": "BENEFITS Efficiently eliminates efflorescence salts and limescale deposits Organic solution with low environmental impact FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "To clean concrete and masonry",
+      "text": "Dilute one part of KLEAN SURFACE ULTRA with 3 to 5 parts of water. Apply to surface being cleaned. Wait for effervescence to disappear and rinse thoroughly with clear water. Let the surface dry."
+    },
+    {
+      "title": "To lower pH",
+      "text": "Add 250 mL of KLEAN SURFACE ULTRA per 10,000 L of pool water to lower pH by 0.1. Pour the required amount of product directly into the pool in front of the water return outlet. Test pH after 24 hours."
+    },
+    {
+      "title": "To lower total alkalinity",
+      "text": "Add 250 mL of KLEAN SURFACE ULTRA per 10,000 L of pool water to lower total alkalinity by 10 ppm. Pour the required amount of product directly into the deepest part of the pool. Test total alkalinity after 24 hours."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Compatible with salt systems. To dilute, slowly pour acid into water. NEVER pour water into acid.",
+  "sku": "3007185",
+  "related_products": [
+    {
+      "name": "KLEAN FILTER",
+      "link": "/product/klean-filter-pool-care/"
+    },
+    {
+      "name": "KLEAN MULTI",
+      "link": "/product/klean-multi-pool-care/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/product/stain-out-pool-care/"
+    }
+  ]
+}

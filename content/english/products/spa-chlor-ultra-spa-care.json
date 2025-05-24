@@ -1,0 +1,68 @@
+{
+  "title": "SPA CHLOR ULTRA",
+  "link": "/product/spa-chlor-ultra-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA CHLOR ULTRA is a stabilized chlorine sanitizer for spa water. Its long-lasting stabilized chlorine-based formula provides prolonged disinfection of spa water and destruction of bacteria.",
+  "short_description": "BENEFIT Controls bacteria and algae in spa water FORMAT 800 g",
+  "characteristics": [
+    {
+      "title": "Recommended levels ",
+      "text": "Maintain recommended daily levels as determined by testing kit. Free available chlorine: 3.0 – 5.0 ppm pH: 7.2 – 7.8 Total alkalinity: 100 – 120 ppm Calcium hardness: 150 – 200 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "Sprinkle SPA CHLOR ULTRA according to the required quantities directly on the surface of the water, all around the spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "SPA CHLOR ULTRA contains stabilizer (cyanuric acid) which will accumulate in spa water. Keep stabilizer within 30 – 100 ppm range by dilution with fresh water. Add the granules according to the application method and the recommended dosages. Wait 15 minutes before bathing."
+    },
+    {
+      "title": "Note",
+      "text": "For proper sanitation, spa must be completely drained periodically. The number of days between COMPLETE SPA DRAINAGE is equal to the volume of spa water in litres, divided by 10 times the maximum number of daily spa users. Refill spa and repeat DIRECTIONS FOR USE. Maximum spa water usage temperature is 40°C (104°F). Duration in spa water at 40°C should not exceed 15 minutes."
+    }
+  ],
+  "dosage": {
+    "specifications": "Superchlorinate a freshly filled spa by adding 20 g of SPA CHLOR ULTRA per 1,000 L of spa water. Maintain water circulation at least 15 minutes before using. Repeat superchlorination procedure after each use period. Maintain proper chlorine residual by adding 10 g of SPA CHLOR ULTRA per 1,000 L of spa water, daily or as needed. Persistent foam formation and turbid or malodorous water are indicators of inadequate sanitizer levels. To correct such conditions, superchlorinate spa water by adding 30 g of SPA CHLOR ULTRA per 1,000 L of spa water. Maintain circulation at least 30 minutes and wait 4 hours before using.",
+    "columns": [
+      {
+        "name": "SPA SIZE ",
+        "rows": [
+          "INITIALE SUPERCHLORINATION",
+          "ROUTINE DOSAGE (daily)"
+        ]
+      },
+      {
+        "name": "1, 000 L",
+        "rows": [
+          "20 g",
+          "10 g"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "30 g",
+          "15 g"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when swimmers are in the spa.",
+  "sku": "2907210",
+  "related_products": [
+    {
+      "name": "SPA BROMA",
+      "link": "/product/spa-broma-spa-care/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA 1″",
+      "link": "/product/spa-chlor-ultra-1-inch-spa-care/"
+    },
+    {
+      "name": "SPA SHOK ULTRA",
+      "link": "/product/spa-shok-ultra-spa-care/"
+    }
+  ]
+}

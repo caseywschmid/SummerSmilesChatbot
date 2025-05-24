@@ -1,0 +1,68 @@
+{
+  "title": "CHLOR ULTRA",
+  "link": "/product/chlor-ultra-pool-care/",
+  "lang": "en",
+  "date": "2023-03-20",
+  "long_description": "CHLOR ULTRA is a stabilized chlorine sanitizer for pool water. Its long-lasting stabilized chlorine-based formula disinfects water by efficiently destroying bacteria and algae. It also better withstands the sun’s ultraviolet rays. CHLOR ULTRA will not alter the pH of pool water.",
+  "short_description": "BENEFIT Controls bacteria and algae in pool water FORMATS 6.5 kg and 16 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "Maintain proper daily levels as determined by testing kit. Free available chlorine: 1.0 – 3.0 ppm pH: 7.2 – 7.8 Total alkalinity: 80 – 120 ppm Calcium hardness: 200 – 300 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "Sprinkle CHLOR ULTRA according to required quantities directly on the surface of the water, all around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "CHLOR ULTRA contains stabilizer which can accumulate in pool water. Keep stabilizer within the range of 30 – 100 ppm by dilution with fresh water. Add granules according to the application method and recommended dosages."
+    },
+    {
+      "title": "Note",
+      "text": "Hot weather, heavy pool usage and rain may require higher usage rates to maintain proper chlorine residuals. Periodic superchlorination of pool water is recommended. Follow label instructions of the superchlorination product being employed. For outdoor pools, chlorine residuals can be protected from destruction by the sun’s rays by adding 300 g of STAB per 10,000 L of pool water to yield the required initial concentration of 30 ppm"
+    }
+  ],
+  "dosage": {
+    "specifications": "Maintain proper chlorine residual by adding 40 g of CHLOR ULTRA per 10,000 L of pool water, daily or as needed. While CHLOR ULTRA can be used for superchlorination using 180 g per 10,000 L of pool water, care must be taken to avoid excessive accumulation of stabilizer.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (daily)",
+          "SUPERCHLORINATION"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "160 g",
+          "720 g"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "320 g",
+          "1.4 kg"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when swimmers are in the pool.",
+  "sku": "3007210",
+  "related_products": [
+    {
+      "name": "BROMA ULTRA",
+      "link": "/product/broma-ultra-pool-care/"
+    },
+    {
+      "name": "CHLOR (granules)",
+      "link": "/product/chlor-granules-pool-care/"
+    },
+    {
+      "name": "CHLOR ULTRA (1 inch)",
+      "link": "/product/chlor-ultra-1-inch-pool-care/"
+    }
+  ]
+}

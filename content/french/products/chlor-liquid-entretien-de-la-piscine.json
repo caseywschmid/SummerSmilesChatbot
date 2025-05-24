@@ -1,0 +1,63 @@
+{
+  "title": "CHLOR LIQUID",
+  "link": "/fr/produit/chlor-liquid-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "CHLOR est un assainissant à base de chlore non stabilisé pour l’eau des piscines. Sa formule à base de chlore permet une désinfection efficace de l’eau et une destruction des bactéries et des algues. La formule de CHLOR est non stabilisée et doit être utilisée en combinaison avec STAB pour lui permettre de mieux résister aux rayons ultraviolets du soleil.",
+  "short_description": "BÉNÉFICES Détruit les bactéries et les algues dans l’eau des piscines. FORMAT 3.6L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser CHLOR LIQUID directement dans l’eau, tout le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter CHLOR LIQUID selon la méthode d’application."
+    }
+  ],
+  "dosage": {
+    "specifications": "Surchlorer au départ** l’eau de la piscine en ajoutant 1 L de CHLOR LIQUID par 10 000 L d’eau de piscine. Pour obtenir de meilleurs résultats, procéder à la surchloration au crépuscule. Chlorer quotidiennement ou au besoin en ajoutant 250 mL de CHLOR LIQUID par 10 000 L d’eau de piscine pour garder les teneurs en chlore résiduel aux valeurs voulues. Surchlorer** toutes les semaines en ajoutant 1 L de CHLOR LIQUID par 10 000 L d’eau de piscine lorsque la température quotidienne moyenne est entre 25 °C et 32 °C. Autrement, surchlorer toutes les deux semaines. Lorsque les algues sont visibles, surchlorer** en ajoutant 2 L de CHLOR LIQUID par 10 000 L d’eau de piscine. Une infestation sévère d’algues peut requérir jusqu’à 3 L de CHLOR LIQUID par 10 000 L d’eau de piscine. Passer l’aspirateur pour enlever les algues mortes lorsque celles-ci se déposent.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "SURCHLORATION AU DÉPART**",
+          "DOSAGE DE ROUTINE (quotidien)",
+          "PROBLÈME D’ALGUE VISIBLE**"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "4 L",
+          "1 L",
+          "8 L"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "8 L",
+          "2 L",
+          "16 L"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine. Attendre que le produit soit bien dispersé dans l’eau avant la baignade.",
+  "sku": "3007015",
+  "related_products": [
+    {
+      "name": "BROMA ULTRA",
+      "link": "/fr/produit/broma-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CHLOR (granules)",
+      "link": "/fr/produit/chlor-granules-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CHLOR ULTRA (3 pouces)",
+      "link": "/fr/produit/chlor-ultra-3-pouces-entretien-de-la-piscine/"
+    }
+  ]
+}

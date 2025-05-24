@@ -1,0 +1,63 @@
+{
+  "title": "Alg Out 40%",
+  "link": "/fr/produit/alg-out-40-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "ALG OUT 40 % détruit efficacement et rapidement les algues dans l’eau des piscines. Utilisé selon une routine hebdomadaire, ALG OUT 40 % vous aide à prévenir l’apparition d’algues dans votre piscine. ALG OUT 40 % permet de traiter une grande variété d’algues (vertes, jaunes ou noires). Sa formule concentrée à 40 % vous permet d’atteindre le résultat escompté avec une dose réduite, tout en diminuant l’impact environnemental.",
+  "short_description": "BÉNÉFICE Détruit les algues dans l’eau des piscines FORMAT 1 L",
+  "characteristics": [
+    {
+      "title": "Méthode d'application",
+      "text": "Verser ALG OUT 40 % directement dans l’eau, tout le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter ALG OUT 40 % selon la méthode d’application. Attendre 5 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour les eaux qui ne renferment pas d’algues visibles, la dose initiale sera de 50 mL d’ALG OUT 40 % par 10 000 L d’eau de piscine. La dose d’entretien hebdomadaire (routine) est de 25 mL d’ALG OUT 40 % par 10 000 L d’eau de piscine. Dans les eaux renfermant des algues visibles, ajouter 125 mL d’ALG OUT 40 % par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE INITIAL",
+          "DOSAGE DE ROUTINE",
+          "PROBLÈME D’ALGUE VISIBLE"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "200 ml",
+          "100 ml",
+          "500 ml"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "400 ml",
+          "200 ml",
+          "1 L"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007037",
+  "related_products": [
+    {
+      "name": "ALG OUT 15%",
+      "link": "/fr/produit/alg-out-15-entretien-de-la-piscine/"
+    },
+    {
+      "name": "ALG OUT ULTRA 3 EN 1",
+      "link": "/fr/produit/alg-out-ultra-3-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "ALG OUT ULTRA 60%",
+      "link": "/fr/produit/alg-out-ultra-60-entretien-de-la-piscine/"
+    }
+  ]
+}

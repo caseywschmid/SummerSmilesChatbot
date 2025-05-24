@@ -1,0 +1,63 @@
+{
+  "title": "SPA PHOS OUT ULTRA 2 EN 1",
+  "link": "/fr/produit/spa-phos-out-ultra-2-en-1-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA PHOS OUT ULTRA 2 EN 1 est un traitement à double action qui élimine les phosphates et clarifie l’eau du spa en une seule application. Utilisé hebdomadairement, SPA PHOS OUT ULTRA 2 EN 1 contribuera de façon continue à éliminer les phosphates et maintenir une eau limpide. SPA PHOS OUT ULTRA 2 EN 1 n’est pas affecté par le chlore et il est efficace dans toutes les conditions de pH, sans modifier le niveau de ce dernier.",
+  "short_description": "BÉNÉFICES Élimine les phosphates Clarifie l’eau FORMAT 500ml",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser SPA PHOS OUT ULTRA 2 EN 1 directement à la surface de l’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "SPA PHOS OUT ULTRA 2 EN 1 s’emploie lorsque le filtre fonctionne. Ajouter SPA PHOS OUT ULTRA 2 EN 1 selon la méthode d’application. Attendre 60 minutes avant la baignade. Faire fonctionner les pompes en continu pendant 8 heures. Rincer la ou les cartouche(s)."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour le traitement initial des phosphates: Ajouter 20 mL de SPA PHOS OUT ULTRA 2 EN 1 par 1 000 L d’eau de spa pour traiter les niveaux de phosphates entre 250 et 1 000 ppb. Pour le traitement de l’eau brouillée: Ajouter 20 mL de SPA PHOS OUT ULTRA 2 EN 1 par 1 000 L d’eau de spa. Pour un traitement préventif hebdomadaire des phosphates et le maintien d’une eau claire: Ajouter 10 mL de SPA PHOS OUT ULTRA 2 EN 1 par 1 000 L d’eau de spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "TRAITEMENT INITIAL DES PHOSPHATES",
+          "DOSAGE DU TRAITEMENT DE L’EAU BROUILLÉE",
+          "DOSAGE DU TRAITEMENT PRÉVENTIF HEBDOMADAIRE DES PHOSPHATES"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "20 ml",
+          "20 ml",
+          "10 ml"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "30 ml",
+          "30 ml",
+          "15 ml"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS ajouter lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907075",
+  "related_products": [
+    {
+      "name": "SPA ALL OUT ULTRA 4 EN 1",
+      "link": "/fr/produit/spa-all-out-ultra-4-en-1-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SOFT",
+      "link": "/fr/produit/spa-soft-entretien-du-spa/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/fr/produit/spa-stain-out-entretien-du-spa/"
+    }
+  ]
+}

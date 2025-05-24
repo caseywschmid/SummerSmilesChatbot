@@ -1,0 +1,67 @@
+{
+  "title": "pH-",
+  "link": "/product/ph-minus-pool-care/",
+  "lang": "en",
+  "date": "2023-03-20",
+  "long_description": "pH- helps to lower pH in pool water to maximize the efficiency of sanitizers. It also helps to prevent cloudy water and scaling. Maintaining a balanced pH will increase swimmer comfort and protect pool equipment.",
+  "short_description": "BENEFITS Helps balance pH of water to maximize sanitizer efficiency Increases swimmer comfort FORMATS 3 kg, 8 kg and 25 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "pH of pool water should be between 7.2 and 7.8. Total alkalinity of pool water should be between 80 and 120 ppm. Levels are determined with a testing kit."
+    },
+    {
+      "title": "Application method",
+      "text": "Sprinkle pH- onto the surface of the water while walking all around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add pH- according to the application method and the recommended dosage. Wait 20 minutes before entering the pool after adding the product. Let the water circulate for 4 hours after adding the product. Then check pH and do a second treatment if needed."
+    }
+  ],
+  "dosage": {
+    "specifications": "To decrease pH to the recommended levels, add the required quantity of product according to the chart below:",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "pH > 8.2",
+          "pH 8.2 to 7.7",
+          "pH 7.8 to 7.4"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "800 g",
+          "600 g",
+          "400 g"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "1.6 kg",
+          "1.2 kg",
+          "800 g"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the pool.",
+  "sku": "3007180",
+  "related_products": [
+    {
+      "name": "STAB",
+      "link": "/product/stab-pool-care/"
+    },
+    {
+      "name": "STAB ULTRA",
+      "link": "/product/stab-ultra-pool-care/"
+    },
+    {
+      "name": "pH+",
+      "link": "/product/ph-plus-pool-care/"
+    }
+  ]
+}

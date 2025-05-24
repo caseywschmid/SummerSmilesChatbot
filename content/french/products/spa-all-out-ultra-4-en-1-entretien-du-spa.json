@@ -1,0 +1,69 @@
+{
+  "title": "SPA ALL OUT ULTRA 4 EN 1",
+  "link": "/fr/produit/spa-all-out-ultra-4-en-1-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA ALL OUT ULTRA MC 4 EN 1 est un traitement multiaction pour l’eau des spas permettant de prévenir et de traiter avec un seul produit les problèmes d’eau les plus communs incluant la présence de métaux, de phosphates, de déchets organiques et d’eau brouillée.",
+  "short_description": "BÉNÉFICES Élimine les métaux Élimine les déchets organiques Prévient l’accumulation des phosphates Clarifie l’eau FORMAT 500 mL",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser la quantité requise de SPA ALL OUT ULTRA MC 4 EN 1 dans l’eau du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter SPA ALL OUT ULTRA MC 4 EN 1 selon la méthode d’application et le dosage recommandé. Procéder à un traitement choc en suivant attentivement le mode d’emploi du produit utilisé. Attendre 60 minutes avant la baignade. Faire fonctionner le spa en mode continu pendant 6 heures afin de disperser le produit. Bien rincer le filtre."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour le traitement des métaux ou de l’eau colorée : Ajouter 60 mL de SPA ALL OUT ULTRA MC 4 EN 1 par 1 000 L d’eau de spa. Pour le traitement des phosphates : Ajouter 25 mL de SPA ALL OUT ULTRA MC 4 EN 1 par 1 000 L d’eau de spa. Pour le traitement des déchets organiques : Ajouter 60 mL de SPA ALL OUT ULTRA MC 4 EN 1 par 1 000 L d’eau de spa. Pour le traitement de l’eau brouillée : Ajouter 60 mL de SPA ALL OUT ULTRA MC 4 EN 1 par 1 000 L d’eau de spa. Pour un traitement préventif hebdomadaire : Ajouter 25 mL de SPA ALL OUT ULTRA MC 4 EN 1 par 1 000 L d’eau de spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "TRAITEMENT DES MÉTAUX OU DE L’EAU COLORÉE",
+          "TRAITEMENT DES PHOSPHATES",
+          "TRAITEMENT DES DÉCHETS ORGANIQUES",
+          "TRAITEMENT DE L’EAU BROUILLÉE",
+          "TRAITEMENT PRÉVENTIF HEBDOMADAIRE"
+        ]
+      },
+      {
+        "name": " 1,000 L",
+        "rows": [
+          "60 mL",
+          "25 mL",
+          "60 mL",
+          "60 mL",
+          "25 mL"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "90 mL",
+          "40 mL",
+          "90 mL",
+          "90 mL",
+          "40 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS ajouter le produit lorsqu’il y a des baigneurs dans le spa. Nécessite un traitement choc après l’utilisation pour activer le clarifiant.",
+  "sku": "2907089",
+  "related_products": [
+    {
+      "name": "SPA PHOS OUT ULTRA 2 EN 1",
+      "link": "/fr/produit/spa-phos-out-ultra-2-en-1-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SOFT",
+      "link": "/fr/produit/spa-soft-entretien-du-spa/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/fr/produit/spa-stain-out-entretien-du-spa/"
+    }
+  ]
+}

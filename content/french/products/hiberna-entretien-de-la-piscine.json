@@ -1,0 +1,51 @@
+{
+  "title": "HIBERNA",
+  "link": "/fr/produit/hiberna-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "HIBERNA MC est un algicide qui aide à maintenir l’eau claire durant la saison hivernale, ce qui facilitera l’ouverture de la piscine lors de la prochaine saison. HIBERNA MC n’endommagera pas et ne tachera pas la toile.",
+  "short_description": "BÉNÉFICES Aide à conserver l’eau claire durant les mois d’hiver Facilite l’ouverture de la piscine au printemps FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser la totalité du contenant directement à la surface de l’eau, en faisant le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Baisser le niveau d’eau en dessous du retour d’eau. Ajouter HIBERNA MC selon la méthode d’application et le dosage recommandé."
+    }
+  ],
+  "dosage": {
+    "specifications": "Verser 1 L de HIBERNA MC par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": []
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": []
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": []
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel.",
+  "sku": "3007305",
+  "related_products": [
+    {
+      "name": "ICE AWAY ULTRA",
+      "link": "/fr/produit/ice-away-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE CLOSING",
+      "link": "/fr/produit/trousse-closing-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE CORRECT",
+      "link": "/fr/produit/trousse-correct-entretien-de-la-piscine/"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "title": "METAL OUT",
+  "link": "/fr/produit/metal-out-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-21",
+  "long_description": "METAL OUT élimine et prévient l’accumulation de métaux dans l’eau (fer, cuivre et manganèse) et sur les parois des piscines. Sa formule complètement biodégradable rend METAL OUT plus sécuritaire pour l’environnement et n’ajoute aucun phosphate à l’eau.",
+  "short_description": "BÉNÉFICES Élimine et contrôle le fer, le cuivre et le manganèse dans l’eau des piscines Biodégradable FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser METAL OUT vis-à-vis le retour d’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "Arrêter le système de filtration et mettre le filtre en position « Recirculer » (ou « Whirlpool »), puis remettre le système en marche. Ajouter METAL OUT selon la méthode d’application et le dosage recommandé. Attendre 60 minutes avant la baignade. Faire fonctionner le filtre à la position « Recirculer » (ou « Whirlpool ») pendant 6 heures afin de disperser le produit. Arrêter le système de filtration et le remettre à la position « Filtration ». Procéder à un traitement choc en suivant le mode d’emploi du produit utilisé. Dans des cas extrêmes de présence de métaux, enlever les résidus en passant l’aspirateur, en ajustant la position du filtre à « Drain » (ou « Waste »). Terminer par un nettoyage du filtre en faisant un lavage à contre-courant (« backwash ») ou en rinçant les cartouches."
+    }
+  ],
+  "dosage": {
+    "specifications": "Ajouter 150 mL de METAL OUT par 10 000 L d’eau de piscine. Traitement hebdomadaire : Dans le but de protéger l’équipement et d’augmenter sa longévité, ajouter 30 mL de METAL OUT par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE INITIAL",
+          "DOSAGE HEBDOMADAIRE"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "600 mL",
+          "120 mL"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "1,2 L",
+          "240 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine. Il est déconseillé d’utiliser METAL OUT avec un filtre à terre diatomée.",
+  "sku": "3007121",
+  "related_products": [
+    {
+      "name": "PHOS OUT ULTRA 2 EN 1",
+      "link": "/fr/produit/phos-out-ultra-2-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 2 EN 1",
+      "link": "/fr/produit/protect-cell-ultra-2-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/fr/produit/stain-out-entretien-de-la-piscine/"
+    }
+  ]
+}

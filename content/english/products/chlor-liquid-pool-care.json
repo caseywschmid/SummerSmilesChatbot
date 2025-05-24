@@ -1,0 +1,63 @@
+{
+  "title": "CHLOR LIQUID",
+  "link": "/product/chlor-liquid-pool-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "CHLOR is a not stabilized sanitizer for pool water. Its chlorine-based formula disinfects water by efficiently destroying bacteria and algae. CHLOR is not stabilized and must be used in combination with STAB to withstand the sun’s ultraviolet rays.",
+  "short_description": "BENEFIT Controls bacteria and algae in swimming pool water FORMAT 3.6L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour CHLOR LIQUID directly into the water, all around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add CHLOR LIQUID according to the application method."
+    }
+  ],
+  "dosage": {
+    "specifications": "Initially, superchlorinate** pool water by adding 1 L of CHLOR LIQUID per 10,000 L of pool water. For best results, superchlorinate at dusk. Chlorinate daily or as needed with 250 mL of CHLOR LIQUID per 10,000 L of pool water to maintain proper chlorine residual. Superchlorinate** weekly with 1 L of CHLOR LIQUID per 10,000 L of pool water when average daily temperature is between 25°C and 32°C. Otherwise, superchlorinate every other week. For visible algae, superchlorinate** using 2 L of CHLOR LIQUID per 10,000 L of pool water. Heavy algae infestation may require dosages up to 3 L of CHLOR LIQUID per 10,000 L of pool water. Vacuum pool when dead algae settle.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "INITIAL SUPERCHLORINATION**",
+          "ROUTINE DOSAGE (daily)",
+          "VISIBLE ALGAE PROBLEMS**"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "4 L",
+          "1L",
+          "8L"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "8L",
+          "2L",
+          "16L"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the pool. Allow product to fully disperse in water before swimming.",
+  "sku": "300701536",
+  "related_products": [
+    {
+      "name": "CHLOR ULTRA",
+      "link": "/product/chlor-ultra-pool-care/"
+    },
+    {
+      "name": "CHLOR ULTRA (1 inch)",
+      "link": "/product/chlor-ultra-1-inch-pool-care/"
+    },
+    {
+      "name": "Duo Z Chlor",
+      "link": "/product/duo-z-chlor/"
+    }
+  ]
+}

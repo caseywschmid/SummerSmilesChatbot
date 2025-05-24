@@ -1,0 +1,57 @@
+{
+  "title": "HIBERNA",
+  "link": "/product/hiberna-pool-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "HIBERNA TM is an algaecide that helps keep pool water clear during the winter months to make opening in the spring easier. HIBERNA TM will not damage or stain the liner.",
+  "short_description": "BENEFITS Helps keep water clear during the winter months Facilitates pool opening in spring FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Slowly pour the entire contents of HIBERNA TM directly into the water while walking around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "Lower the water level a few inches below the water return pipes. Add HIBERNA according to the application method and recommended dosage."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour 1 L of HIBERNA TM per 10,000 L of pool water.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "AT CLOSING"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "4 L (1 container)"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "8 L (2 containers)"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems.",
+  "sku": "3007305",
+  "related_products": [
+    {
+      "name": "ICE AWAY",
+      "link": "/product/ice-away-pool-care/"
+    },
+    {
+      "name": "ICE AWAY ULTRA",
+      "link": "/product/ice-away-ultra-pool-care/"
+    },
+    {
+      "name": "OPENING KIT",
+      "link": "/product/opening-kit-pool-care/"
+    }
+  ]
+}

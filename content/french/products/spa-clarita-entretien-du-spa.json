@@ -1,0 +1,63 @@
+{
+  "title": "SPA CLARITA",
+  "link": "/fr/produit/spa-clarita-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA CLARITA MC est un clarifiant qui facilite l’élimination des minces couches d’huile et de mousse. SPA CLARITA MC coagule et flocule les solides non dissous et toutes les particules en suspension, leur permettant ainsi d’être captés par le filtre afin de rendre l’eau limpide et invitante. SPA CLARITA MC n’est pas affecté par le chlore, ne contient pas d’alun et est efficace dans toutes les conditions de pH, sans modifier le niveau de ce dernier.",
+  "short_description": "BÉNÉFICES Clarifie l’eau du spa Élimine l’huile et la mousse FORMAT 900 mL",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Verser SPA CLARITA MC directement à la surface de l’eau du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "SPA CLARITA MC s’emploie lorsque le filtre fonctionne. Ajouter SPA CLARITA MC selon la méthode d’application. Faire fonctionner la filtration en mode continu jusqu’à ce que l’eau soit limpide. Attendre 60 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour le traitement initial de l’eau brouillée : Ajouter 15 mL de SPA CLARITA MC par 1 000 L d’eau de spa. Pour un traitement préventif hebdomadaire : Ajouter 10 mL de SPA CLARITA MC par 1 000 L d’eau de spa. Une application hebdomadaire maintiendra l’eau du spa claire et étincelante durant toute la saison. Pour le traitement de l’eau fortement brouillée : Ajouter 25 mL de SPA CLARITA MC par 1 000 L d’eau de spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE DU TRAITEMENT INITIAL DE L’EAU BROUILLÉE",
+          "DOSAGE DU TRAITEMENT PRÉVENTIF HEBDOMADAIRE",
+          "DOSAGE DU TRAITEMENT DE L’EAU TRÈS TROUBLE"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "15 ml",
+          "10 ml",
+          "25 ml"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "25 ml",
+          "15 ml",
+          "40 ml"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS ajouter lorsqu’il y a des baigneurs dans le spa. Compatible avec tous les types de filtres.",
+  "sku": "2907080",
+  "related_products": [
+    {
+      "name": "SPA ALL OUT ULTRA 4 EN 1",
+      "link": "/fr/produit/spa-all-out-ultra-4-en-1-entretien-du-spa/"
+    },
+    {
+      "name": "SPA FOAM OUT",
+      "link": "/fr/produit/spa-foam-out-entretien-du-spa/"
+    },
+    {
+      "name": "SPA PHOS OUT ULTRA 2 EN 1",
+      "link": "/fr/produit/spa-phos-out-ultra-2-en-1-entretien-du-spa/"
+    }
+  ]
+}

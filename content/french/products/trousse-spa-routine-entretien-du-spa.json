@@ -1,0 +1,53 @@
+{
+  "title": "TROUSSE SPA ROUTINE",
+  "link": "/fr/produit/trousse-spa-routine-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-24",
+  "long_description": "La TROUSSE ROUTINE Summer Smiles MC vous aidera à maintenir l’équilibre et la clarté de l’eau de votre spa tout au long de la saison. VOTRE TROUSSE CONTIENT 1x 500 g Spa Broma / contenant 25 x 20 g Spa Broma Ultra / contenant 1x 500 ml Spa Phos Out Ultra MC 2 EN 1 1x Cuillère à doser bleue de 25 mL 1x Cuillère à doser transparente de 20 g 1x contenant de bandelettes d’analyse d’eau 3x Bandelettes de mousse de sphaigne AUTRE PRODUIT NON COMPRIS DANS LA TROUSSE POUVANT ÊTRE NÉCESSAIRE Summer Smiles MC Klean Filter Summer Smiles MC Spa PH- Summer Smiles MC Spa PH+ Summer Smiles MC Spa Calcium+ Summer Smiles MC Spa ALKA+",
+  "short_description": "BÉNÉFICES Tout le contenu nécessaire pour entretenir l’eau de votre spa. Détruit les bactéries dans l’eau des spas Maintient une eau claire Simple d’utilisation avec une seule application par semaine Sans odeur de chlore FORMAT 2kg",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "SPA BROMA : Saupoudrer le produit à la surface de l’eau, tout le tour du spa. Utiliser la cuillère à doser transparente afin de calculer la quantité de SPA BROMA à utiliser. SPA BROMA ULTRA : Ajouter les pastilles à l’écumoire ou dans un flotteur. SPA CLARITA ULTRA2 EN 1 : Verser le liquide à la surface de l’eau, tout le tour du spa. Utiliser la cuillère à doser bleue afin de déterminer la quantité de SPA CLARITA ULTRA 2 EN 1 à ajouter. Bandelettes de mousse de sphaigne : Déposer une bandelette de mousse de sphaigne lorsque les cartouches sont en place dans l’écumoire ou l’insérer entre la paroi du réservoir à cartouche et la cartouche elle-même (et non à l’intérieur de la cartouche). Utiliser les bandelettes d’analyse selon le mode d’emploi sur l’emballage."
+    },
+    {
+      "title": "Instructions",
+      "text": "POUR UN SPA CONTENANT JUSQU’À 2 000 L D’EAU. Routine pour la semaine 1 et à répéter aux semaines 5 et 9 : S’assurer que les paramètres de l’eau se situent aux niveaux recommandés à l’aide des bandelettes d’analyse. Arrêter le système de filtration et/ou couper le courant. Ajouter ou remplacer la bandelette de mousse de sphaigne selon la méthode d’application. Remettre le système de filtration en marche et/ou rétablir le courant. Ajouter 25 ml (1 cuillère à doser bleue) de SPA CLARITA ULTRA 2 EN 1 selon la méthode d’application. Ajouter 40 g (2 cuillères à doser transparentes) de SPA BROMA selon la méthode d’application. Ajouter deux pastilles* de SPA BROMA ULTRA selon la méthode d’application. Routine à répéter toutes les autres semaines (semaines 2 à 4, semaines 6 à 8 et semaines 10 à 12) : S’assurer que les paramètres de l’eau se situent aux niveaux recommandés à l’aide des bandelettes d’analyse. Ajouter 25 ml (1 cuillère à doser bleue) de SPA CLARITA ULTRA 2 EN 1 selon la méthode d’application. Ajouter 20 g (1 cuillères à doser transparentes) de SPA BROMA selon la méthode d’application. Ajouter deux pastilles* de SPA BROMA ULTRA selon la méthode d’application."
+    }
+  ],
+  "dosage": {
+    "specifications": "* Pour une utilisation courante du spa (environ 2 baigneurs, 2 à 3 fois par semaine). Vérifier régulièrement le niveau de brome pour qu’il se maintienne entre 3 et 5 ppm. Au besoin, ajouter des pastilles supplémentaires de SPA BROMA ULTRA. Consulter son détaillant professionnel afin de connaître les formats disponibles pour se procurer des pastilles additionnelles de SPA BROMA ULTRA.",
+    "columns": [
+      {
+        "name": " TAILLE DU SPA",
+        "rows": [
+          "SPA BROMA",
+          "SPA BROMA ULTRA",
+          "SPA CLARITA ULTRATM 2 EN 1",
+          "Bandelettes de sphaigne"
+        ]
+      },
+      {
+        "name": "JUSQU’à 2 000 L",
+        "rows": [
+          "20 g / semaine et 40 g par changement de bande de sphaigne",
+          "2 pastilles* / semaine",
+          "25 mL / semaine",
+          "1 bandelette / 4 semaines"
+        ]
+      }
+    ]
+  },
+  "warning": "Assurez-vous que le filtre fonctionne correctement avant d’utiliser le KIT SPA ROUTINE. Si les cartouches n’ont pas été nettoyées au cours du dernier mois, nous recommandons de les nettoyer avec un nettoyant pour cartouches afin d’optimiser la filtration et la circulation. Assurez-vous que l’eau du spa est correctement équilibrée par un spécialiste de l’entretien du spa avant d’utiliser le KIT DE ROUTINE SPA. Veillez à rincer les cartouches toutes les semaines et à nettoyer votre filtre tous les mois. Si les comprimés de SPA BOMA ULTRA MC ne sont pas fondus à la fin de la semaine, augmentez la filtration de votre spa. Pour une utilisation normale du spa (environ 3 baigneurs, 2 à 3 fois par semaine). S’il y a plus de 3 baigneurs, ajouter 20 g (1 cuillère à mesurer transparente)/1 000 L de SPA BROMA MC , au besoin.",
+  "sku": "2907668",
+  "related_products": [
+    {
+      "name": "SPA DRAIN ULTRA",
+      "link": "/fr/produit/spa-drain-ultra-entretien-du-spa/"
+    },
+    {
+      "name": "SPA ICE AWAY",
+      "link": "/fr/produit/spa-ice-away-entretien-du-spa/"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "SHOK ULTRA",
+  "link": "/product/shok-ultra-pool-care/",
+  "lang": "en",
+  "date": "2023-03-20",
+  "long_description": "SHOK ULTRA is a chlorine-free shock treatment that actively eliminates organic waste such as perspiration, body oil and cosmetics that accumulate in pool water. Its fast-acting, chlorine-free formula is odourless and prevents eye and skin irritation due to high chlorine levels. SHOK ULTRA is not affected by the sun’s ultraviolet rays.",
+  "short_description": "BENEFITS Eliminates organic waste No chlorine odour Reduces eye and skin irritation FORMATS Pouch of 300 g, 6 kg and 18 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "Maintain recommended daily levels as determined by testing kit. Free available chlorine: 1.0 – 3.0 ppm pH: 7.2 – 7.8 Total alkalinity: 80 – 120 ppm Calcium hardness: 200 – 300 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "Sprinkle SHOK ULTRA directly over the surface of the water while walking all around the pool. OR: Pour product directly into the skimmer basket while the filter is running."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add SHOK ULTRA according to chosen application method. Wait for 30 minutes before entering the pool."
+    },
+    {
+      "title": "Note",
+      "text": "Higher doses may be required in hot weather, after rain or when pool is used heavily."
+    }
+  ],
+  "dosage": {
+    "specifications": "Add 75 g of SHOK ULTRA per 10,000 L of pool water every week.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (weekly)"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "300 g (1POUCH)"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "600 g (2 POUCHES)"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems. DO NOT apply the product at the same time as adding salt. DO NOT apply the product when people are in the pool.",
+  "sku": "3007331",
+  "related_products": [
+    {
+      "name": "SALT SHOK ULTRA",
+      "link": "/product/salt-shok-ultra-pool-care/"
+    },
+    {
+      "name": "SHOK",
+      "link": "/product/shok-pool-care/"
+    },
+    {
+      "name": "SHOK ULTRA 3 IN 1",
+      "link": "/product/shok-ultra-3-in-1-pool-care/"
+    }
+  ]
+}

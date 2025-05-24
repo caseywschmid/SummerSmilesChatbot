@@ -1,0 +1,57 @@
+{
+  "title": "SALT SHOK ULTRA",
+  "link": "/product/salt-shok-ultra-pool-care/",
+  "lang": "en",
+  "date": "2023-03-20",
+  "long_description": "SALT SHOK ULTRA is a pre-measured shock treatment that actively eliminates organic waste and maintains water clarity in a single weekly treatment.",
+  "short_description": "BENEFITS Eliminates organic waste Maintains water clarity FORMATS Pouch of 480 g",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Sprinkle SALT SHOK ULTRA directly over the surface of the water while walking all around the pool. OR: Pour the product directly into the skimmer basket."
+    },
+    {
+      "title": "Instructions",
+      "text": "Put filter in filtration mode. For each treatment, add one (480 g) pouch of SALT SHOK ULTRA per 40,000 L of water according to the chosen application method. Wait 30 minutes before using the pool."
+    }
+  ],
+  "dosage": {
+    "specifications": "One pouch treats up to 40,000 L of pool water. Use SALT SHOK ULTRA weekly to keep water crystal clear.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (weekly)"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "1 pouch"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "2 pouches"
+        ]
+      }
+    ]
+  },
+  "warning": "Do not apply the product at the same time as adding salt. Wait for salt to dissolve completely before adding SALT SHOK ULTRA. DO NOT apply the product when people are in the pool.",
+  "sku": "30-07212-48",
+  "related_products": [
+    {
+      "name": "PROTECT CELL ULTRA 2 IN 1",
+      "link": "/product/protect-cell-ultra-2-in-1-pool-care/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 3 IN 1",
+      "link": "/product/protect-cell-ultra-3-in-1-pool-care/"
+    },
+    {
+      "name": "SHOK ULTRA",
+      "link": "/product/shok-ultra-pool-care/"
+    }
+  ]
+}

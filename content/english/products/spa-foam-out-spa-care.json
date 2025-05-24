@@ -1,0 +1,61 @@
+{
+  "title": "SPA FOAM OUT",
+  "link": "/product/spa-foam-out-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA FOAM OUT prevents and eliminates foam in spa water. It is designed for use in aerated and heated water. It works in seconds so that you can enjoy your spa sooner.",
+  "short_description": "BENEFIT Acts quickly to eliminate foaming in spa water FORMAT 500 mL",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour SPA FOAM OUT directly over the surface of the spa water."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add SPA FOAM OUT according to the application method and recommended dosage. Wait about 10 minutes and repeat treatment if foam has not disappeared. Wait 5 minutes before bathing."
+    },
+    {
+      "title": "Note",
+      "text": "This treatment can be used as often as needed to stop foaming."
+    }
+  ],
+  "dosage": {
+    "specifications": "Add 10 mL of SPA FOAM OUT per 1,000 L of spa water. Use once a week for regular maintenance.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "WEEKLY DOSAGE"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "10 ml"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "15 ml"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the spa. Shake well before using. Spa must be running before adding SPA FOAM OUT.",
+  "sku": "2907405",
+  "related_products": [
+    {
+      "name": "SPA CLARITA",
+      "link": "/product/spa-clarita-spa-care/"
+    },
+    {
+      "name": "SPA PHOS OUT ULTRA 2 IN 1",
+      "link": "/product/spa-phos-out-ultra-2-in-1-spa-care/"
+    },
+    {
+      "name": "SPA SOFT",
+      "link": "/product/spa-soft-spa-care/"
+    }
+  ]
+}

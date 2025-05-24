@@ -1,0 +1,57 @@
+{
+  "title": "Correct Kit",
+  "link": "/product/correct-kit-pool-care/",
+  "lang": "en",
+  "date": "2023-03-16",
+  "long_description": "The Summer Smiles™ CORRECT KIT corrects algae and cloudy water problems in 48 hours GUARANTEED! This kit is also recommended for making opening your pool easier in the spring.",
+  "short_description": "YOUR KIT CONTAINS 1x 300 g Shok Ultra / pouch 1x 125 g Clarita / box of tablets 3x 500 g Shok Correct / pouch OTHER PRODUCTS NOT INCLUDED IN KIT THAT MAY BE REQUIRED Summer Smiles™ pH + Summer Smiles™ pH – BENEFITS Corrects coloured water in 48 hours Also great for opening pools quickly FORMAT 1.92 kg",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "SHOK ULTRA: Sprinkle contents of pouch directly onto the surface of water while walking all around the pool. CLARITA: Place tablets directly in the skimmer or pump basket. SHOK CORRECT: Sprinkle contents of pouches directly onto the surface of water while walking all around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "For optimal results, always follow these steps: Do a backwash and raise the water level if needed. Adjust the pH of water to 7.2 according to the instructions on the product used (pH balancing products sold separately). Add contents of the three (3) pouches of SHOK CORRECT according to the application method. Add contents of SHOK ULTRA according to the application method. Add the entire contents of CLARITA according to the application method. Run the filter for 48 hours. Do a backwash. If used as an opening kit: Manually remove all leaves and debris from the water. Raise the water level to the midpoint of the skimmer. Vacuum with the filter in the “Drain” or “Waste” position to remove any remaining debris. Do a backwash. Adjust the pH of water to 7.2 according to the instructions on the product used (pH balancing products sold separately). Add contents of the three (3) pouches of SHOK CORRECT according to the application method. Add contents of SHOK ULTRA according to the application method. Add the entire contents of CLARITA according to the application method. Run the filter for 48 hours. Do a backwash."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "90,000 L and less",
+        "rows": [
+          "1 kit"
+        ]
+      },
+      {
+        "name": "More than 90,000 L",
+        "rows": [
+          "2 Kits"
+        ]
+      }
+    ]
+  },
+  "warning": "These instructions replace those found on the individual products included in this kit. Pay close attention to warnings on product labels. Compatible with salt systems.",
+  "sku": "3007473",
+  "related_products": [
+    {
+      "name": "ALL OUT ULTRA 4 IN 1",
+      "link": "/product/all-out-ultra-4-in-1-pool-care/"
+    },
+    {
+      "name": "CLOSING KIT",
+      "link": "/product/closing-kit-pool-care/"
+    },
+    {
+      "name": "PHOS OUT ULTRA 2 IN 1",
+      "link": "/product/phos-out-ultra-2-in-1-pool-care/"
+    }
+  ]
+}

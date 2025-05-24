@@ -1,0 +1,60 @@
+{
+  "title": "Alg Out Ultra 60%",
+  "link": "/fr/produit/alg-out-ultra-60-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "ALG OUT ULTRA 60 % détruit les algues dans l’eau des piscines. Sa formule très concentrée en fait un algicide puissant dans les cas d’invasion d’algues visibles. ALG OUT ULTRA 60 % permet de traiter une grande variété d’algues (vertes, jaunes ou noires).",
+  "short_description": "BÉNÉFICE Détruit les algues dans l’eau des piscines FORMATS 1 L et 4 L",
+  "characteristics": [
+    {
+      "title": "Méthode d'application",
+      "text": "Verser ALG OUT ULTRA 60 % à la surface de l’eau, tout le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter ALG OUT ULTRA 60 % selon la méthode d’application. Attendre 5 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Dans les eaux renfermant des algues visibles, ajouter 100 mL de ALG OUT ULTRA 60 % par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "PROBLÈME D’ALGUE VISIBLE",
+          "DOSAGE HEBDOMADAIRE"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "400 mL",
+          "100 mL"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "800 mL",
+          "200 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007042",
+  "related_products": [
+    {
+      "name": "ALG OUT 40%",
+      "link": "/fr/produit/alg-out-40-entretien-de-la-piscine/"
+    },
+    {
+      "name": "ALG OUT ULTRA 3 EN 1",
+      "link": "/fr/produit/alg-out-ultra-3-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE CORRECT",
+      "link": "/fr/produit/trousse-correct-entretien-de-la-piscine/"
+    }
+  ]
+}

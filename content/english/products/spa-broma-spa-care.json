@@ -1,0 +1,64 @@
+{
+  "title": "SPA BROMA",
+  "link": "/product/spa-broma-spa-care/",
+  "lang": "en",
+  "date": "2023-03-22",
+  "long_description": "SPA BROMA is a practical and easy-to-use sanitizer for spa water. It dissolves quickly and completely to provide effective bromine disinfection, while also eliminating organic waste such as perspiration, body oils and cosmetics which tend to cloud water. Its odourless bromine formula works well in hot water, making it ideal for use in spas. It’s also gentler to eyes and skin than chlorine-based sanitizers. A great option for people with allergies or sensitive skin.",
+  "short_description": "BENEFIT Provides effective bromine disinfection FORMAT 900 g",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "Maintain recommended daily levels as determined by testing kit. Free available bromine: 3.0 – 5.0 ppm pH: 7.2 – 7.8 Total alkalinity: 100 – 200 ppm Calcium hardness: 100 – 200 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "Add SPA BROMA directly to swimmer-free spa water with circulation system operating. The filtration system should be maintained in order to ensure proper disinfection."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add SPA BROMA according to the application method. Maintain circulation for at least 30 minutes. Wait 30 minutes before bathing. Swimmers should not use spa until reading drops to 5.0 ppm."
+    }
+  ],
+  "dosage": {
+    "specifications": "Add 6 g of SPA BROMA per 1,000 L of spa water (routine dosage). Test for available bromine and repeat above dosage at 15 – 20 minutes intervals until a residual of 3.0 – 5.0 ppm is reached. Periodic superchlorination of spa water is recommended after heavy use, or once a week in moderately used spas, to remove organic waste. Add 25 g of SPA BROMA per 1,000 L of spa water as often as required. Persistent foam formation and turbid or malodorous water may be indicators of inadequate sanitizer levels. To correct such conditions, superoxidize spa water by adding 25 g of SPA BROMA per 1,000 L of spa water.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (adjustment if needed)",
+          "SUPERCHLORINATION DOSAGE (weekly)"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "6 g",
+          "25 g"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "10g",
+          "35g"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when swimmers are in the spa.",
+  "sku": "2907216",
+  "related_products": [
+    {
+      "name": "SPA BROMA ULTRA",
+      "link": "/product/spa-broma-ultra-spa-care/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA",
+      "link": "/product/spa-chlor-ultra-spa-care/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA 1″",
+      "link": "/product/spa-chlor-ultra-1-inch-spa-care/"
+    }
+  ]
+}

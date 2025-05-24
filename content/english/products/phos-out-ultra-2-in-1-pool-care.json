@@ -1,0 +1,63 @@
+{
+  "title": "PHOS OUT ULTRA 2 IN 1",
+  "link": "/product/phos-out-ultra-2-in-1-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "PHOS OUT ULTRA TM 2 IN 1 is a dual-action treatment that eliminates phosphates and clarifies pool water in a single application. When used weekly, PHOS OUT ULTRA TM 2 IN 1 will continuously eliminate phosphates and keep water crystal clear. PHOS OUT ULTRA TM 2 IN 1 is not affected by chlorine and works in any pH condition. It will not alter the water’s pH level.",
+  "short_description": "BENEFITS Eliminates phosphates Clarifies pool water FORMAT 1 L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Add PHOS OUT ULTRA TM 2 IN 1 to pool water directly in front of the water return jet."
+    },
+    {
+      "title": "Instructions",
+      "text": "PHOS OUT ULTRA TM 2 IN 1 must be added with the filter running. Add PHOS OUT ULTRA TM 2 IN 1 according to the application method. Wait 60 minutes before using the pool. Keep filter running for 8 hours. Backwash filter if it reaches the maximum recommended pressure, or rinse the cartridges. If needed, vacuum the bottom of the pool."
+    }
+  ],
+  "dosage": {
+    "specifications": "For initial phosphate treatment: Add 60 mL of PHOS OUT ULTRA TM 2 IN 1 per 10,000 L of pool water to treat phosphate levels between 250 and 1,000 ppb. For weekly preventive treatment: Add 25 mL of PHOS OUT ULTRA TM 2 IN 1 per 10,000 L of pool water. Use weekly for crystal-clear pool water all season long. For cloudy water treatment: Add 125 mL of PHOS OUT ULTRA TM 2 IN 1 per 10,000 L of pool water.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "INITIAL PHOSPHATE TREATMENT DOSAGE",
+          "WEEKLY PREVENTIVE DOSAGE",
+          "CLOUDY WATER DOSAGE"
+        ]
+      },
+      {
+        "name": "40,000 L",
+        "rows": [
+          "240 mL",
+          "100 mL",
+          "500 mL"
+        ]
+      },
+      {
+        "name": "80,000 L",
+        "rows": [
+          "480 mL",
+          "200 mL",
+          "1 L"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems. DO NOT apply the product when people are in the pool.",
+  "sku": "3007076",
+  "related_products": [
+    {
+      "name": "CLARITA ULTRA 3 IN 1",
+      "link": "/product/clarita-ultra-3-in-1-pool-care/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 2 IN 1",
+      "link": "/product/protect-cell-ultra-2-in-1-pool-care/"
+    },
+    {
+      "name": "PROTECT CELL ULTRA 3 IN 1",
+      "link": "/product/protect-cell-ultra-3-in-1-pool-care/"
+    }
+  ]
+}

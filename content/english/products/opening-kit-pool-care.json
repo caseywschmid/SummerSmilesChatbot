@@ -1,0 +1,57 @@
+{
+  "title": "Opening Kit",
+  "link": "/product/opening-kit-pool-care/",
+  "lang": "en",
+  "date": "2023-03-18",
+  "long_description": "The Summer Smiles TM OPENING KIT makes opening your pool easy so that you can quickly dive right into the swimming season. Just 24 hours after adding the products, you’ll have clear water that’s ready to be balanced.",
+  "short_description": "YOUR KIT CONTAINS 1x 500 mL All Out Ultra 4 IN 1 / bottle 1x 125 g Clarita / box of tablets 1x 1  kg Chlor Ultra  / bottle BENEFITS Clarifies water Acts quickly in 24 hours Easy to use FORMAT 1.63 kg",
+  "characteristics": [
+    {
+      "title": "Application Method",
+      "text": "ALL OUT ULTRA 4 IN 1: Pour product directly onto thesurface of water while walking all around the pool. CHLOR ULTRA : Sprinkle contents of the bottle directly on the surface of the water, all around the pool. CLARITA: Place tablets directly in the skimmer or pump basket."
+    },
+    {
+      "title": "Instructions",
+      "text": "For optimal results, always follow these steps: Manually remove all leaves and debris from the water. Raise the water level to the midpoint of the skimmer. Vacuum with the filter in the “Drain” or “Waste” position to remove any remaining debris. Do a backwash. Run the filter in the “Recirculate” or “Whirlpool” position. Add the entire contents of ALL OUT ULTRA™ 4 IN 1 according to the application method. Leave the filter running in the “Recirculate” or “Whirlpool” position for six (6) hours to completely disperse the product. Add the entire contents of CHLOR ULTRA™ according to the application method.. Add the entire contents of CLARITA™ according to the application method. Put the filter back in the “Filter” position and let it run for at least 24 hours. Have water tested to ensure parameters are properly adjusted before swimming."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "80,000 L or less",
+        "rows": [
+          "1 kit"
+        ]
+      },
+      {
+        "name": "More than 80,000 L",
+        "rows": [
+          "2 kits"
+        ]
+      }
+    ]
+  },
+  "warning": "These instructions replace those found on the individual products included in this kit. Pay close attention to warnings on product labels. Compatible with salt systems.",
+  "sku": "3007463",
+  "related_products": [
+    {
+      "name": "CLOSING KIT",
+      "link": "/product/closing-kit-pool-care/"
+    },
+    {
+      "name": "HIBERNA",
+      "link": "/product/hiberna-pool-care/"
+    },
+    {
+      "name": "ICE AWAY",
+      "link": "/product/ice-away-pool-care/"
+    }
+  ]
+}

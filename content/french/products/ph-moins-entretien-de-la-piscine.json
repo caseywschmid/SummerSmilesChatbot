@@ -1,0 +1,67 @@
+{
+  "title": "pH-",
+  "link": "/fr/produit/ph-moins-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-20",
+  "long_description": "pH – aide à réduire le pH pour obtenir le maximum d’efficacité des assainissants et pour éviter les problèmes d’eau brouillée et la formation de tartre. Le maintien d’un pH équilibré assure le confort des baigneurs et la protection des équipements de piscine.",
+  "short_description": "BÉNÉFICES Contribue à équilibrer le pH de l’eau pour maximiser l’efficacité des assainissants Améliore le confort des baigneurs FORMATS 3 kg, 8 kg et 25 kg",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "L’eau d’une piscine devrait avoir un pH de 7,2 à 7,8. L’alcalinité totale de la piscine devrait se situer entre 80 et 120 ppm. Les teneurs sont déterminées à l’aide d’une trousse d’analyse."
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer pH – à la surface de l’eau, tout le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter pH – selon la méthode d’application et le dosage recommandé. Après l’ajout du produit, attendre 20 minutes avant la baignade. Après l’ajout du produit, laisser l’eau circuler pendant 4 heures, puis vérifier le pH. Procéder à un nouvel ajustement si nécessaire."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour diminuer le pH aux valeurs recommandées, ajouter la quantité de produit requise selon le tableau suivant :",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "pH > 8,2",
+          "pH 8,2 à 7,7",
+          "pH 7,8 à 7,4"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "800 g",
+          "600 g",
+          "400 g"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "1,6 kg",
+          "1,2 kg",
+          "800 g"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007180",
+  "related_products": [
+    {
+      "name": "ALKA +",
+      "link": "/fr/produit/alka-plus-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAB",
+      "link": "/fr/produit/stab-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAB ULTRA",
+      "link": "/fr/produit/stab-ultra-entretien-de-la-piscine/"
+    }
+  ]
+}

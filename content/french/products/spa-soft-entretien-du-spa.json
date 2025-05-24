@@ -1,0 +1,60 @@
+{
+  "title": "SPA SOFT",
+  "link": "/fr/produit/spa-soft-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA SOFT est un adoucisseur d’eau permettant d’améliorer la qualité de l’eau et le confort des baigneurs. Sa formule procure un équilibre parfait du pH de l’eau du spa et optimise l’efficacité des assainissants. Il protège aussi les surfaces contre la corrosion et est compatible avec tous les types d’assainissant. SPA SOFT augmente la solubilité des sels dans l’eau, ce qui rend l’eau encore plus claire et limpide et procure une sensation de douceur sur le corps. SPA SOFT permet de se retrouver dans un environnement de détente agréablement parfumé.",
+  "short_description": "BÉNÉFICES Procure une sensation de douceur sur la peau Améliore l’efficacité des assainissants Agréablement parfumé FORMAT 1 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer SPA SOFT lentement à la surface de l’eau du spa pendant le fonctionnement de la pompe."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter SPA SOFT selon la méthode d’application et le dosage recommandé. Attendre 10 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour le traitement initial, ajouter 150 g de SPA SOFT par 1 000 L d’eau de spa. La dose d’entretien hebdomadaire pour maintenir l’efficacité est de 40 g de SPA SOFT par 1 000 L d’eau de spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE AU DÉPART",
+          "DOSAGE HEBDOMADAIRE"
+        ]
+      },
+      {
+        "name": " 1 000 L",
+        "rows": [
+          "150 g",
+          "40 g"
+        ]
+      },
+      {
+        "name": " 1 500 L",
+        "rows": [
+          "225 g",
+          "60 g"
+        ]
+      }
+    ]
+  },
+  "warning": "L’écumoire doit être libre de tout autre produit avant l’ajout afin d’éviter une incompatibilité entre les produits. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907047",
+  "related_products": [
+    {
+      "name": "SPA CLARITA",
+      "link": "/fr/produit/spa-clarita-entretien-du-spa/"
+    },
+    {
+      "name": "SPA FOAM OUT",
+      "link": "/fr/produit/spa-foam-out-entretien-du-spa/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/fr/produit/spa-stain-out-entretien-du-spa/"
+    }
+  ]
+}

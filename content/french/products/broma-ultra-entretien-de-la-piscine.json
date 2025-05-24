@@ -1,0 +1,65 @@
+{
+  "title": "Broma Ultra",
+  "link": "/fr/produit/broma-ultra-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "BROMA ULTRA est un assainissant pratique pour l’eau des piscines présenté sous forme de pastilles pour simplifier le dosage. Les pastilles de bromation BROMA ULTRA assainissent et désinfectent efficacement l’eau des piscines, en plus d’éliminer les algues. La formule au brome de BROMA ULTRA est avantageuse car elle reste performante même dans les cas de variations du pH. De plus, elle est inodore et plus douce pour la peau et les yeux des baigneurs que le chlore. C’est une option à privilégier pour les personnes sensibles ou allergiques. La formule de BROMA ULTRA est sensible aux rayons ultraviolets du soleil et il est recommandé de surveiller et d’ajuster régulièrement le niveau d’assainissant dans l’eau.",
+  "short_description": "BÉNÉFICES Détruit les bactéries et les algues dans l’eau des piscines Sans odeur de chlore FORMATS 4 kg et 18 kg",
+  "characteristics": [
+    {
+      "title": "Valeurs recommandées",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs appropriées; les teneurs sont déterminées à l’aide d’une trousse d’analyse. Brome libre disponible : 1,0 – 3,0 ppm pH : 7,2 – 7,8 Alcalinité totale : 100 – 120 ppm Dureté (en calcium) : 200 – 300 ppm"
+    },
+    {
+      "title": "Méthode d'application",
+      "text": "Si un mécanisme de distribution automatique est utilisé, remplir la ou les chambre(s) avec des pastilles d’assainissant et régler le taux d’écoulement selon les recommandations du fabricant pour garder les teneurs en brome résiduel quotidiennes aux valeurs voulues. Ajouter les pastilles dans le panier de l’écumoire est une méthode d’application alternative."
+    },
+    {
+      "title": "Instructions",
+      "text": "Dans une piscine venant d’être remplie, donner un traitement choc si nécessaire. Pour effectuer un traitement choc, utiliser un traitement sans chlore. Utiliser les doses recommandées ci-dessous pour déterminer la quantité nécessaire de BROMA ULTRA pour garder l’eau de la piscine étincelante et invitante. Attendre 5 minutes avant la baignade."
+    },
+    {
+      "title": "Remarques",
+      "text": "Par temps chaud, après une pluie ou un usage intensif de la piscine, des doses plus fortes peuvent être nécessaires pour garder les teneurs en brome résiduel aux valeurs appropriées. Une surchloration périodique de l’eau de la piscine est recommandée. Suivre les instructions de l’étiquette du produit de surchloration utilisé. NE PAS contaminer les sources d’approvisionnement en eau d’irrigation ou en eau potable ni les habitats aquatiques lors du nettoyage de l’équipement ou de l’élimination de déchets. NE PAS appliquer le produit lorsque des nageurs se trouvent dans la piscine."
+    }
+  ],
+  "dosage": {
+    "specifications": "La quantité quotidienne utilisée doit être d’environ 20 g de BROMA ULTRA par 10 000 L d’eau de piscine. Ajouter 1 pastille par 10 000 L d’eau de piscine, au besoin, pour garder les teneurs en brome résiduel entre 1 et 3 ppm en tout temps.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE DE ROUTINE (quotidien)"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "4 pastilles"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "8 pastilles"
+        ]
+      }
+    ]
+  },
+  "warning": "Un contact direct entre les pastilles et le revêtement en vinyle de la piscine ou avec les surfaces peintes peut en causer le blanchiment. Les mécanismes de distribution automatique utilisés avec ces pastilles doivent être totalement libres de tout autre assainissant afin d’éviter la possibilité d’une explosion. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007055",
+  "related_products": [
+    {
+      "name": "CHLOR ULTRA",
+      "link": "/fr/produit/chlor-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CHLOR ULTRA (3 pouces)",
+      "link": "/fr/produit/chlor-ultra-3-pouces-entretien-de-la-piscine/"
+    },
+    {
+      "name": "Duo Z Chlor",
+      "link": "/fr/produit/duo-z-chlor/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "SPA CLARITA",
+  "link": "/product/spa-clarita-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA CLARITA TM is a clarifier that helps remove oil and foam. SPA CLARITA TM coagulates and flocks all suspended undissolved solids and particles in spa water so that they can be trapped by the cartridge filter to leave water sparkling clear. SPA CLARITA TM is not affected by chlorine, does not contain alum and works well at all pH levels. Won’t alter the pH level of water.",
+  "short_description": "BENEFITS Clarifies spa water Eliminates oil and foam FORMAT 900 mL",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour SPA CLARITA TM directly onto the water’s surface."
+    },
+    {
+      "title": "Instructions",
+      "text": "SPA CLARITA TM must be added with the filter running. Add SPA CLARITA TM according to the application method. Run filter until water is clear. Wait 60 minutes before bathing."
+    }
+  ],
+  "dosage": {
+    "specifications": "For initial cloudy water treatment: Add 15 mL of SPA CLARITA TM per 1,000 L of spa water. For weekly preventive treatment: Add 10 mL of SPA CLARITA TM per 1,000 L of spa water. Use weekly for crystal-clear spa water all season long. For very cloudy water treatment: Add 25 mL of SPA CLARITA TM per 1,000 L of spa water.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "INITIAL CLOUDY WATER TREATMENT DOSAGE",
+          "WEEKLY PREVENTIVE TREATMENT DOSAGE",
+          "VERY CLOUDY WATER TREATMENT DOSAGE"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "15 ml",
+          "10 ml",
+          "25 ml"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "25 ml",
+          "15 ml",
+          "40 ml"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply product when people are in the spa. Compatible with all types of filters.",
+  "sku": "2907080",
+  "related_products": [
+    {
+      "name": "SPA FOAM OUT",
+      "link": "/product/spa-foam-out-spa-care/"
+    },
+    {
+      "name": "SPA PHOS OUT ULTRA 2 IN 1",
+      "link": "/product/spa-phos-out-ultra-2-in-1-spa-care/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/product/spa-stain-out-spa-care/"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "PROTECT CELL ULTRA 2 EN 1",
+  "link": "/fr/produit/protect-cell-ultra-2-en-1-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-21",
+  "long_description": "PROTECT CELL ULTRA 2 EN 1 est une formule innovatrice qui accroît l’efficacité du générateur de chlore au sel, protège la cellule, retarde la corrosion et améliore le confort des baigneurs lorsqu’utilisée une fois par mois en combinaison avec PROTECT CELL ULTRA 3 EN 1. Ce produit de piscine spécialisé, lorsque combiné avec un générateur de chlore au sel, améliore la qualité de l’eau et la rend cristalline.",
+  "short_description": "BÉNÉFICES Accroît l’efficacité du générateur de chlore au sel et retarde la corrosion Rend l’eau douce et agréable pour la peau FORMAT Sachet de 454 g",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer à la surface de l’eau, vis-à-vis le retour d’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "Après l’application de PROTECT CELL ULTRA 2 EN 1, vérifier le pH de l’eau et ajuster ce dernier entre 7,2 et 7,8 si nécessaire. PROTECT CELL ULTRA 2 EN 1 doit être utilisé une fois par mois. Attendre 30 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Ajouter un sachet de 454 g de PROTECT CELL ULTRA 2 EN 1 par 25 000 L d’eau de piscine une fois par mois et en une seule application.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE DE ROUTINE (mensuel)"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "2 sachets"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "4 sachets"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer dans le panier de l’écumoire. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007510",
+  "related_products": [
+    {
+      "name": "CHLOR OUT (poudre)",
+      "link": "/fr/produit/chlor-out-poudre/"
+    },
+    {
+      "name": "METAL OUT",
+      "link": "/fr/produit/metal-out-entretien-de-la-piscine/"
+    },
+    {
+      "name": "SALT SHOK ULTRA",
+      "link": "/fr/produit/salt-shok-ultra-entretien-de-la-piscine/"
+    }
+  ]
+}

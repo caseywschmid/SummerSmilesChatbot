@@ -1,0 +1,61 @@
+{
+  "title": "SPA CALCIUM +",
+  "link": "/fr/produit/spa-calcium-plus-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "SPA CALCIUM + aide à maintenir une dureté calcique équilibrée pour éviter la corrosion des surfaces de métal, protéger les équipements du spa et assurer le confort des baigneurs. Sa formule liquide est spécialement conçue pour les spas et permet une dissolution immédiate sans laisser de dépôts.",
+  "short_description": "BÉNÉFICES Prévient la corrosion sur les surfaces de métal et l’érosion des surfaces de spa Améliore le confort des baigneurs FORMAT 1 L",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "L’eau du spa devrait avoir une dureté calcique totale comprise entre 100 et 200 ppm. Les teneurs sont déterminées à l’aide d’une trousse d’analyse."
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Verser SPA CALCIUM + directement à la surface de l’eau du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter le produit au besoin selon la méthode d’application et le dosage recommandé. La baignade est possible tout de suite après l’application du produit."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour augmenter la dureté totale de 50 ppm, ajouter 40 mL de SPA CALCIUM + par 1 000 L d’eau de spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "POUR AUGMENTER L’ALCALINITÉ TOTALE DE 50 ppm"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "40 mL"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "60 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907501",
+  "related_products": [
+    {
+      "name": "SPA <span class=\"ph-text\">pH+</span>",
+      "link": "/fr/produit/spa-ph-plus-entretien-du-spa/"
+    },
+    {
+      "name": "SPA ALKA-",
+      "link": "/fr/produit/spa-alka-moins-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SOFT",
+      "link": "/fr/produit/spa-soft-entretien-du-spa/"
+    }
+  ]
+}

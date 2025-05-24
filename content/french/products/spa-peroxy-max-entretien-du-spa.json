@@ -1,0 +1,49 @@
+{
+  "title": "SPA PEROXY MAX",
+  "link": "/fr/produit/spa-peroxy-max-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA PEROXY MAX complète le produit SPA PEROXY SHOK en assurant le bon fonctionnement du traitement à base de peroxyde d’hydrogène. La formule de SPA PEROXY MAX permet de capturer les particules nuisibles à l’action du peroxyde d’hydrogène.",
+  "short_description": "BÉNÉFICES Vient en aide au SPA PEROXY SHOK en permettant de capturer les particules qui empêchent l’oxygène activé d’agir adéquatement. Agit instantanément FORMAT 250 g",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Ajouter SPA PEROXY MAX directement dans l’eau du spa. Ajouter les pastilles dans l’écumoire peut être une alternative."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter SPA PEROXY MAX selon la méthode d’application choisie ainsi que le dosage recommandé. La baignade est possible tout de suite après l’application. Rincer la cartouche de 24 à 48 heures après l’ajout du produit dans le spa."
+    }
+  ],
+  "dosage": {
+    "specifications": "Ajouter une pastille de 25 g de SPA PEROXY MAX par 1 000 L d’eau de spa toutes les deux semaines.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE DE ROUTINE (chaque deux semaines)"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "1 pastille"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "2 pastilles"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "2907090",
+  "related_products": [
+    {
+      "name": "SPA PEROXY SHOK",
+      "link": "/fr/produit/spa-peroxy-shok-entretien-du-spa/"
+    }
+  ]
+}

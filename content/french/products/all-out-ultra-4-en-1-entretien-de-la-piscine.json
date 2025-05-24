@@ -1,0 +1,69 @@
+{
+  "title": "All Out Ultra 4 en 1",
+  "link": "/fr/produit/all-out-ultra-4-en-1-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "ALL OUT ULTRAMC 4 EN 1 est un traitement multiaction pour l’eau des piscines permettant de prévenir et de traiter avec un seul produit les problèmes d’eau les plus communs incluant la présence de métaux, de phosphates, de déchets organiques et d’eau brouillée.",
+  "short_description": "BÉNÉFICES Élimine les métaux Élimine les phosphates Élimine les déchets organiques Clarifie l’eau FORMAT 500 mL, 1 L REMARQUE Bien que cela soit peu probable, il peut être nécessaire d’éteindre la filtration durant 8 heures pour laisser décanter les particules. Si c’est le cas, enlever les résidus à l’aide de l’aspirateur en ajustant la position du filtre à « Drain » (ou « Waste »). Ne pas oublier de bien nettoyer le filtre avant de recommencer les opérations régulières en faisant tout d’abord un nettoyage à contre-courant (ou « backwash »).",
+  "characteristics": [
+    {
+      "title": "Méthode d'application",
+      "text": "Verser la quantité requise de ALL OUT ULTRAMC 4 EN 1 vis-à-vis le retour d’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "Arrêter la filtration et mettre en position « Recirculer » (ou « Whirlpool »). Remettre le système en marche. Ajouter ALL OUT ULTRAMC 4 EN 1 selon la méthode d’application et le dosage recommandé. Faire fonctionner le filtre à la position « Recirculer » (ou « Whirlpool ») pendant 6 heures afin de bien disperser le produit. Procéder à un traitement choc en suivant le mode d’emploi du produit utilisé. Attendre 60 minutes avant la baignade. Remettre le système à la position « Filtration » et laisser filtrer pour un minimum de 24 heures."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour le traitement des métaux ou de l’eau colorée: Ajouter 150 mL de ALL OUT ULTRAMC 4 EN 1 par 10 000 L d’eau de piscine. Pour le traitement des phosphates: Ajouter 60 mL de ALL OUT ULTRAMC 4 EN 1 par 10 000 L d’eau de piscine pour diminuer la valeur de 100 ppb en 48 heures. Pour le traitement des déchets organiques: Ajouter 150 mL de ALL OUT ULTRAMC 4 EN 1 par 10 000 L d’eau de piscine. Pour le traitement de l’eau brouillée: Ajouter 160 mL de ALL OUT ULTRAMC 4 EN 1 par 10 000 L d’eau de piscine. Pour un traitement préventif hebdomadaire: Ajouter 25 mL de ALL OUT ULTRAMC 4 EN 1 par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "TRAITEMENT DES MÉTAUX OU DE L’EAU COLORÉE",
+          "TRAITEMENT DES PHOSPHATES",
+          "TRAITEMENT DES DÉCHETS ORGANIQUES",
+          "TRAITEMENT DE L’EAU BROUILLÉE",
+          "TRAITEMENT PRÉVENTIF HEBDOMADAIRE"
+        ]
+      },
+      {
+        "name": "40,000 L",
+        "rows": [
+          "600 mL",
+          "240 mL",
+          "600 mL",
+          "640 mL",
+          "100 mL"
+        ]
+      },
+      {
+        "name": "80,000 L",
+        "rows": [
+          "1200 mL",
+          "480 mL",
+          "1200 mL",
+          "1280 mL",
+          "200 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. NE PAS ajouter le produit lorsqu’il y a des baigneurs dans la piscine. Nécessite un traitement choc après l’utilisation pour activer le produit. Il n’est pas recommandé d’utiliser ce produit avec un filtre à terre diatomée.",
+  "sku": "3007088",
+  "related_products": [
+    {
+      "name": "CHLOR OUT (liquide)",
+      "link": "/fr/produit/chlor-out-liquide-entretien-de-la-piscine/"
+    },
+    {
+      "name": "CHLOR OUT (poudre)",
+      "link": "/fr/produit/chlor-out-poudre/"
+    },
+    {
+      "name": "CLARITA",
+      "link": "/fr/produit/clarita-entretien-de-la-piscine/"
+    }
+  ]
+}

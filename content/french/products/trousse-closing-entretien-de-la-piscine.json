@@ -1,0 +1,57 @@
+{
+  "title": "Trousse Closing",
+  "link": "/fr/produit/trousse-closing-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-18",
+  "long_description": "La TROUSSE CLOSING Summer Smiles MC vous assurera que la fermeture de votre piscine soit bien réalisée en fin de saison. Cette trousse empêchera la formation d’algues durant l’hiver et ses produits à dissolution lente procureront une efficacité jusqu’au printemps afin de faciliter l’ouverture à la prochaine saison.",
+  "short_description": "VOTRE TROUSSE CONTIENT 1 x 500 mL de Alg Out 40 % (bouteille) 1 x 250 mL de Clarita Ultra 2 en 1 (bouteille) 1 x 1 kg de Alka + (bouteille) AUTRES PRODUITS NON COMPRIS DANS LA TROUSSE POUVANT ÊTRE NÉCESSAIRES Summer Smiles MC Klean Multi Summer Smiles MC pH+ Summer Smiles MC pH- Summer Smiles MC Ice Away BÉNÉFICES Empêche la formation d’algues durant l’hiver Produits à dissolution lente pour être efficaces jusqu’au printemps FORMAT 1,75 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d'application",
+      "text": "ALG OUT 40 % : Verser le produit à la surface de l’eau, tout le tour de la piscine. ALKA + : Disperser le produit à la surface de l’eau, tout le tour de la piscine. Il est important de ne pas ajouter le produit en un seul endroit pour assurer une bonne dissolution. CLARITA ULTRA 2 EN 1 : Verser le produit à la surface de l’eau, tout le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "For optimal results, always follow these steps: Enlever la toile solaire. Nettoyer la ligne d’eau et les surfaces de la piscine. Ajuster le pH entre 7,2 et 7,8 en suivant le mode d’emploi du produit utilisé (produits correcteurs de pH vendus séparément). Désinstaller l’échelle, le tremplin, le panier de l’écumoire et la porte de l’écumoire. Ne pas enlever les vis des plaques. Abaisser le niveau d’eau de la piscine pour qu’il soit de 12 à 18 po en dessous du retour d’eau. Vider ou purger tous les tuyaux de la piscine en plaçant la manette de la valve « three-way » à la position 1 pour fermer l’écumoire. Cette position devrait se situer en haut vers l’écumoire. L’utilisation d’un aspirateur d’eau ou à poussière est recommandée si les boyaux sont sous la terre ou pour les piscines creusées. Par la suite, bloquer l’écumoire tel que recommandé par le marchand de piscines et boucher le jet de retour à l’aide du bouchon fileté ou à expansion approprié. Ajouter la totalité du ALG OUT 40 % selon la méthode d’application. Ajouter la totalité du CLARITA ULTRA 2 EN 1 selon la méthode d’application. Ajouter la totalité du ALKA + selon la méthode d’application. Ajouter l’antigel sans le diluer dans les conduits d’eau, par l’écumoire. Verser jusqu’à ce que l’antigel coloré apparaisse au drain de fond. Si l’antigel est utilisé pour un chauffe-eau, le verser dans l’entrée d’eau. Les tuyaux et équipements sont maintenant prêts pour l’hiver. S’assurer que tous les tuyaux d’embranchement, jets et équipements sont traités. Installer la toile d’hiver."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "80 000 L et moins",
+        "rows": [
+          "1 trousse"
+        ]
+      },
+      {
+        "name": "Plus de 80 000 L",
+        "rows": [
+          "2 trousses"
+        ]
+      }
+    ]
+  },
+  "warning": "Il est important de vider tous les tuyaux pour éviter la formation de gel durant l’hiver. Le mode d’emploi suivant remplace ceux sur chacun des produits inclus dans cette trousse. Bien tenir compte des avertissements sur chacune des étiquettes des produits. Compatible avec les systèmes au sel.",
+  "sku": "3007722",
+  "related_products": [
+    {
+      "name": "TROUSSE CORRECT",
+      "link": "/fr/produit/trousse-correct-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE OPENING",
+      "link": "/fr/produit/trousse-opening-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE ROUTINE",
+      "link": "/fr/produit/trousse-routine-entretien-de-la-piscine/"
+    }
+  ]
+}

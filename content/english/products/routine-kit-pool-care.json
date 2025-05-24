@@ -1,0 +1,66 @@
+{
+  "title": "Routine Kit",
+  "link": "/product/routine-kit-pool-care/",
+  "lang": "en",
+  "date": "2023-03-16",
+  "long_description": "The Summer Smiles™ ROUTINE KIT will keep your pool water clear and properly balanced all season long. It even guarantees algae-free water!",
+  "short_description": "YOUR KIT CONTAINS 1x 1 kg pH+ / bottle 1x Measuring Cup 1x water test strips container 8x 600 g Shok Ultra 3 IN 1 / pouch 8x 100 g Alg Out Ultra 3 IN 1 Algaecide / cubes 8x 520 g Chlor Ultra 2 IN 1 / container PRODUCT NOT INCLUDED IN KIT THAT MAY BE REQUIRED Summer Smiles™ Klean Filter BENEFITS Keeps pool water clear all season long Guarantees algae-free water* Easy-to-use: add just once a week *Conditional on balancing parameters according to a monthly water analysis FORMATS 9.36 kg",
+  "characteristics": [
+    {
+      "title": "Application Method",
+      "text": "CHLOR ULTRA 2 IN 1: Punch the holes at the bottom of the container using a tool and place container in the skimmer with holes facing up (leave tablet in container). SHOK ULTRA 3 IN 1: Sprinkle SHOK ULTRA 3 IN 1 directly over the surface of the water while walking around the pool. ALG OUT ULTRA 3 IN 1 algaecide: Place cube directly in the skimmer or pump basket. pH +: Sprinkle product directly onto the surface of water while walking all around the pool. Use the measuring cup to measure the amount of pH + to add. Use the test strips according to the directions on the package."
+    },
+    {
+      "title": "Instructions",
+      "text": "INSTRUCTIONS FOR POOLS CONTAINING LESS THAN 40,000 L OF WATER Routine to repeat every odd week (week 1, week 3, week 5, etc.) Check that your water is within the recommended levels using the strips and turn on the filtration system before starting the treatment. Add 125 g of pH + according to the application method. Add 1 tablet of CHLOR OUT ULTRA 2 IN 1 according to the application method. Routine to repeat every even week (week 2, week 4, week 6, etc.) Check that your water is within the recommended levels using the strips and turn on the filtration system before starting the treatment. Add SHOK ULTRA 3 IN 1 according to the application method. Open the skimmer or pump basket and insert one cube of ALG OUT ULTRA 3 IN 1 algaecide. INSTRUCTIONS FOR POOLS CONTAINING 40,000 L TO 80,000 L OF WATER Routine to repeat each week Check that your water is within the recommended levels using the strips and turn on the filtration system before starting the treatment. Add SHOK ULTRA 3 IN 1 according to the application method. Open the skimmer or pump basket and insert one cube of ALG OUT ULTRA 3 IN 1 algaecide. Wait until the shock treatment granules have completely dissolved. Add 125 g of pH + according to the application method. Add 1 tablet of CHLOR OUT ULTRA 2 IN 1 according to the application method."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "CHLOR ULTRA 2 IN 1",
+          "SHOK ULTRA 3 IN 1",
+          "ALG OUT ULTRA 3 IN 1 Algaecide",
+          "pH+"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "1 container (two weeks)",
+          "1 pouch (two weeks)",
+          "1 cube (two weeks)",
+          "125 g (two weeks)"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "1 container (week)",
+          "1 pouch (week)",
+          "1 cube (week)",
+          "125 g (week)"
+        ]
+      }
+    ]
+  },
+  "warning": "These instructions replace those found on the individual products included in this kit. Pay close attention to warnings on product labels.",
+  "sku": "3007657",
+  "related_products": [
+    {
+      "name": "CLOSING KIT",
+      "link": "/product/closing-kit-pool-care/"
+    },
+    {
+      "name": "CORRECT KIT",
+      "link": "/product/correct-kit-pool-care/"
+    },
+    {
+      "name": "OPENING KIT",
+      "link": "/product/opening-kit-pool-care/"
+    }
+  ]
+}

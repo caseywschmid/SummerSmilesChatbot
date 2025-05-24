@@ -1,0 +1,61 @@
+{
+  "title": "ALKA +",
+  "link": "/product/alka-plus-pool-care/",
+  "lang": "en",
+  "date": "2023-03-18",
+  "long_description": "ALKA + prevents pH fluctuations and helps to keep pool water perfectly balanced to maximize the efficiency of sanitizers. Balancing alkalinity will also increase swimmer comfort and protect pool equipment. ALKA+ alsoraises the pH in water.",
+  "short_description": "BENEFITS Stabilizes pH fluctuations Increases swimmer comfort FORMATS 2 kg, 4 kg, 8 kg and 25 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "The recommended alkalinity level is 80 to 120 ppm when using a chlorine sanitizer and 100 to 120 ppm when using a bromine sanitizer. Levels are determined with a test kit."
+    },
+    {
+      "title": "Application method",
+      "text": "Slowly sprinkle ALKA + onto the surface of the water while walking all around the pool, or add it in the skimmer basket."
+    },
+    {
+      "title": "Instructions",
+      "text": "Check water alkalinity every two weeks with a test kit. Make any necessary adjustments according to the application method and recommended dosage. Wait 20 minutes before entering the pool after adding the product."
+    }
+  ],
+  "dosage": {
+    "specifications": "To raise total alkalinity by 10 ppm, add 168 g of ALKA + per 10,000 L of pool water.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "TO RAISE TOTAL ALKALINITY  BY 10 ppm"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "700 g"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "1.4 kg"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the pool.",
+  "sku": "3007980",
+  "related_products": [
+    {
+      "name": "STAB",
+      "link": "/product/stab-pool-care/"
+    },
+    {
+      "name": "pH+",
+      "link": "/product/ph-plus-pool-care/"
+    },
+    {
+      "name": "pH-",
+      "link": "/product/ph-minus-pool-care/"
+    }
+  ]
+}

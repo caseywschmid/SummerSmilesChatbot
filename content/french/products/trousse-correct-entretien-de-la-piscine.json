@@ -1,0 +1,57 @@
+{
+  "title": "Trousse Correct",
+  "link": "/fr/produit/trousse-correct-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "La TROUSSE CORRECT Summer Smiles MC règle les problèmes d’algues et d’eau trouble en 48 heures GARANTI! Cette trousse est également recommandée pour faciliter l’ouverture de la piscine au printemps.",
+  "short_description": "VOTRE TROUSSE CONTIENT 1 x 300 g de Shok Ultra (sachet) 1 x 125 g de Clarita (boîte de pastilles) 3 x 500 g de Shok Correct (sachets) AUTRES PRODUITS NON COMPRIS DANS LA TROUSSE POUVANT ÊTRE NÉCESSAIRES Summer Smiles MC pH + Summer Smiles MC pH – BÉNÉFICES Règle les problèmes d’algues et d’eaux troubles en 48 heures Également un excellent choix pour l’ouverture rapide des piscines FORMAT 1,92 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d'application",
+      "text": "SHOK ULTRA: Saupoudrer le sachet à la surface de l’eau en dispersant le produit tout le tour de la piscine. CLARITA: Déposer les pastilles directement dans le panier de l’écumoire ou de la pompe. SHOK CORRECT: Saupoudrer les sachets à la surface de l’eau en dispersant le produit tout le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Afin d’obtenir un résultat optimal, il est impératif de suivre les quelques étapes suivantes: Faire un lavage à contre-courant (« backwash ») et remonter le niveau d’eau si nécessaire. Ajuster le pH à 7,2 en suivant le mode d’emploi du produit utilisé (produits correcteurs de pH vendus séparément). Ajouter les trois (3) sachets de SHOK CORRECT selon la méthode d’application. Ajouter le contenu du SHOK ULTRA selon la méthode d’application. Ajouter la totalité du CLARITA selon la méthode d’application. Mettre en marche le système de filtration pour 48 heures. Effectuer un lavage à contre-courant (« backwash »). Si utilisée comme trousse d’ouverture: Enlever manuellement la totalité des feuilles et des débris déposés dans l’eau. Remonter le niveau d’eau jusqu’au milieu de l’écumoire. Passer la balayeuse à la position « drain » ou « waste » afin d’enlever tous les débris restants. Faire un lavage à contre-courant (« backwash »). Ajuster le pH à 7,2 en suivant le mode d’emploi du produit utilisé (produits correcteurs de pH vendus séparément). Ajouter les trois (3) sachets de SHOK CORRECT selon la méthode d’application. Ajouter le contenu du SHOK ULTRA selon la méthode d’application. Ajouter la totalité du CLARITA selon la méthode d’application. Mettre en marche le système de filtration pour 48 heures. Effectuer un lavage à contre-courant (« backwash »)."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE"
+        ]
+      },
+      {
+        "name": "90 000 L et moins",
+        "rows": [
+          "1 trousse"
+        ]
+      },
+      {
+        "name": "Plus de 90 000 L",
+        "rows": [
+          "2 trousses"
+        ]
+      }
+    ]
+  },
+  "warning": "Le mode d’emploi suivant remplace ceux sur chacun des produits inclus dans cette trousse. Bien tenir compte des avertissements sur chacune des étiquettes des produits. Compatible avec les systèmes au sel.",
+  "sku": "3007473",
+  "related_products": [
+    {
+      "name": "HIBERNA",
+      "link": "/fr/produit/hiberna-entretien-de-la-piscine/"
+    },
+    {
+      "name": "PHOS OUT ULTRA 2 EN 1",
+      "link": "/fr/produit/phos-out-ultra-2-en-1-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE CLOSING",
+      "link": "/fr/produit/trousse-closing-entretien-de-la-piscine/"
+    }
+  ]
+}

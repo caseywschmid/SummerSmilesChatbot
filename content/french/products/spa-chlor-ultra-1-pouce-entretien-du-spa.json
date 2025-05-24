@@ -1,0 +1,71 @@
+{
+  "title": "SPA CHLOR ULTRA 1 POUCE",
+  "link": "/fr/produit/spa-chlor-ultra-1-pouce-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA CHLOR ULTRA 1 POUCE est un assainissant en pastilles à base de chlore stabilisé pour l’eau de spa qui permet une désinfection efficace de l’eau et une destruction des bactéries, tout en offrant une action prolongée. Sa conception sous forme de pastilles facilite et simplifie le dosage.",
+  "short_description": "BÉNÉFICE Détruit les bactéries et les algues dans l’eau des spas FORMAT 2 kg",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs appropriées; ces teneurs sont déterminées à l’aide d’une trousse d’analyse. Chlore libre disponible : 3,0 – 5,0 ppm pH : 7,2 – 7,8 Alcalinité totale : 125 – 150 ppm Dureté en calcium : 150 – 200 ppm"
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Si un dispositif de chloration automatique est utilisé, remplir la chambre avec les pastilles SPA CHLOR ULTRA 1 POUCE et régler le taux d’écoulement selon les recommandations du fabricant pour garder les teneurs en chlore résiduel quotidiennes aux valeurs appropriées. Ajouter les pastilles dans l’écumoire est une autre façon de procéder."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter SPA CHLOR ULTRA 1 POUCE selon la méthode d’application choisie. Maintenir la circulation de l’eau pendant au moins 1 heure. Attendre 5 minutes avant la baignade. Avant d’utiliser le spa, toujours vérifier le niveau de chlore libre disponible pour s’assurer qu’il soit dans les valeurs appropriées."
+    },
+    {
+      "title": "Remarques",
+      "text": "SPA CHLOR ULTRA 1 POUCE contient un stabilisateur (acide cyanurique) qui s’accumule dans l’eau du spa. L’utilisation de SPA CHLOR ULTRA 1 POUCE pour la surchloration augmentera le niveau de stabilisant plus rapidement. Maintenez le niveau de stabilisant entre 30 et 100 ppm en le diluant avec de l’eau douce. La surchloration avec SPA CHLOR ULTRA 1 POUCE réduira également l’alcalinité totale. Veillez à ce que le niveau d’alcalinité demeure dans les limites recommandées."
+    }
+  ],
+  "dosage": {
+    "specifications": "Surchlorer au départ l’eau du spa (dosage initial) en ajoutant 20 g de SPA CHLOR ULTRA 1 POUCE par 1 000 L d’eau de spa. Chlorer quotidiennement ou au besoin (dosage de routine) pour garder les teneurs en chlore résiduel aux valeurs appropriées en ajoutant 10 g de SPA CHLOR ULTRA 1 POUCE par 1 000 L d’eau de spa. La présence d’une mauvaise odeur dans l’eau est le signe d’une teneur inadéquate en assainissant. Afin de corriger de telles conditions, surchlorer l’eau du spa en ajoutant 30 g de SPA CHLOR ULTRA 1 POUCE par 1 000 L d’eau de spa. Maintenir la circulation pendant au moins 1 heure et attendre 4 heures avant d’utiliser le spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE AU DÉPART",
+          "DOSAGE DE ROUTINE (quotidien)",
+          "PROBLÈMES DE MAUVAISE ODEUR"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "2 pastilles",
+          "1 pastille",
+          "2 pastilles"
+        ]
+      },
+      {
+        "name": " 1 500 L",
+        "rows": [
+          "3 pastilles",
+          "1 pastille",
+          "3 pastilles"
+        ]
+      }
+    ]
+  },
+  "warning": "Un contact direct entre les pastilles et le revêtement du spa peut en causer le blanchiment. Les mécanismes de distribution automatique utilisés avec ces pastilles doivent être libres de tout autre assainissant afin d’éviter la possibilité d’une explosion. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907245",
+  "related_products": [
+    {
+      "name": "SPA BROMA",
+      "link": "/fr/produit/spa-broma-entretien-du-spa/"
+    },
+    {
+      "name": "SPA BROMA ULTRA",
+      "link": "/fr/produit/spa-broma-ultra-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SHOK ULTRA",
+      "link": "/fr/produit/spa-shok-ultra-entretien-du-spa/"
+    }
+  ]
+}

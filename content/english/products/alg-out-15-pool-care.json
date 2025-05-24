@@ -1,0 +1,63 @@
+{
+  "title": "ALG OUT 15%",
+  "link": "/product/alg-out-15-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "ALG OUT 15% quickly destroys algae in pool water. When used as part of a weekly maintenance routine, ALG OUT  15% will also help to prevent algae growth. ALG OUT 15% treats a wide variety of algae (green, yellow and black).",
+  "short_description": "BENEFIT Controls algae in pool water FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour ALG OUT 15% directly into the water, all around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add ALG OUT 15% according to the recommended application method and dosage. Wait 5 minutes before bathing."
+    }
+  ],
+  "dosage": {
+    "specifications": "When there is no visible algae in the swimming pool water, the initial dosage is 135 mL of ALG OUT 15% per 10,000 L of pool water. Weekly maintenance dosage is 70 mL of ALG OUT 15% per 10,000 L of pool water. For visible algae, when superchlorination is not employed, add 335 mL of ALG OUT 15% per 10,000 L of pool water.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "INITIAL DOSAGE",
+          "ROUTINE DOSAGE (weekly)",
+          "VISIBLE ALGAE PROBLEM"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "500 mL",
+          "250 mL",
+          "1.5 L"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "1 L",
+          "500 mL",
+          "3 L"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt system. DO NOT apply when swimmers are in the pool.",
+  "sku": "3007035",
+  "related_products": [
+    {
+      "name": "ALG OUT 40%",
+      "link": "/product/alg-out-40-pool-care/"
+    },
+    {
+      "name": "ALG OUT ULTRA 3 IN 1",
+      "link": "/product/alg-out-ultra-3-in-1-pool-care/"
+    },
+    {
+      "name": "ALG OUT ULTRA 60%",
+      "link": "/product/alg-out-ultra-60-pool-care/"
+    }
+  ]
+}

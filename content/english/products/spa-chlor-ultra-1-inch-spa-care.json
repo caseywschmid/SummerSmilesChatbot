@@ -1,0 +1,71 @@
+{
+  "title": "SPA CHLOR ULTRA 1″",
+  "link": "/product/spa-chlor-ultra-1-inch-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA CHLOR ULTRA 1 inch is a stabilized chlorine sanitizer for spa water. Its long-lasting stabilized chlorine tablets provide prolonged disinfection of spa water and destruction of bacteria. The premeasured tablets also simplify dosing.",
+  "short_description": "BENEFIT Controls bacteria and algae in spa water FORMAT 2 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "Maintain recommended daily levels as determined by testing kit. Free available chlorine: 3.0 – 5.0 ppm pH: 7.2 – 7.8 Total alkalinity: 125 – 150 ppm Calcium hardness: 150 – 200 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "If using an automatic chlorinator, fill the chamber with SPA CHLOR ULTRA 1 ” tablets and adjust flow rate according to manufacturer’s recommendations to maintain proper chlorine residual. Adding tablets to the spa skimmer is an alternative chlorine feed method."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add SPA CHLOR ULTRA 1 ” according to the chosen application method. Maintain water circulation for at least 1 hour. Wait 5 minutes before bathing. Always measure your free available chlorine level before using the spa to make sure it falls within the recommended levels."
+    },
+    {
+      "title": "Note",
+      "text": "SPA CHLOR ULTRA 1 ” contains stabilizer (cyanuric acid) which will accumulate in spa water. The use of SPA CHLOR ULTRA 1 ” for superchlorination will raise stabilizer level at a faster rate. Keep stabilizer level within 30 – 100 ppm range by dilution with fresh water. Superchlorination with SPA CHLOR ULTRA 1 ” will also lower total alkalinity. Make sure that the total alkalinity stays within recommended levels."
+    }
+  ],
+  "dosage": {
+    "specifications": "Superchlorinate a freshly filled spa (initial dosage) by adding 20 g of SPA CHLOR ULTRA 1 ” per 1,000 L of spa water. Maintain (routine dosage) proper chlorine residual by adding 10 g of SPA CHLOR ULTRA 1 ” per 1,000 L of spa water, daily or as needed. Persistent malodorous water is an indicator of inadequate sanitizer levels. To correct such conditions, superchlorinate spa water by adding 30 g of SPA CHLOR ULTRA 1 ” per 1,000 L of spa water. Maintain circulation at least 1 hour and wait four hours before using.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "INITIAL DOSAGE",
+          "ROUTINE DOSAGE (daily)",
+          "MALODOROUS PROBLEMS"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "2 tablets",
+          "1 tablet",
+          "2 tablets"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "3 tablets",
+          "1 tablet",
+          "3 tablets"
+        ]
+      }
+    ]
+  },
+  "warning": "Direct tablet contact may cause bleaching of spa surfaces. Automatic feeding devices employing these tablets must be free from other spa sanitizers to avoid the probability of an explosion. DO NOT apply the product when swimmers are in the spa.",
+  "sku": "2907245",
+  "related_products": [
+    {
+      "name": "SPA BROMA",
+      "link": "/product/spa-broma-spa-care/"
+    },
+    {
+      "name": "SPA BROMA ULTRA",
+      "link": "/product/spa-broma-ultra-spa-care/"
+    },
+    {
+      "name": "SPA SHOK ULTRA",
+      "link": "/product/spa-shok-ultra-spa-care/"
+    }
+  ]
+}

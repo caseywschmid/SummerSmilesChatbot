@@ -1,0 +1,42 @@
+{
+  "title": "KLEAN SURFACE ULTRA",
+  "link": "/fr/produit/klean-surface-ultra-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "KLEAN SURFACE ULTRA est une solution d’acide organique développée spécialement pour les piscines. Il nettoie le béton, les briques, les pierres et la céramique de façon efficace et sécuritaire tout en respectant l’environnement et les utilisateurs. KLEAN SURFACE ULTRA assure une meilleure adhérence des peintures sur le béton. KLEAN SURFACE ULTRA élimine efficacement les sels d’efflorescence et les dépôts de calcaire. KLEAN SURFACE ULTRA peut aussi être utilisé pour réduire le niveau de pH et d’alcalinité totale dans les eaux de piscine.",
+  "short_description": "BÉNÉFICES Élimine efficacement les sels d’efflorescence et les dépôts de calcaire Solution organique à faible impact environnemental FORMAT 4 L",
+  "characteristics": [
+    {
+      "title": "Pour nettoyer le béton et la maçonnerie",
+      "text": "Diluer une partie de KLEAN SURFACE ULTRA dans 3 à 5 parties d’eau. Appliquer sur la surface à nettoyer. Laisser agir jusqu’à disparition de l’effervescence puis rincer à fond avec de l’eau claire. Laisser sécher."
+    },
+    {
+      "title": "Pour réduire le pH",
+      "text": "Ajouter 250 mL de KLEAN SURFACE ULTRA par 10 000 L d’eau de piscine pour diminuer le pH de 0,1. Ajouter la quantité requise de produit directement dans la piscine vis-à-vis le retour d’eau. Vérifier le pH après 24 heures."
+    },
+    {
+      "title": "Pour réduire l'alcalinité totale",
+      "text": "Ajouter 250 mL de KLEAN SURFACE ULTRA par 10 000 L d’eau de piscine pour diminuer l’alcalinité totale de 10 ppm. Ajouter la quantité requise de produit directement dans la piscine, dans la partie la plus profonde. Vérifier l’alcalinité totale après 24 heures."
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": []
+  },
+  "warning": "Compatible avec les systèmes au sel. Pour diluer, verser l’acide lentement dans l’eau. Ne JAMAIS verser l’eau dans l’acide.",
+  "sku": "3007185",
+  "related_products": [
+    {
+      "name": "KLEAN CELL",
+      "link": "/fr/produit/klean-cell-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN FILTER",
+      "link": "/fr/produit/klean-filter-entretien-de-la-piscine/"
+    },
+    {
+      "name": "KLEAN MULTI",
+      "link": "/fr/produit/klean-multi-entretien-de-la-piscine/"
+    }
+  ]
+}

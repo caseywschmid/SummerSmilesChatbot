@@ -1,0 +1,61 @@
+{
+  "title": "SPA ALKA+",
+  "link": "/fr/produit/spa-alka-plus-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "SPA ALKA + permet d’éviter les variations de pH et aide à maintenir une eau de spa parfaitement équilibrée pour obtenir le maximum d’efficacité des assainissants. Le maintien d’une alcalinité équilibrée assure le confort des baigneurs et la protection des équipements du spa.",
+  "short_description": "BÉNÉFICES Aide à maintenir un pH équilibré Améliore le confort des baigneurs FORMAT 1 kg",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Le niveau d’alcalinité recommandé est de 80 à 120 ppm lorsque le chlore est utilisé comme assainissant et de 100 à 150 ppm avec le brome. Vérifier aux deux semaines l’alcalinité à l’aide d’une trousse d’analyse et procéder aux ajustements nécessaires."
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer SPA ALKA + à la surface de l’eau du spa."
+    },
+    {
+      "title": "Instructions",
+      "text": "Procéder à un ajustement au besoin selon la méthode d’application et le dosage recommandé. Attendre 20 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Pour augmenter l’alcalinité totale de 10 ppm, ajouter 16 g de SPA ALKA + par 1 000 L d’eau de spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "POUR AUGMENTER L’ALCALINITÉ TOTALE DE 10 ppm"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "16 g"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "24 g"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907980",
+  "related_products": [
+    {
+      "name": "SPA <span class=\"ph-text\">pH+</span>",
+      "link": "/fr/produit/spa-ph-plus-entretien-du-spa/"
+    },
+    {
+      "name": "SPA <span class=\"ph-text\">pH-</span>",
+      "link": "/fr/produit/spa-ph-moins-entretien-du-spa/"
+    },
+    {
+      "name": "SPA CALCIUM +",
+      "link": "/fr/produit/spa-calcium-plus-entretien-du-spa/"
+    }
+  ]
+}

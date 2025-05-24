@@ -1,0 +1,65 @@
+{
+  "title": "Trousse Routine",
+  "link": "/fr/produit/trousse-routine-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "La TROUSSE ROUTINE Summer Smiles MC vous aidera à maintenir l’équilibre et la clarté de l’eau de votre piscine tout au long de la saison. Cette trousse vous garantit un résultat sans algues!",
+  "short_description": "VOTRE TROUSSE CONTIENT 1 x 1 kg de pH+ (bouteille) 1 x tasse à mesurer 1 x contenant de bandelettes d’analyse d’eau 8 x 600 g de Shok Ultra 3 en 1 (sachets) 8 x 100 g d’algicide Alg Out Ultra 3 en 1 (cubes) 8 x 520 g de Chlor Ultra 2 en 1 (contenants) AUTRE PRODUIT NON COMPRIS DANS LA TROUSSE POUVANT ÊTRE NÉCESSAIRE Summer Smiles MC Klean Filter BÉNÉFICES Maintient une eau claire tout au long de la saison Garantit un résultat sans algues Simple d’utilisation avec une seule application par semaine FORMAT 9,36 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d'application",
+      "text": "CHLOR ULTRA 2 EN 1: Perforer les trous sous le contenant à l’aide d’un outil et déposer le contenant dans l’écumoire, les trous vers le haut (laisser la pastille dans le contenant). SHOK ULTRA 3 EN 1: Ajouter SHOK ULTRA 3 EN 1 directement à la surface de l’eau en faisant le tour de la piscine. Algicide ALG OUT ULTRA 3 EN 1: Déposer le cube directement dans le panier de l’écumoire ou de la pompe. pH +: Saupoudrer le produit à la surface de l’eau, tout le tour de la piscine. Utiliser la tasse à mesurer afin de calculer la quantité de pH + à ajouter. Utiliser les bandelettes d’analyse selon le mode d’emploi sur l’emballage."
+    },
+    {
+      "title": "Instructions",
+      "text": "MODE D’EMPLOI POUR UNE PISCINE CONTENANT MOINS DE 40 000 L D’EAU Routine à répéter toutes les semaines impaires (semaine 1, semaine 3, semaine 5, etc.) Vérifier que votre eau soit dans les paramètres recommandés à l’aide des bandelettes et mettre le système de filtration en marche avant de commencer le traitement. Ajouter 125 g de pH + selon la méthode d’application. Ajouter une pastille de CHLOR ULTRA 2 EN 1 selon la méthode d’application. Routine à répéter toutes les semaines paires (semaine 2, semaine 4, semaine 6, etc.) Vérifier que votre eau soit dans les paramètres recommandés à l’aide des bandelettes et mettre le système de filtration en marche avant de commencer le traitement. Ajouter SHOK ULTRA 3 EN 1 selon la méthode d’application. Ouvrir le panier de la pompe ou de l’écumoire et y déposer un cube d’algicide ALG OUT ULTRA 3 EN 1. MODE D’EMPLOI POUR UNE PISCINE CONTENANT ENTRE 40 000 L ET 80 000 L D’EAU Routine à répéter une fois par semaine Vérifier que votre eau soit dans les paramètres recommandés à l’aide des bandelettes et mettre le système de filtration en marche avant de commencer le traitement. Ajouter SHOK ULTRA 3 EN 1 selon la méthode d’application. Ouvrir le panier de la pompe ou de l’écumoire et y déposer un cube d’algicide ALG OUT ULTRA 3 EN 1. Attendre que le traitement choc soit complètement dissous. Ajouter 125 g de pH + selon la méthode d’application. Ajouter une pastille de CHLOR ULTRA 2 EN 1 selon la méthode d’application"
+    }
+  ],
+  "dosage": {
+    "specifications": "",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "CHLOR ULTRA 2 EN 1",
+          "SHOK ULTRA 3 EN 1",
+          "Algicide ALG OUT ULTRA 3 EN 1"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "1 contenant ( 2 semaines)",
+          "1 sachet (2 semaines)",
+          "1 cube (2 semaines)",
+          "125 g (2 semaines)"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "1 contenant (semaine)",
+          "1 sachet (semaine)",
+          "1 cube (semaine)",
+          "125 g (semaine)"
+        ]
+      }
+    ]
+  },
+  "warning": "Le mode d’emploi suivant remplace ceux sur chacun des produits inclus dans cette trousse. Suivre les avertissements sur chacune des étiquettes des produits.",
+  "sku": "3007657",
+  "related_products": [
+    {
+      "name": "TROUSSE CLOSING",
+      "link": "/fr/produit/trousse-closing-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE CORRECT",
+      "link": "/fr/produit/trousse-correct-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE OPENING",
+      "link": "/fr/produit/trousse-opening-entretien-de-la-piscine/"
+    }
+  ]
+}

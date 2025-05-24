@@ -1,0 +1,69 @@
+{
+  "title": "SPA ALL OUT ULTRA 4 IN 1",
+  "link": "/product/spa-all-out-ultra-4-in-1-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA ALL OUT ULTRA TM 4 IN 1 is a multi-action treatment for spa water. A single product for preventing and resolving the most common water problems such as metals, phosphates, organic waste and cloudy water.",
+  "short_description": "BENEFITS Eliminates metals Prevents phosphate buildup Eliminates organic waste Clarifies water FORMAT 500 mL",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour the required amount of SPA ALL OUT ULTRA TM 4 IN 1 into the spa water."
+    },
+    {
+      "title": "Instructions",
+      "text": "Add SPA ALL OUT ULTRA TM 4 IN 1 according to the application method and recommended dosage. Shock spa water according to the instructions on the product used. Wait 60 minutes before using the spa. Run filter system continuously for 6 hours to disperse the product and then rinse filter thoroughly."
+    }
+  ],
+  "dosage": {
+    "specifications": "For metal or coloured water treatment: Add 60 mL of SPA ALL OUT ULTRA TM 4 IN 1 per 1,000 L of spa water. For phosphate treatment: Add 25 mL of SPA ALL OUT ULTRA TM 4 IN 1 per 1,000 L of spa water. For organic waste treatment: Add 60 mL of SPA ALL OUT ULTRA TM 4 IN 1 per 1,000 L of spa water. For cloudy water treatment: Add 60 mL of SPA ALL OUT ULTRA TM 4 IN 1 per 1,000 L of spa water. For weekly preventive treatment: Add 25 mL of SPA ALL OUT ULTRA TM 4 IN 1 per 1,000 L of spa water.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "METAL OR COLOURED WATER TREATMENT",
+          "PHOSPHATE TREATMENT",
+          "ORGANIC WASTE TREATMENT",
+          "CLOUDY WATER TREATMENT",
+          "WEEKLY PREVENTIVE TREATMENT"
+        ]
+      },
+      {
+        "name": " 1,000 L",
+        "rows": [
+          "60 ml",
+          "25 ml",
+          "60 ml",
+          "60 ml",
+          "25 ml"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "90 ml",
+          "40 ml",
+          "90 ml",
+          "90 ml",
+          "40 ml"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply product when people are in the spa. Must be followed up with a shock treatment to activate the clarifier.",
+  "sku": "2907089",
+  "related_products": [
+    {
+      "name": "SPA CLARITA",
+      "link": "/product/spa-clarita-spa-care/"
+    },
+    {
+      "name": "SPA PHOS OUT ULTRA 2 IN 1",
+      "link": "/product/spa-phos-out-ultra-2-in-1-spa-care/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/product/spa-stain-out-spa-care/"
+    }
+  ]
+}

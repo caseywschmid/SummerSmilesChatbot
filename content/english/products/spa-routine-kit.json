@@ -1,0 +1,53 @@
+{
+  "title": "SPA ROUTINE KIT",
+  "link": "/product/spa-routine-kit/",
+  "lang": "en",
+  "date": "2023-03-24",
+  "long_description": "The Summer Smiles™ SPA ROUTINE KIT will help you keep your spa water clear and properly balanced all season long. YOUR KIT CONTAINS 1x 500 g Spa Broma / container 25 x 20 g Spa Broma Ultra / container 1x 500 ml Spa Phos Out Ultra TM 2 in 1 1x 25 mL Blue measuring spoon 1x 20 g Clear measuring spoon 1x Container of water test strips 3x Sphagnum moss strips SUMMER SMILES™ PRODUCTS NOT INCLUDED IN KIT THAT MAY BE REQUIRED Summer Smiles™ Klean Filter Summer Smiles™ Spa PH- Summer Smiles™ Spa PH+ Summer Smiles™ Spa Calcium+ Summer Smiles™ Spa ALKA+",
+  "short_description": "BENEFITS Contains all the products needed to maintain spa water. Controls bacteria in spa water Keeps spa water clear Easy-to-use: add just once a week No chlorine odour FORMAT 2 kg",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "SPA BROMA™: Sprinkle product onto the surface of the water, all around the spa. Use the clear measuring spoon to measure the amount of SPA BROMA™ to add. SPA BROMA ULTRA™: Place tablets in skimmer or in a floater. SPA CLARITA ULTRA™ 2 IN 1: Pour product onto the surface of the water, all around the spa. Use the blue measuring spoon to measure the amount of SPA CLARITA ULTRA™ 2 IN 1 to add. Sphagnum moss strips: Place one sphagnum moss strip in the skimmer when the cartridges are in place or insert between the outer cartridge and filter chamber (do not place inside the cartridge). Use the test strips according to the directions on the package."
+    },
+    {
+      "title": "Instructions",
+      "text": "FOR SPAS CONTAINING UP TO 2,000 L OF WATER. Routine for week 1 and to be repeated on week 5 and week 9: Check that water parameters are at the recommended levels using test strips. Stop the filtration system and/or turn off power. Add or replace 1 sphagnum moss strip according to the application method. Restart the filtration system and/or turn power back on. Add 25 ml (1 blue measuring spoon) of SPA CLARITA ULTRA 2 IN 1 according to the application method. Add 40 g (2 clear measuring spoons) of SPA BROMA according to the application method. Add 2 tablets* of SPA BROMA ULTRA according to the application method. Routine to be repeated on all other weeks (weeks 2 to 4, weeks 6 to 8 and weeks 10 to 12): Check that water parameters are at the recommended levels using test strips. Add 25 ml (1 blue measuring spoon) of SPA CLARITA ULTRA 2 IN 1 according to the application method. Add 20 g (1 clear measuring spoon) of SPA BROMA according to the application method. Add 2 tablets* of SPA BROMA ULTRA according to the application method."
+    }
+  ],
+  "dosage": {
+    "specifications": "* For normal spa use (approximately 2 bathers, 2 to 3 times a week). Regularly check bromine level so that it remains between 3 and 5 ppm. If needed, add additional tablets of SPA BROMA ULTRATM. Consult a specialized retailer to obtain additional tablets of SPA BROMA ULTRATM.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "SPA BROMA",
+          "SPA BROMA ULTRA",
+          "SPA CLARITA ULTRATM 2 IN 1",
+          "Sphagnum moss strips"
+        ]
+      },
+      {
+        "name": "Up to 2,000 L",
+        "rows": [
+          "20 g / week and 40 g each sphagnum moss strip change",
+          "2 tablets* / week",
+          "25 mL / week",
+          "1 strip / 4 weeks"
+        ]
+      }
+    ]
+  },
+  "warning": "Ensure filter is working properly before using the SPA ROUTINE KIT. If cartridges have not been cleaned in the last month, we recommend cleaning them with a cartridge cleaner to optimize filtration and circulation. Ensure spa water is properly balanced by a spa maintenance specialist before using the SPA ROUTINE KIT. Ensure to rinse the cartridges every week and clean your filter every month. If the tablets of SPA BOMA ULTRATM are not melted at the end of the week, increase the filtration of your spa. For normal spa use (approximately 3 bathers, 2 to 3 times a week). If there are more than 3 bathers, add additional 20 g (1 clear measuring spoon)/1,000 L of SPA BROMATM, as needed.",
+  "sku": "2907668",
+  "related_products": [
+    {
+      "name": "SPA DRAIN ULTRA",
+      "link": "/product/spa-drain-ultra-spa-care/"
+    },
+    {
+      "name": "SPA ICE AWAY",
+      "link": "/product/spa-ice-away-spa-care/"
+    }
+  ]
+}

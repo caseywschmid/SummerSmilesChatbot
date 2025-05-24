@@ -1,0 +1,57 @@
+{
+  "title": "SPA SHOK ULTRA",
+  "link": "/fr/produit/spa-shok-ultra-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA SHOK ULTRA est un traitement choc sans chlore qui détruit activement les déchets organiques comme la transpiration, les huiles corporelles et les cosmétiques. Ce traitement oxydant et réactivant redonne rapidement à l’eau sa limpidité et permet de prolonger l’effet du chlore ou du brome. Sa formule sans chlore est spécialement adaptée pour l’eau des spas.",
+  "short_description": "BÉNÉFICES Détruit les déchets organiques Action rapide FORMAT 1,2 kg",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Saupoudrer SPA SHOK ULTRA directement à la surface de l’eau lorsque la pompe fonctionne."
+    },
+    {
+      "title": "Instructions",
+      "text": "Faire fonctionner les pompes. Ajouter SPA SHOK ULTRA selon la méthode d’application et le dosage recommandé. Attendre 30 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "50 g traite jusqu’à 1 000 L d’eau de spa. Utiliser SPA SHOK ULTRA hebdomadairement pour conserver une eau propre et limpide.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE ROUTINE (hebdomadaire)"
+        ]
+      },
+      {
+        "name": " 1 000 L",
+        "rows": [
+          "50 g"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "75 g"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa. NE PAS mettre à un seul endroit car les dépôts peuvent endommager le fini du spa.",
+  "sku": "2907333",
+  "related_products": [
+    {
+      "name": "SPA BROMA",
+      "link": "/fr/produit/spa-broma-entretien-du-spa/"
+    },
+    {
+      "name": "SPA BROMA ULTRA",
+      "link": "/fr/produit/spa-broma-ultra-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SHOK ULTRA 2 EN 1",
+      "link": "/fr/produit/spa-shok-ultra-2-en-1-entretien-du-spa/"
+    }
+  ]
+}

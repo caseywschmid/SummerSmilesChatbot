@@ -1,0 +1,61 @@
+{
+  "title": "STAB",
+  "link": "/fr/produit/stab-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-20",
+  "long_description": "STAB aide à obtenir le maximum d’efficacité du chlore non stabilisé et permet d’éviter la perte de chlore due aux rayons ultraviolets du soleil. Avec STAB, le chlore de votre piscine restera de 3 à 5 fois plus longtemps dans l’eau.",
+  "short_description": "BÉNÉFICE Maintient la présence de chlore non stabilisé dans l’eau FORMATS 1,6 kg et 16 kg",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "L’intervalle idéal est de 30 à 50 ppm. Le maintien de stabilisant au niveau idéal permettra de conserver un meilleur contrôle du niveau de chlore résiduel. Les teneurs sont déterminées à l’aide d’une trousse d’analyse de stabilisant."
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Ajouter STAB dans le panier de l’écumoire."
+    },
+    {
+      "title": "Instructions",
+      "text": "Procéder à un ajustement au besoin selon la méthode d’application et le dosage recommandé. Attendre 15 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Ajouter 300 g de STAB par 10 000 L d’eau de piscine afin d’augmenter le niveau de stabilisant de 30 ppm.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "POUR AUGMENTER LE NIVEAU DE STABILISANT DE 10 ppm"
+        ]
+      },
+      {
+        "name": "Moins de 40 000 L",
+        "rows": [
+          "400 g"
+        ]
+      },
+      {
+        "name": "40 000 L à 80 000 L",
+        "rows": [
+          "800 g"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007230",
+  "related_products": [
+    {
+      "name": "ALKA +",
+      "link": "/fr/produit/alka-plus-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAB ULTRA",
+      "link": "/fr/produit/stab-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "pH-",
+      "link": "/fr/produit/ph-moins-entretien-de-la-piscine/"
+    }
+  ]
+}

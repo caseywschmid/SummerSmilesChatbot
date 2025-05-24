@@ -1,0 +1,57 @@
+{
+  "title": "Shok Ultra 3 En 1",
+  "link": "/fr/produit/shok-ultra-3-en-1-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-16",
+  "long_description": "Shok Ultra 3 en 1 est un traitement choc prémesuré qui détruit activement les déchets organiques et maintient une eau claire en un seul traitement hebdomadaire. Ce traitement de réactivation redonne à l’eau sa limpidité tout en prolongeant l’effet du chlore.",
+  "short_description": "BÉNÉFICES Détruit les déchets organiques Maintient une eau claire FORMAT Sachet de 300 g et 600 g",
+  "characteristics": [
+    {
+      "title": "Méthode d'application",
+      "text": "Ajouter SHOK ULTRA 3 EN 1 directement à la surface de l’eau en faisant le tour de la piscine."
+    },
+    {
+      "title": "Instructions",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs indiquées sur le mode d’emploi de l’assainissant pour piscine utilisé. Les teneurs sont déterminées à l’aide d’une trousse d’analyse. Placer le filtre en mode de filtration. Pour chaque traitement, ajouter 300 g de SHOK ULTRA 3 EN 1 par 40 000 L d’eau selon la méthode d’application. Attendre 30 minutes avant la baignade."
+    }
+  ],
+  "dosage": {
+    "specifications": "Un sachet de 300 g traite jusqu’à 40 000 L d’eau de piscine. Utiliser SHOK ULTRA 3 EN 1 hebdomadairement pour conserver une eau propre et limpide.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE DE ROUTINE (hebdomadaire)"
+        ]
+      },
+      {
+        "name": "Jusqu’à 40 000 L",
+        "rows": [
+          "1 sachet (300 g)"
+        ]
+      },
+      {
+        "name": "Entre 40 000 L et 80 000 L",
+        "rows": [
+          "1 sachet (600 g) ou 2 sachets (300 g)"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible avec les systèmes au sel. NE PAS verser le produit en même temps que l’on ajoute du sel. Attendre la dissolution complète du sel avant d’utiliser SHOK ULTRA 3 EN 1. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine. NE PAS utiliser avec des produits à base d’hypochlorite de calcium afin d’éviter tout risque d’explosion.",
+  "sku": "3007350",
+  "related_products": [
+    {
+      "name": "SALT SHOK ULTRA",
+      "link": "/fr/produit/salt-shok-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "SHOK",
+      "link": "/fr/produit/shok-entretien-de-la-piscine/"
+    },
+    {
+      "name": "SHOK ULTRA",
+      "link": "/fr/produit/shok-ultra-entretien-de-la-piscine/"
+    }
+  ]
+}

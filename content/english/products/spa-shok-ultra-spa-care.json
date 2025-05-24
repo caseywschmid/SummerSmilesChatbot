@@ -1,0 +1,57 @@
+{
+  "title": "SPA SHOK ULTRA",
+  "link": "/product/spa-shok-ultra-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA SHOK ULTRA is a chlorine-free shock treatment specially designed for spas. This oxidizing and reactivating treatment actively eliminates organic  waste such as perspiration, body oils and cosmetics, to quickly restore the clarity of spa water. It also prolongs the effects of bromine or chlorine.",
+  "short_description": "BENEFITS Eliminates organic waste Fast-acting FORMAT 1.2 kg",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Sprinkle SPA SHOK ULTRA directly onto the surface of water while the pump is running."
+    },
+    {
+      "title": "Instructions",
+      "text": "Run the spa pump. Add SPA SHOK ULTRA according to the application method and recommended dosage. Wait 30 minutes before bathing."
+    }
+  ],
+  "dosage": {
+    "specifications": "50 g treats up to 1,000 L of spa water. Use SPA SHOK ULTRA weekly to keep water crystal clear.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (weekly)"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "50 g"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "75 g"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the spa. Sprinkle contents over the entire surface of the water to prevent excessive product buildup from damaging the spa finish.",
+  "sku": "2907333",
+  "related_products": [
+    {
+      "name": "SPA BROMA",
+      "link": "/product/spa-broma-spa-care/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA 1″",
+      "link": "/product/spa-chlor-ultra-1-inch-spa-care/"
+    },
+    {
+      "name": "SPA SHOK ULTRA 2 IN 1",
+      "link": "/product/spa-shok-ultra-2-in-1-spa-care/"
+    }
+  ]
+}

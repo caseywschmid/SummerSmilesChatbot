@@ -1,0 +1,65 @@
+{
+  "title": "SPA BROMA ULTRA",
+  "link": "/fr/produit/spa-broma-ultra-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-23",
+  "long_description": "SPA BROMA ULTRA est un assainissant pratique pour l’eau des spas offert sous forme de pastilles pour simplifier le dosage. Les pastilles de bromation SPA BROMA ULTRA  assainissent et désinfectent efficacement l’eau des spas, en plus d’éliminer les déchets organiques comme la transpiration, les huiles corporelles et les cosmétiques qui ont tendance à brouiller l’eau. La formule au brome de SPA BROMA ULTRA est avantageuse pour les spas car elle reste performante même en eau chaude. Elle est inodore et plus douce pour la peau et les yeux des baigneurs que le chlore. C’est une option à privilégier pour les personnes sensibles ou allergiques.",
+  "short_description": "BÉNÉFICES Pastilles de bromation Détruit les bactéries et les algues dans l’eau des spas Sans odeur de chlore FORMAT 1,5 kg",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Maintenir quotidiennement les teneurs aux valeurs appropriées; ces teneurs sont déterminées à l’aide d’une trousse d’analyse. Brome libre disponible : 3,0 – 5,0 ppm pH : 7,2 – 7,8 Alcalinité totale : 100 – 120 ppm Dureté (en calcium) : 150 – 200 ppm"
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Si un mécanisme de distribution automatique est utilisé, remplir le ou les réceptacle(s) avec les pastilles et régler le taux d’écoulement selon les recommandations du fabricant pour garder les teneurs en brome résiduel quotidiennes aux valeurs voulues. Ajouter les pastilles dans l’écumoire peut être une méthode alternative d’alimentation."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter SPA BROMA ULTRA selon la méthode d’application choisie. Faire circuler l’eau durant au moins 30 minutes. Attendre 5 minutes avant la baignade."
+    },
+    {
+      "title": "Remarques",
+      "text": "Par temps chaud ou un usage intensif du spa, des doses plus fortes peuvent être nécessaires pour garder les teneurs en brome résiduel aux valeurs appropriées. Une surchloration périodique de l’eau du spa est recommandée. Suivre les instructions de l’étiquette du produit de surchloration utilisé. Une formation persistante de mousse et une eau trouble ou malodorante peuvent être des indicateurs d’un niveau d’assainissant inadéquat. Pour rectifier, surchlorer l’eau du spa avec un produit de surchloration. Maintenez la circulation de l’eau pendant au moins 30 minutes et attendre 4 heures avant de l’utiliser. NE PAS contaminer les sources d’approvisionnement en eau d’irrigation ou en eau potable ni les habitats aquatiques lors du nettoyage de l’équipement ou de l’élimination de déchets."
+    }
+  ],
+  "dosage": {
+    "specifications": "La dose hebdomadaire (routine) est d’environ 20 g de SPA BROMA ULTRA par 1 000 L d’eau de spa.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE DE ROUTINE (hebdomadaire)"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "1 tablette"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "2 tablettes"
+        ]
+      }
+    ]
+  },
+  "warning": "Un contact direct entre les pastilles et les surfaces en vinyle, en acrylique ou synthétiques du spa peut en causer le blanchiment. Les mécanismes de distribution automatique utilisés avec ces pastilles doivent être totalement libres de tout autre assainissant afin d’éviter la possibilité d’une explosion. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907055",
+  "related_products": [
+    {
+      "name": "SPA BROMA",
+      "link": "/fr/produit/spa-broma-entretien-du-spa/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA 1 POUCE",
+      "link": "/fr/produit/spa-chlor-ultra-1-pouce-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SHOK ULTRA",
+      "link": "/fr/produit/spa-shok-ultra-entretien-du-spa/"
+    }
+  ]
+}

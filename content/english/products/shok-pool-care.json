@@ -1,0 +1,67 @@
+{
+  "title": "SHOK",
+  "link": "/product/shok-pool-care/",
+  "lang": "en",
+  "date": "2023-03-20",
+  "long_description": "SHOK is a shock treatment that actively destroy organic waste such as perspiration, body oil and cosmetics that tend to cloud water. It is highly effective in treating algae, heavy algae or cloudy water. This reactivation treatment also clarifies cloudy water and keeps chlorine working longer.",
+  "short_description": "BENEFIT Controls bacteria and algae in pool water FORMATS Pouch of 600 g, 2 kg, 7 kg and 25 kg",
+  "characteristics": [
+    {
+      "title": "Recommended levels",
+      "text": "Maintain proper daily levels as determined by testing kit. Free available chlorine: 1.0 – 3.0 ppm pH: 7.2 – 7.8 Total alkalinity: 80 – 120 ppm Calcium hardness: 200 – 300 ppm"
+    },
+    {
+      "title": "Application method",
+      "text": "To minimize bleaching, predissolve required amount of SHOK in a plastic pail with concentration not exceeding 1 kg per 10,000 L of pool water. Always add chemical to water, NEVER water to chemical. Pour resulting slurry directly into pool water."
+    },
+    {
+      "title": "Note",
+      "text": "Hot weather, heavy pool usage and rain may require higher usage rates to maintain proper chlorine residuals. For outdoor pools, chlorine residuals can be protected from destruction by sun’s rays by the addition of STAB."
+    }
+  ],
+  "dosage": {
+    "specifications": "Initially, superchlorinate pool water by adding 150 g of SHOK per 10,000 L of pool water. For best results, superchlorinate at dusk. Maintain proper chlorine residual by pouring around the pool, directly on the surface of water, 30 g of SHOK per 10,000 L of pool water, daily or as needed. Superchlorinate weekly with 150 g of SHOK per 10,000 L of pool water when average daily temperature is between 25°C and 32°C. Otherwise, superchlorinate every other week. For visible algae, superchlorinate using 350 g of SHOK per 10,000 L of pool water. Heavy algae infestation may require dosages up to 500 g per 10,000 L of pool water. Vacuum pool when dead algae settle.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (daily)",
+          "SUPERCHLORINATION",
+          "VISIBLE ALGAE PROBLEM"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L",
+        "rows": [
+          "120 g",
+          "600 g (1 POUCH)",
+          "1.4 kg (2 POUCHES)"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "240 g",
+          "1.2 kg (2 POUCHES)",
+          "2.8 kg (4 POUCHES)"
+        ]
+      }
+    ]
+  },
+  "warning": "",
+  "sku": "3007220",
+  "related_products": [
+    {
+      "name": "SALT SHOK ULTRA",
+      "link": "/product/salt-shok-ultra-pool-care/"
+    },
+    {
+      "name": "SHOK ULTRA",
+      "link": "/product/shok-ultra-pool-care/"
+    },
+    {
+      "name": "SHOK ULTRA 3 IN 1",
+      "link": "/product/shok-ultra-3-in-1-pool-care/"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "SPA PHOS OUT ULTRA 2 IN 1",
+  "link": "/product/spa-phos-out-ultra-2-in-1-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA PHOS OUT ULTRA 2 IN 1 is a fast-acting concentrated anti-phosphate treatment that improves filtration by coagulating tiny particles in the water. The resulting larger solids are captured by the filtration system. When used weekly, it continuously eliminates phosphates in the water. SPA PHOS OUT ULTRA 2 IN 1 has clarifying properties that leave your water crystal clear after only 12 hours. SPA PHOS OUT ULTRATM 2 IN 1 is not affected by chlorine and works in any pH condition. It will not alter the water’s pH level.",
+  "short_description": "BENEFITS Eliminates phosphates Clarifies water FORMAT 500ml",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour SPA PHOS OUT ULTRA 2 IN 1 directly over the surface of the water."
+    },
+    {
+      "title": "Instructions",
+      "text": "SPA PHOS OUT ULTRA 2 IN 1 must be added while the filter is running. Add SPA PHOS OUT ULTRA 2 IN 1 according to the application method. Wait 60 minutes before using the spa. Let the filter run for 8 hours. Rinse the cartridge(s)."
+    }
+  ],
+  "dosage": {
+    "specifications": "For initial phosphate treatment: Add 20 mL of SPA PHOS OUT ULTRA 2 IN 1 per 1,000 L of spa water to treat phosphate levels between 250 and 1,000 ppb. For cloudy water treatment: Add 20 mL of SPA PHOS OUT ULTRA 2 IN 1 per 1,000 L of spa water. For weekly preventive phosphate treatment and to keep water crystal clear: Add 10 mL of SPA PHOS OUT ULTRA TM 2 IN 1 per 1,000 L of spa water.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "INITIAL PHOSPHATE TREATMENT DOSAGE",
+          "CLOUDY WATER TREATMENT DOSAGE",
+          "WEEKLY PREVENTIVE PHOSPHATE TREATMENT DOSAGE"
+        ]
+      },
+      {
+        "name": "1,000 L",
+        "rows": [
+          "20 ml",
+          "20 ml",
+          "10 ml"
+        ]
+      },
+      {
+        "name": "1,500 L",
+        "rows": [
+          "30 ml",
+          "30 ml",
+          "15 ml"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the spa.",
+  "sku": "2907075",
+  "related_products": [
+    {
+      "name": "SPA ALL OUT ULTRA 4 IN 1",
+      "link": "/product/spa-all-out-ultra-4-in-1-spa-care/"
+    },
+    {
+      "name": "SPA CLARITA",
+      "link": "/product/spa-clarita-spa-care/"
+    },
+    {
+      "name": "SPA FOAM OUT",
+      "link": "/product/spa-foam-out-spa-care/"
+    }
+  ]
+}

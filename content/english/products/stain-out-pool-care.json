@@ -1,0 +1,60 @@
+{
+  "title": "STAIN OUT",
+  "link": "/product/stain-out-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "STAIN OUT is a sequestrant that’s mainly used to remove stains caused by metals such as manganese, iron and copper from all types of pool liners. STAIN OUT solubilizes metals in water and also helps to correct water coloured by these metals. STAIN OUT  is used in combination with METAL OUT to completely remove metals once they have solubilized in water.",
+  "short_description": "BENEFITS Removes metal stains from all types of pool liners Corrects coloured water due to manganese, iron or copper from any water source Phosphate-free FORMAT 1.2 kg",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Sprinkle STAIN OUT directly over the surface of the water while walking all around the pool."
+    },
+    {
+      "title": "Instructions",
+      "text": "Adjust pH to between 6.8 and 7.2 and let chlorine level drop below 2 ppm. Add STAIN OUT according to the application method and recommended dosage. Circulate the water continuously for 24 hours. After 24 hours, adjust pH to between 7.2 and 7.8 and alkalinity to between 80 and 120 ppm. After 72 hours, add chlorine. Wait 5 minutes before using the pool, depending on the situation."
+    }
+  ],
+  "dosage": {
+    "specifications": "For coloured water: Add 125 g of STAIN OUT per 10,000 L of pool water. For stain removal: Slowly add water to 150 g of STAIN OUT to form a paste. Apply paste to pool walls or wherever stains are present. Where stains are most prevalent, use a brush to apply the paste. For stubborn stains: Apply product a second time.",
+    "columns": [
+      {
+        "name": "Pool Size ",
+        "rows": [
+          "Coloured water",
+          "Stains on Surfaces"
+        ]
+      },
+      {
+        "name": "Less than 40,000 L ",
+        "rows": [
+          "500 g",
+          "Form a paste with 150 g of product"
+        ]
+      },
+      {
+        "name": "40,000 L to 80,000 L",
+        "rows": [
+          "1 kg",
+          "Form a paste with 150 g of product"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems. Chlorine generator must be turned off before applying the product. DO NOT apply the product when people are in the pool.",
+  "sku": "3007335",
+  "related_products": [
+    {
+      "name": "KLEAN CELL",
+      "link": "/product/klean-cell-pool-care/"
+    },
+    {
+      "name": "PHOS OUT ULTRA 2 IN 1",
+      "link": "/product/phos-out-ultra-2-in-1-pool-care/"
+    },
+    {
+      "name": "SOFT",
+      "link": "/product/soft-pool-care/"
+    }
+  ]
+}

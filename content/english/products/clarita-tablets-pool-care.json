@@ -1,0 +1,51 @@
+{
+  "title": "CLARITA (Tablets)",
+  "link": "/product/clarita-tablets-pool-care/",
+  "lang": "en",
+  "date": "2023-03-21",
+  "long_description": "CLARITA TM is a fast-acting clarifier that quickly resolves cloudy pool water. CLARITA TM improves filtration and leaves water crystal clear in just 24 hours. CLARITA TM tabs come in pre-measured doses, making them easy to use. No direct product handling required; safer for users.",
+  "short_description": "BENEFIT Clarifies pool water within 24 hours FORMAT 5 x 25 g",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Empty the entire contents of the box directly into the skimmer basket."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ensure filter is in filtration position. Adjust pH to between 7.2 and 7.8. Add CLARITA TM according to the application method and recommended dosage. Pool can be used immediately after adding the product. Run the filter for 12 hours and then backwash. Repeat treatment if water is still cloudy or white."
+    }
+  ],
+  "dosage": {
+    "specifications": "Each 125 g box of CLARITA TM can treat up to 80,000 L of pool water. Add CLARITA TM every week to keep water crystal clear.",
+    "columns": [
+      {
+        "name": "EVERY POOL SIZES",
+        "rows": [
+          "WEEKLY DOSAGE"
+        ]
+      },
+      {
+        "name": "(up to 80,000 L)",
+        "rows": [
+          "1 box of 125 g"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems. With a cartridge or diatomaceous earth filters, occasional use is recommended.* (An use of 125 g , 1 to 3 times per year)",
+  "sku": "3007103",
+  "related_products": [
+    {
+      "name": "CLARITA",
+      "link": "/product/clarita-pool-care/"
+    },
+    {
+      "name": "CLARITA ULTRA 3 IN 1",
+      "link": "/product/clarita-ultra-3-in-1-pool-care/"
+    },
+    {
+      "name": "CORRECT KIT",
+      "link": "/product/correct-kit-pool-care/"
+    }
+  ]
+}

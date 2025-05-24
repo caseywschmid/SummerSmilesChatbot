@@ -1,0 +1,64 @@
+{
+  "title": "SPA BROMA",
+  "link": "/fr/produit/spa-broma-entretien-du-spa/",
+  "lang": "fr",
+  "date": "2023-03-22",
+  "long_description": "SPA BROMA est un assainissant pratique et facile à utiliser pour l’eau de spa. Il se dissout rapidement et totalement pour offrir une désinfection au brome efficace en plus d’éliminer les déchets organiques comme la transpiration, les huiles corporelles et les cosmétiques qui ont tendance à brouiller l’eau. La formule au brome de SPA BROMA est avantageuse pour les spas car elle reste performante même en eau chaude. Elle est inodore et plus douce pour la peau et les yeux des baigneurs que le chlore. C’est une option à privilégier pour les personnes sensibles ou allergiques.",
+  "short_description": "BÉNÉFICE Offre une désinfection au brome efficace FORMAT 900 g",
+  "characteristics": [
+    {
+      "title": "Valeurs  recommandées",
+      "text": "Maintenir quotidiennement les niveaux recommandés ci-dessous selon les résultats obtenus avec une trousse d’analyse. Brome libre disponible : 3,0 – 5,0 ppm pH : 7,2 – 7,8 Alcalinité totale : 100 – 150 ppm Dureté en calcium : 100 – 200 ppm"
+    },
+    {
+      "title": "Méthode d’application",
+      "text": "Ajouter SPA BROMA directement dans l’eau du spa inutilisé en faisant fonctionner le système de circulation. Le système de filtration doit être maintenu en bon état de fonctionnement pour assurer une désinfection adéquate de l’eau."
+    },
+    {
+      "title": "Instructions",
+      "text": "Ajouter SPA BROMA selon la méthode d’application. Faire circuler l’eau durant au moins 30 minutes. Attendre 30 minutes avant la baignade. Les baigneurs ne doivent pas utiliser le spa jusqu’à ce que le résidu de brome ait chuté à 5,0 ppm."
+    }
+  ],
+  "dosage": {
+    "specifications": "Ajouter 6 g de SPA BROMA par 1 000 L d’eau (dosage de routine). Faire une analyse du brome disponible et répéter le dosage ci-dessus à des intervalles de 15 à 20 minutes jusqu’à ce que le résidu de brome se situe entre 3,0 et 5,0 ppm. Il est recommandé de faire une surchloration régulière de l’eau après un usage intensif du spa, ou une fois par semaine pour les spas utilisés modérément, pour éliminer les déchets organiques. Ajouter 25 g de SPA BROMA par 1 000 L d’eau aussi souvent que nécessaire. Une eau mousseuse, turbide ou malodorante qui persiste indique que le niveau d’assainisseur est inadéquat. Pour corriger le problème, surchlorer l’eau du spa en ajoutant 25 g de SPA BROMA par 1 000 L d’eau.",
+    "columns": [
+      {
+        "name": "TAILLE DU SPA",
+        "rows": [
+          "DOSAGE DE ROUTINE (ajustement au besoin)",
+          "DOSAGE DE SURCHLORATION (hebdomadaire)"
+        ]
+      },
+      {
+        "name": "1 000 L",
+        "rows": [
+          "6 g",
+          "25 g"
+        ]
+      },
+      {
+        "name": "1 500 L",
+        "rows": [
+          "10 g",
+          "35 g"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS appliquer le produit lorsqu’il y a des baigneurs dans le spa.",
+  "sku": "2907216",
+  "related_products": [
+    {
+      "name": "SPA BROMA ULTRA",
+      "link": "/fr/produit/spa-broma-ultra-entretien-du-spa/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA",
+      "link": "/fr/produit/spa-chlor-ultra-entretien-du-spa/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA 1 POUCE",
+      "link": "/fr/produit/spa-chlor-ultra-1-pouce-entretien-du-spa/"
+    }
+  ]
+}

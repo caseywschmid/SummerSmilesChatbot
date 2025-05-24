@@ -1,0 +1,63 @@
+{
+  "title": "ALG OUT ULTRA 3 EN 1",
+  "link": "/fr/produit/alg-out-ultra-3-en-1-entretien-de-la-piscine/",
+  "lang": "fr",
+  "date": "2023-03-21",
+  "long_description": "ALG OUT ULTRA 3 EN 1 détruit les algues et empêche leur formation dans l’eau des piscines. Innovatrice, sa forme solide prédosée à action prolongée permet une manipulation plus sécuritaire, tout en étant simple d’utilisation et facile à entreposer. ALG OUT ULTRA 3 EN 1 permet de traiter une grande variété d’algues (vertes, jaunes ou noires). Une fois dissoute dans l’eau, sa formule concentrée et unique agit également pour améliorer la filtration et maintenir la température de l’eau.",
+  "short_description": "BÉNÉFICES Détruit les algues dans l’eau des piscines Améliore la filtration Aide à maintenir la température de l’eau FORMAT 8 x 100 g",
+  "characteristics": [
+    {
+      "title": "Méthode d’application",
+      "text": "Ajouter au panier de l’écumoire."
+    },
+    {
+      "title": "Instructions",
+      "text": "La baignade est possible tout de suite après l’application du produit."
+    }
+  ],
+  "dosage": {
+    "specifications": "La dose initiale pour les eaux de piscine qui ne renferment pas d’algues visibles est de 28 g d’ALG OUT ULTRA 3 EN 1 par 10 000 L d’eau de piscine. Le dosage de routine (hebdomadaire) est de 14 g d’ALG OUT ULTRA 3 EN 1 par 10 000 L d’eau de piscine. Dans les eaux renfermant des algues visibles, lorsque la surchloration n’est pas employée, ajouter 70 g d’ALG OUT ULTRA 3 EN 1 par 10 000 L d’eau de piscine.",
+    "columns": [
+      {
+        "name": "TAILLE DE LA PISCINE",
+        "rows": [
+          "DOSAGE AU DÉPART",
+          "DOSAGE DE ROUTINE (hebdomadaire)",
+          "PROBLÈME D’ALGUE VISIBLE"
+        ]
+      },
+      {
+        "name": "Moins de 60 000 L",
+        "rows": [
+          "1 cube",
+          "1 cube",
+          "3 cubes"
+        ]
+      },
+      {
+        "name": "60 000 L et plus",
+        "rows": [
+          "2 cubes",
+          "2 cubes",
+          "6 cubes"
+        ]
+      }
+    ]
+  },
+  "warning": "NE PAS placer directement dans la piscine. NE PAS appliquer le produit lorsqu’il y a des baigneurs dans la piscine.",
+  "sku": "3007065",
+  "related_products": [
+    {
+      "name": "ALG OUT 15%",
+      "link": "/fr/produit/alg-out-15-entretien-de-la-piscine/"
+    },
+    {
+      "name": "ALG OUT 40%",
+      "link": "/fr/produit/alg-out-40-entretien-de-la-piscine/"
+    },
+    {
+      "name": "ALG OUT ULTRA 60%",
+      "link": "/fr/produit/alg-out-ultra-60-entretien-de-la-piscine/"
+    }
+  ]
+}

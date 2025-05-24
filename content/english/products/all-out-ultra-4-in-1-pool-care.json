@@ -1,0 +1,69 @@
+{
+  "title": "All Out Ultra 4 in 1",
+  "link": "/product/all-out-ultra-4-in-1-pool-care/",
+  "lang": "en",
+  "date": "2023-03-16",
+  "long_description": "ALL OUT ULTRATM 4 IN 1 is a multi-action treatment for pool water. A single product for preventing and resolving the most common water problems such as metals, phosphates, organic waste and cloudy water.",
+  "short_description": "BENEFITS Eliminates metals Eliminates phosphates Eliminates organic waste Clarifies water FORMAT 500 mL, 1 L NOTE Although unlikely, filtration may need to be stopped for 8 hours to allow particles to settle. In such cases, put the filter in the Drain (or Waste) position after the 8-hour wait period and vacuum pool to remove residue. Following treatment, backwash filter before returning to normal operation.",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Pour the required amount of ALL OUT ULTRATM 4 IN 1 into the pool water in front of the water return jet."
+    },
+    {
+      "title": "Instructions",
+      "text": "Stop the filtration system and put the filter in the Recirculate (or Whirlpool) position. Add ALL OUT ULTRA 4 IN 1 according to the application method and recommended dosage. Restart the system. Run the filter in the Recirculate (or Whirlpool) position for 6 hours to disperse the product. Shock the pool water according to the label instructions of the product used. Wait 60 minutes before using the pool. Resume filtration and let filter run for a minimum of 24 hours."
+    }
+  ],
+  "dosage": {
+    "specifications": "For metal or coloured water treatment: Add 150 mL of ALL OUT ULTRATM 4 IN 1 per 10,000 L of pool water. For phosphate treatment: Add 60 mL of ALL OUT ULTRATM 4 IN 1 per 10,000 L of pool water to lower phosphate level by 100 ppb within 48 hours. For organic waste treatment: Add 150 mL of ALL OUT ULTRATM 4 IN 1 per 10,000 L of pool water. For cloudy water treatment: Add 160 mL of ALL OUT ULTRATM 4 IN 1 per 10,000 L of pool water. For weekly preventive treatment: Add 25 mL of ALL OUT ULTRATM 4 IN 1 per 10,000 L of pool water.",
+    "columns": [
+      {
+        "name": "POOL SIZE",
+        "rows": [
+          "METAL OR COLOURED WATER TREATMENT",
+          "PHOSPHATE TREATMENT",
+          "ORGANIC WASTE TREATMENT",
+          "CLOUDY WASTE TREATMENT",
+          "WEEKLY PREVENTIVE TREATMENT"
+        ]
+      },
+      {
+        "name": "40,000 L",
+        "rows": [
+          "600 mL",
+          "240 mL",
+          "600 mL",
+          "640 mL",
+          "100 mL"
+        ]
+      },
+      {
+        "name": "80,000 L",
+        "rows": [
+          "1200 mL",
+          "480 mL",
+          "1200 mL",
+          "1280 mL",
+          "200 mL"
+        ]
+      }
+    ]
+  },
+  "warning": "Compatible with salt systems. DO NOT apply the product when people are in the pool. Must be followed up with a shock treatment to activate the clarifier. It is not recommended to use this product with a diatomaceous earth filter.",
+  "sku": "3007088",
+  "related_products": [
+    {
+      "name": "CHLOR OUT (Powder)",
+      "link": "/product/chlor-out-powder-pool-care/"
+    },
+    {
+      "name": "CLARITA",
+      "link": "/product/clarita-pool-care/"
+    },
+    {
+      "name": "CLARITA (Tablets)",
+      "link": "/product/clarita-tablets-pool-care/"
+    }
+  ]
+}

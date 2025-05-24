@@ -1,0 +1,49 @@
+{
+  "title": "SPA SHOK ULTRA 2 IN 1",
+  "link": "/product/spa-shok-ultra-2-in-1-spa-care/",
+  "lang": "en",
+  "date": "2023-03-23",
+  "long_description": "SPA SHOK ULTRA 2 IN 1 is a pre-measured shock treatment that actively eliminates organic waste and maintains water clarity in a single weekly treatment. This re-activating treatment restores water’s sparkle while prolonging the effect of chlorine",
+  "short_description": "BENEFITS Eliminates organic waste Maintains water clarity FORMAT Pouch of 40 G (12X40G)",
+  "characteristics": [
+    {
+      "title": "Application method",
+      "text": "Sprinkle SPA SHOK ULTRA 2 IN 1 directly over the surface of the spa water. OR: Pour product directly into the skimmer basket."
+    },
+    {
+      "title": "Instructions",
+      "text": "For each treatment, add one (40 g) pouch of SPA SHOK ULTRA 2 IN 1 per 1,500 L of water according to the chosen application method. Run the spa jets. Wait 30 minutes before using the spa."
+    }
+  ],
+  "dosage": {
+    "specifications": "One pouch treats up to 1,500 L of spa water. Use SPA SHOK ULTRA 2 IN 1 weekly to keep water crystal clear.",
+    "columns": [
+      {
+        "name": "SPA SIZE",
+        "rows": [
+          "ROUTINE DOSAGE (weekly)"
+        ]
+      },
+      {
+        "name": "1,500 L and less",
+        "rows": [
+          "1 pouch"
+        ]
+      },
+      {
+        "name": "More than 1,500 L",
+        "rows": [
+          "2 pouches"
+        ]
+      }
+    ]
+  },
+  "warning": "DO NOT apply the product when people are in the spa. Rinse cartridge filters with fresh water each week. Cleaning cartridges monthly is recommended.",
+  "sku": "29-07350-40",
+  "related_products": [
+    {
+      "name": "SPA SHOK ULTRA",
+      "link": "/product/spa-shok-ultra-spa-care/"
+    }
+  ]
+}
