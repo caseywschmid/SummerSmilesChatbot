@@ -65,7 +65,7 @@ def upload_files_to_vector_store(client: OpenAI, name: str):
                         "type": "static",
                         "static": {
                             "chunk_overlap_tokens": 400,
-                            "max_chunk_size_tokens": 800,
+                            "max_chunk_size_tokens": 4000,
                         },
                     },
                 )

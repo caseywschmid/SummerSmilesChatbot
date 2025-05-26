@@ -1,0 +1,91 @@
+[
+  {
+    "question": "I need to drain my spa. Is there anything special I need to do?",
+    "response": "To drain your spa effectively, here are some steps to consider:\n\n1. **Use a Spa Drain Cleaner**: Before draining, it’s beneficial to use a product like **SPA DRAIN ULTRA**. This cleaner helps eliminate organic matter and calcium buildups in the spa pipes. Simply sprinkle the necessary products in the water and run the pumps as instructed.\n\n2. **Flush Out the System**: Consider using **SPA FLUSH OUT** to remove any dirt and biofilm from the pipes. Follow the instructions to pour it directly into the spa water, run the jets, and then drain completely.\n\n3. **Drain Water Completely**: Make sure to drain all the water from the spa and its equipment. This is crucial to avoid any leftover water that could freeze or cause damage.\n\n4. **Rinse and Clean**: After draining, rinse the interior surfaces and let it dry before refilling with fresh water.\n\n5. **Check Equipment**: Inspect all equipment and ensure there are no blockages in the plumbing.\n\nFor more information, you can check out these product pages: [SPA DRAIN ULTRA](https://summersmiles.com/product/spa-drain-ultra-spa-care/) and [SPA FLUSH OUT](https://summersmiles.com/product/spa-flush-out-spa-care/). If you have any more questions, feel free to ask!",
+    "files": [
+      "spa-drain-ultra-spa-care.json",
+      "spa-flush-out-spa-care.json",
+      "spa-closing-draining.json",
+      "spa-flush-out-spa-care.json",
+      "the-three-pillars-of-a-spa-maintenance.json"
+    ],
+    "language": "English",
+    "cost": 0.00705
+  },
+  {
+    "question": "Do you offer in store water analysis?",
+    "response": "Yes, we offer in-store water analysis at many Summer Smiles® retailers! You can bring a clean 250 mL sample of your pool or spa water, and our specialists will analyze it free of charge. This service tests up to 12 water parameters, allowing for precise adjustments to ensure safe swimming conditions. To find a retailer near you that offers this service, please use our [Store Locator](https://summersmiles.com/store-locator/).",
+    "files": ["in-store-water-analysis.json"],
+    "language": "English",
+    "cost": 0.00739
+  },
+  {
+    "question": "It rained yesterday and now my pool chemistry is off. Is it the rain?",
+    "response": "Yes, rain can definitely affect your pool chemistry! Rainwater is typically acidic and can introduce contaminants like pollutants and debris into your pool. This can lead to a disruption in your chemical balance, resulting in issues like increased acidity or alkalinity, and even cloudy water.\n\nTo restore your pool’s chemistry, you'll want to check and adjust the pH level, alkalinity, and sanitizer levels. After a heavy rain, it’s also essential to monitor for phosphates, which can contribute to algae growth. If you notice imbalances, using products like Summer Smiles™ pH+, pH-, or clarifiers and shock treatments can help bring your water back to its ideal state. \n\nFor more detailed steps on how to adjust your pool chemistry, check out this article: [Unbalanced Pool Water](https://summersmiles.com/article/unbalanced-pool-water/).",
+    "files": [
+      "how-does-rain-affect-my-pool-water.json",
+      "how-does-rain-affect-my-pool-water.json",
+      "unbalanced-pool-water.json"
+    ],
+    "language": "English",
+    "cost": 0.0077
+  },
+  {
+    "question": "A friend said I should be using Calcium +. Can you tell me about it?",
+    "response": "**Calcium +** is designed to balance calcium hardness in your pool water, helping to prevent the corrosion of metal surfaces and increasing swimmer comfort. Here are the specifics:\n\n- **Benefits**: Prevents corrosion of metal surfaces, enhances swimmer comfort.\n- **Dosage**: To raise calcium hardness by 10 ppm, dissolve 130 g of Calcium + per 10,000 L of water. For pools under 40,000 L, use 500 g; for 40,000 to 80,000 L, use 1 kg.\n- **Application**: Always dissolve in a bucket of water before adding it to your pool. You can swim immediately after application.\n\nFor more details, you can visit the product page: [Calcium +](https://summersmiles.com/product/calcium-plus-pool-care/). If you have further questions or need assistance with your pool, feel free to ask!",
+    "files": ["calcium-plus-pool-care.json", "calcium-plus-pool-care.json"],
+    "language": "English",
+    "cost": 0.00719
+  },
+  {
+    "question": "How do I know if I have phosphates my pool?",
+    "response": "To determine if you have phosphates in your pool, the best method is to use a phosphate test kit. Most pools contain some level of phosphates, often coming from various sources like debris, swimmer waste, or municipal water supply. If you're noticing issues like algae growth or cloudy water, high phosphate levels could be the cause. \n\nFor more guidance on treatment and products to manage phosphates, check out our recommendations for products like ALL OUT ULTRA and CLARITA ULTRA, which are designed to combat phosphates.",
+    "files": ["phosphates-in-pool-water.json", "phosphates-in-pool-water.json"],
+    "language": "English",
+    "cost": 0.00713
+  },
+  {
+    "question": "Je dois vider mon spa. Y a-t-il quelque chose de spécial à faire?",
+    "response": "Pour vider votre spa, voici les étapes clés à suivre :\n\n1. **Préparer le spa** : Retirez les filtres et les appuie-tête. Vous pouvez également utiliser un nettoyant comme le produit **SPA FLUSH OUT**, qui aide à déloger la saleté et les biofilms accumulés dans la tuyauterie. Ajoutez le produit directement à la surface de l'eau et faites fonctionner les jets pendant quelques cycles pour un nettoyage complet.\n\n2. **Vider le spa** : Utilisez une pompe ou un siphon pour évacuer complètement l'eau. Assurez-vous que toute l'eau des tuyaux et des équipements ait été éliminée.\n\n3. **Rinçage et nettoyage** : Une fois le spa vide, rincez-le bien et nettoyez les surfaces avec un chiffon propre.\n\n4. **Remplissage** : Remplissez votre spa avec de l'eau fraîche et replacez les filtres et appuie-têtes.\n\n5. **Protéger l'équipement** : Si vous videz le spa pour l'hiver, envisagez d'utiliser un antigel comme **SPA ICE AWAY** pour éviter le gel des tuyaux et équipements.\n\nAssurez-vous de bien suivre ces étapes pour garantir un vidage efficace et sans dommages à votre spa ! Pour plus de détails, vous pouvez consulter ces produits sur notre site : [SPA FLUSH OUT](https://summersmiles.com/fr/produit/spa-flush-out-entretien-du-spa/) et [SPA ICE AWAY](https://summersmiles.com/fr/produit/spa-ice-away-entretien-du-spa/).",
+    "files": [
+      "spa-flush-out-entretien-du-spa.json",
+      "spa-ice-away-entretien-du-spa.json"
+    ],
+    "language": "French",
+    "cost": 0.00813
+  },
+  {
+    "question": "Offrez-vous une analyse de l'eau en magasin?",
+    "response": "Oui, nous offrons une analyse gratuite de l'eau en magasin. Vous pouvez apporter un échantillon d'eau de votre piscine ou spa (au moins 250 ml) dans l'un de nos détaillants Summer Smiles. Ces détaillants sont équipés de technologie avancée pour tester jusqu'à 12 paramètres d'eau, vous assurant une analyse précise pour le maintien de la qualité de votre eau. \n\nSi vous souhaitez plus d'informations sur la façon de procéder ou trouver le détaillant le plus proche, n'hésitez pas à demander !",
+    "files": ["analyse-deau-en-magasin.json"],
+    "language": "French",
+    "cost": 0.0083
+  },
+  {
+    "question": "Il a plu hier et maintenant la chimie de ma piscine est déréglée. Est-ce à cause de la pluie?",
+    "response": "Oui, la pluie peut perturber la chimie de votre piscine. L'eau de pluie est généralement acide et peut ramasser des contaminants qui affectent l'équilibre chimique. Après une pluie, il est recommandé de tester votre eau et d'ajuster le pH et le chlore si nécessaire. Pour rétablir l'équilibre, vous pourriez envisager d'utiliser des produits comme CLARITA pour clarifier l'eau ou un traitement choc comme SHOK ULTRA pour éliminer les déchets organiques. \n\nN'hésitez pas à me faire savoir si vous avez besoin de détails supplémentaires ou d'aide pour choisir des produits spécifiques!",
+    "files": [
+      "quels-effets-la-pluie-peut-elle-avoir-sur-leau-de-ma-piscine.json"
+    ],
+    "language": "French",
+    "cost": 0.0084
+  },
+  {
+    "question": "Un ami m'a dit que je devrais utiliser Calcium +. Pouvez-vous m'en parler?",
+    "response": "Le produit **Calcium +** aide à obtenir une eau de piscine parfaitement équilibrée, permettant d'éviter la corrosion des surfaces métalliques. Il assure également le confort des baigneurs et protège les équipements de piscine. Voici quelques détails :\n\n- **Dosage** : Pour augmenter la dureté calcique de 10 ppm, dissoudre 130 g de Calcium + par 10 000 L d'eau de piscine. Par exemple, pour une piscine de moins de 40 000 L, utilisez 500 g.\n- **Application** : Dissoudre le produit dans une chaudière d'eau avant de l'ajouter à la piscine. Vous pouvez nager immédiatement après l'application.\n- **Format** : Il est disponible en plusieurs formats : 1.8 kg, 4 kg, 8 kg, et 20 kg.\n\nPour plus d'informations, vous pouvez consulter la page produit ici : [Calcium +](https://summersmiles.com/fr/produit/calcium-plus-entretien-de-la-piscine/).",
+    "files": [
+      "calcium-plus-entretien-de-la-piscine.json",
+      "calcium-plus-entretien-de-la-piscine.json",
+      "calcium-plus-entretien-de-la-piscine.json"
+    ],
+    "language": "French",
+    "cost": 0.00799
+  },
+  {
+    "question": "Comment savoir si j'ai des phosphates dans ma piscine?",
+    "response": "Pour savoir si vous avez des phosphates dans votre piscine, le meilleur moyen est de tester l'eau à l'aide d'une trousse de test des phosphates. La présence de phosphates peut favoriser la croissance des algues, entraînant une eau trouble. Même si pratiquement toutes les piscines ont un certain niveau de phosphates, des problèmes d'algues inexpliquées peuvent indiquer des niveaux plus élevés.\n\nPour traiter les phosphates, vous pouvez utiliser des produits comme **ALL OUT ULTRA 4 en 1** ou **CLARITA ULTRA 3 en 1**. Voici le lien vers la page des produits pour plus d’informations : \n- [ALL OUT ULTRA 4 en 1](https://summersmiles.com/fr/produit/all-out-ultra-4-en-1-entretien-de-la-piscine/) \n- [CLARITA ULTRA 3 en 1](https://summersmiles.com/fr/produit/clarita-ultra-3-en-1-entretien-de-la-piscine/).",
+    "files": ["les-phosphates-dans-leau-de-piscine.json"],
+    "language": "French",
+    "cost": 0.00846
+  }
+]
