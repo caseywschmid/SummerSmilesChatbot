@@ -50,7 +50,7 @@ class OpenAIService:
         for vector_store in self.vector_stores:
             self.vector_store_ids[vector_store.name] = vector_store.id
 
-    def _log_response(self, response: Response):
+    def _parse_response(self, response: Response):
         input_tokens = response.usage.input_tokens
         output_tokens = response.usage.output_tokens
         cached_tokens = response.usage.input_tokens_details.cached_tokens
@@ -85,6 +85,7 @@ class OpenAIService:
         )  # Convert to dollars per million tokens, rounded to 5 decimal places
         log.debug(f"Response: {response.model_dump_json(indent=2)}")
         log.info(f"Response data: {response_data}")
+        return response_data
 
     def chat(
         self,
@@ -113,10 +114,10 @@ class OpenAIService:
         if previous_response_id:
             kwargs["previous_response_id"] = previous_response_id
         response: Response = self.client.responses.create(**kwargs)
-        self._log_response(response)
+        response_data = self._parse_response(response)
         output_text = getattr(response, "output_text", str(response))
         response_id = getattr(response, "id", None)
-        return output_text, response_id
+        return output_text, response_id, response_data
 
     def load_vector_stores(self):
         return load_vector_stores(self.client)

@@ -1,0 +1,82 @@
+[
+  {
+    "question": "I need to drain my spa. Is there anything special I need to do?",
+    "response": "Draining your spa involves a few important steps to ensure it's done safely and effectively. Here’s a simple guide:\n\n1. **Turn Off All Equipment:** Make sure to power off the spa and unplug it if possible.\n   \n2. **Check the Manual:** Review your spa’s manual for specific draining instructions, as different models have varying procedures.\n\n3. **Use a Submersible Pump:** Consider using a submersible pump to remove the water quickly and efficiently. If your spa has a drain valve, you can use that as well.\n\n4. **Clean the Interior:** Once drained, take the opportunity to scrub the surfaces and clean the filters.\n\n5. **Dispose of Water Appropriately:** Ensure you follow local regulations regarding wastewater disposal. \n\nOnce you’ve drained it, consider adding spa cleaner before refilling to maintain water quality. If you need specific products for cleaning or maintenance, let me know!",
+    "files": [],
+    "language": "English",
+    "cost": 0.00107
+  },
+  {
+    "question": "Do you offer in store water analysis?",
+    "response": "I'm not quite sure about the specifics of in-store water analysis services. I recommend checking directly with a local Summer Smiles® location or visiting our website for detailed information. You can find contact information or locate a store near you on our [Store Locator](https://summersmiles.com/store-locator/) page. Is there anything else I can assist you with regarding pool maintenance or our products?",
+    "files": [],
+    "language": "English",
+    "cost": 0.0009
+  },
+  {
+    "question": "It rained yesterday and now my pool chemistry is off. Is it the rain?",
+    "response": "Yes, rainfall can affect your pool chemistry by diluting the chemicals and introducing contaminants. It's common for pH and chlorine levels to fluctuate after rain. \n\nI recommend testing your water to check the pH, chlorine, and alkalinity levels. You can then adjust them accordingly using the appropriate Summer Smiles® products. If you need help with specific adjustments, let me know!",
+    "files": [],
+    "language": "English",
+    "cost": 0.0009
+  },
+  {
+    "question": "A friend said I should be using Calcium +. Can you tell me about it?",
+    "response": "**Calcium +** is an essential product for maintaining balanced pool water. It helps prevent the corrosion of metal surfaces, increases swimmer comfort, and protects pool equipment. The recommended calcium hardness level for pool water is between 200 and 300 ppm, which can be tested using a water test kit.\n\n### Application Instructions:\n- **Dosage**: To raise calcium hardness by 10 ppm, dissolve 130 g of Calcium + per 10,000 L of pool water.\n  - For pools less than 40,000 L, you would use 500 g.\n  - For pools between 40,000 L and 80,000 L, use 1 kg.\n- **Usage**: Calcium + must be dissolved in a bucket of water before adding it to the pool. You can swim immediately after adding it.\n\nFor more details, you can check the product page here: [Calcium +](https://summersmiles.com/product/calcium-plus-pool-care/).",
+    "files": [
+      "calcium-plus-pool-care.json"
+    ],
+    "language": "English",
+    "cost": 0.00681
+  },
+  {
+    "question": "How do I know if I have phosphates my pool?",
+    "response": "To check for phosphates in your pool, you can use a phosphate test kit available at pool supply stores. Simply follow the instructions in the kit, which typically involve taking a water sample and adding a reagent that will change color if phosphates are present. \n\nHigh levels of phosphates can contribute to algae growth, so it's important to monitor them regularly. If you have concerns about treatment or balance, let me know! I can recommend some products for managing phosphates effectively.",
+    "files": [],
+    "language": "English",
+    "cost": 0.00093
+  },
+  {
+    "question": "Je dois vider mon spa. Y a-t-il quelque chose de spécial à faire?",
+    "response": "Pour vider votre spa, voici quelques étapes à suivre :\n\n1. **Éteignez l'alimentation** : Assurez-vous que le spa est hors tension avant de commencer.\n2. **Videz l'eau** : Utilisez le robinet de vidange ou une pompe pour retirer l'eau. Vérifiez si votre spa a une fonction de vidange intégrée.\n3. **Nettoyez l'intérieur** : Profitez d'avoir le spa vide pour nettoyer les surfaces avec un produit adapté. Évitez les nettoyants abrasifs.\n4. **Rincez et séchez** : Rincez bien le spa à l’eau claire et laissez-le sécher complètement avant de le remplir à nouveau.\n\nN'oubliez pas de vérifier le filtre et de le nettoyer ou le remplacer si nécessaire. Si vous avez besoin de produits spécifiques ou de conseils supplémentaires, n'hésitez pas à demander !",
+    "files": [],
+    "language": "French",
+    "cost": 0.00106
+  },
+  {
+    "question": "Offrez-vous une analyse de l'eau en magasin?",
+    "response": "Oui, nous offrons une analyse de l'eau en magasin, et c'est GRATUIT ! Il vous suffit d'apporter un échantillon d'eau de votre piscine ou de votre spa d'au moins une tasse (250 ml) chez l'un de nos détaillants Summer Smiles®. Nos spécialistes utilisent une technologie avancée pour tester jusqu'à 12 paramètres de l'eau, vous assurant ainsi une sécurité optimale pour les baigneurs. Pour plus de détails et pour trouver un détaillant près de chez vous, consultez notre page [Analyse de l'eau en magasin](https://summersmiles.com/fr/analyse-deau-en-magasin/).",
+    "files": [
+      "analyse-deau-en-magasin.json"
+    ],
+    "language": "French",
+    "cost": 0.007
+  },
+  {
+    "question": "Il a plu hier et maintenant la chimie de ma piscine est déréglée. Est-ce à cause de la pluie?",
+    "response": "Oui, la pluie peut effectivement perturber la chimie de votre piscine. Les fortes pluies peuvent introduire des contaminants et diluer les produits chimiques déjà présents dans l'eau, ce qui peut affecter le pH, l'alcalinité et le niveau de chlore.\n\nJe vous recommande de tester votre eau pour connaître les niveaux exacts et ajuster la chimie en conséquence. Vous pourriez envisager d'utiliser un produit spécifique pour équilibrer votre eau, comme notre pH PLUS ou un désinfectant. Si vous avez besoin d'aide pour les dosages, n'hésitez pas à me le faire savoir !",
+    "files": [],
+    "language": "French",
+    "cost": 0.00098
+  },
+  {
+    "question": "Un ami m'a dit que je devrais utiliser Calcium +. Pouvez-vous m'en parler?",
+    "response": "**Calcium +** est un produit essentiel pour maintenir l'équilibre de l'eau de votre piscine. Il aide à prévenir la corrosion des surfaces métalliques et assure le confort des baigneurs en maintenant une dureté calcique appropriée.\n\n### Détails du produit :\n- **Bienfaits** : Prévient la corrosion et améliore le confort des baigneurs.\n- **Formats disponibles** : 1,8 kg, 4 kg, 8 kg, et 20 kg.\n  \n### Application :\n- **Dissolution** : Dissoudre Calcium + dans un seau d'eau avant de l'ajouter à la piscine.\n- **Dosage** : Pour augmenter la dureté calcique de 10 ppm, utilisez 130 g de Calcium + par 10 000 L d'eau.\n\n### Remarque :\nIl n'est pas nécessaire d'attendre avant de nager après l'application. Cependant, ne pas appliquer le produit pendant que des baigneurs sont dans la piscine.\n\nPour plus de détails, vous pouvez visiter la page produit : [Calcium +](https://summersmiles.com/fr/produit/calcium-plus-entretien-de-la-piscine/).",
+    "files": [
+      "calcium-plus-entretien-de-la-piscine.json",
+      "calcium-plus-entretien-de-la-piscine.json"
+    ],
+    "language": "French",
+    "cost": 0.00734
+  },
+  {
+    "question": "Comment savoir si j'ai des phosphates dans ma piscine?",
+    "response": "Pour savoir si votre piscine contient des phosphates, le meilleur moyen est d'utiliser une trousse de test des phosphates. Presque toutes les piscines ont un certain niveau de phosphates, mais un excès peut favoriser la croissance des algues et rendre l'eau trouble. Si vous avez des problèmes d'algues, cela peut indiquer un taux élevé de phosphates.\n\nPour maintenir un taux de phosphates approprié, vous pouvez utiliser des produits comme ALL OUT ULTRA 4 en 1 ou CLARITA ULTRA 3 en 1 de Summer Smiles.",
+    "files": [
+      "les-phosphates-dans-leau-de-piscine.json",
+      "les-phosphates-dans-leau-de-piscine.json"
+    ],
+    "language": "French",
+    "cost": 0.00699
+  }
+]

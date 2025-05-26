@@ -25,15 +25,15 @@ def test_chatbot_responses():
         "I need to drain my spa. Is there anything special I need to do?",  # content/english/pages/spa-closing-draining.json
         "Do you offer in store water analysis?",  # content/english/pages/in-store-water-analysis.json
         "It rained yesterday and now my pool chemistry is off. Is it the rain?",  # content/english/posts/how-does-rain-affect-my-pool-water.json
-        "A friend said I should be using Calcium +. Can you tell me about it?", # content/english/products/calcium-plus-pool-care.json
-        "How do I know if I have phosphates my pool?", # content/english/posts/phosphates-in-pool-water.json
+        "A friend said I should be using Calcium +. Can you tell me about it?",  # content/english/products/calcium-plus-pool-care.json
+        "How do I know if I have phosphates my pool?",  # content/english/posts/phosphates-in-pool-water.json
     ]
     french_questions = [
-        "Je dois vider mon spa. Y a-t-il quelque chose de spécial à faire?", # content/french/pages/fermeture-et-drainage-spa.json
-        "Offrez-vous une analyse de l'eau en magasin?", # content/french/pages/analyse-deau-en-magasin.json
-        "Il a plu hier et maintenant la chimie de ma piscine est déréglée. Est-ce à cause de la pluie?", # content/french/posts/quels-effets-la-pluie-peut-elle-avoir-sur-leau-de-ma-piscine.json
-        "Un ami m'a dit que je devrais utiliser Calcium +. Pouvez-vous m'en parler?", # content/french/products/calcium-plus-entretien-de-la-piscine.json
-        "Comment savoir si j'ai des phosphates dans ma piscine?", # content/french/posts/les-phosphates-dans-leau-de-piscine.json
+        "Je dois vider mon spa. Y a-t-il quelque chose de spécial à faire?",  # content/french/pages/fermeture-et-drainage-spa.json
+        "Offrez-vous une analyse de l'eau en magasin?",  # content/french/pages/analyse-deau-en-magasin.json
+        "Il a plu hier et maintenant la chimie de ma piscine est déréglée. Est-ce à cause de la pluie?",  # content/french/posts/quels-effets-la-pluie-peut-elle-avoir-sur-leau-de-ma-piscine.json
+        "Un ami m'a dit que je devrais utiliser Calcium +. Pouvez-vous m'en parler?",  # content/french/products/calcium-plus-entretien-de-la-piscine.json
+        "Comment savoir si j'ai des phosphates dans ma piscine?",  # content/french/posts/les-phosphates-dans-leau-de-piscine.json
     ]
     all_questions = [
         (q, "English", "SummerSmiles_English") for q in english_questions
@@ -42,11 +42,17 @@ def test_chatbot_responses():
     results = []
     for idx, (question, language, name) in enumerate(all_questions, 1):
         try:
-            response_text, _ = service.chat(
+            response_text, _, response_data = service.chat(
                 question, previous_response_id=None, name=name
             )
             results.append(
-                {"question": question, "response": response_text, "language": language}
+                {
+                    "question": question,
+                    "response": response_text,
+                    "files": response_data.get("files", []),
+                    "language": language,
+                    "cost": response_data.get("cost", 0.0),
+                }
             )
         except Exception as e:
             log.error(f"Error for question {idx}: {e}")
@@ -64,3 +70,7 @@ def test_chatbot_responses():
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
     log.success(f"\nResults saved to {filepath}")
+
+
+if __name__ == "__main__":
+    test_chatbot_responses()

@@ -25,7 +25,7 @@ def main():
         if user_input.lower() == "exit":
             break
         try:
-            response_text, response_id = openai_service.chat(
+            response_text, response_id, _ = openai_service.chat(
                 user_input, previous_response_id=previous_response_id, name=name
             )
             print("Bot:", response_text)

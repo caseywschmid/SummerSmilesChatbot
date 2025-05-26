@@ -74,7 +74,7 @@ async def chat_endpoint(request: ChatRequest):
                 language=request.language,
             )
 
-        response_text, response_id = openai_service.chat(
+        response_text, response_id, _ = openai_service.chat(
             user_input=request.user_input,
             previous_response_id=request.previous_response_id,
             name=vector_store_name,
