@@ -8,6 +8,7 @@ from .paths import (
     ENGLISH_PRODUCTS_PATH,
     VECTOR_STORE_ID_PATH,
 )
+from .ai import OPENAI_MODEL
 
 __all__ = [
     "SUMMER_SMILES_API_BASE_URL",
@@ -19,4 +20,5 @@ __all__ = [
     "FRENCH_PRODUCTS_PATH",
     "ENGLISH_PRODUCTS_PATH",
     "VECTOR_STORE_ID_PATH",
+    "OPENAI_MODEL",
 ]

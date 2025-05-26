@@ -31,6 +31,10 @@ cp .env.example .env
 nano .env
 ```
 
+Optional: Change the OpenAI Model you wish to use by updating the `OPENAI_MODEL` variable in the `constants/ai.py` file. A list of models can be found here: [OpenAI Models](https://platform.openai.com/docs/models).
+
+Ensure you have the necessary permissions and API key for the OpenAI service.
+
 ### 3. Start the API Server
 
 ```bash

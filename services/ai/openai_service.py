@@ -10,6 +10,7 @@ from services.ai.utils import (
     create_file,
 )
 from prompts.system_message import SYSTEM_MESSAGE
+from constants.ai import OPENAI_MODEL
 
 import logging
 from services.logger import configure_logging
@@ -58,7 +59,7 @@ class OpenAIService:
         )
         input_list.append({"role": "user", "content": user_input})
         kwargs = {
-            "model": "gpt-4o-mini",
+            "model": OPENAI_MODEL,
             "input": input_list,
             "tools": [{"type": "file_search", "vector_store_ids": [vector_store_id]}],
         }
