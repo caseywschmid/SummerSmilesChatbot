@@ -65,6 +65,7 @@ class ContentService:
             all_content.extend(find_text_fields(fields))
         return all_content
 
+    # TODO: add the related products to the pages
     def extract_and_save_all_pages_content(self) -> None:
         """
         Fetch all pages from the API and save the content to a JSON file.
@@ -134,6 +135,7 @@ class ContentService:
             with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
 
+    # TODO: Add recommended levels to this
     def extract_and_save_all_products_content(self) -> None:
         """
         Fetch all products from the API and save the content to a JSON file per product.
