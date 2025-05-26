@@ -46,16 +46,16 @@
   "sku": "300750018",
   "related_products": [
     {
+      "name": "ALKA +",
+      "link": "/fr/produit/alka-plus-entretien-de-la-piscine/"
+    },
+    {
       "name": "STAB",
       "link": "/fr/produit/stab-entretien-de-la-piscine/"
     },
     {
       "name": "STAB ULTRA",
       "link": "/fr/produit/stab-ultra-entretien-de-la-piscine/"
-    },
-    {
-      "name": "pH-",
-      "link": "/fr/produit/ph-moins-entretien-de-la-piscine/"
     }
   ]
 }

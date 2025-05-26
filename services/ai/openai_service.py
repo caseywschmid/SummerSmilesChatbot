@@ -83,7 +83,8 @@ class OpenAIService:
         response_data["cost"] = round(
             cost / 1000_000, 5
         )  # Convert to dollars per million tokens, rounded to 5 decimal places
-        log.debug(f"Response data: {response_data}")
+        log.debug(f"Response: {response.model_dump_json(indent=2)}")
+        log.info(f"Response data: {response_data}")
 
     def chat(
         self,
@@ -108,7 +109,6 @@ class OpenAIService:
             "model": OPENAI_MODEL,
             "input": input_list,
             "tools": [{"type": "file_search", "vector_store_ids": [vector_store_id]}],
-            "temperature": 0.4,
         }
         if previous_response_id:
             kwargs["previous_response_id"] = previous_response_id
@@ -151,48 +151,48 @@ class OpenAIService:
         return create_file(self.client, filepath)
 
 
-# result = {
-#     "output": [
-#         {
-#             "id": "fs_68349c3ca6948198b94e2e47e8a22c880a9b960600c5591f",
-#             "queries": [
-#                 "in store water analysis",
-#                 "water analysis services",
-#                 "do you offer water analysis in store?",
-#             ],
-#             "status": "completed",
-#             "type": "file_search_call",
-#             "results": None,
-#         },
-#         # Response Output Message
-#         {
-#             "id": "msg_68349c3f724c819888f63373986ad5a60a9b960600c5591f",
-#             # Content
-#             "content": [
-#                 {
-#                     # Annotation
-#                     "annotations": [
-#                         # Annotation File Citation
-#                         {
-#                             "file_id": "file-7YAwXyVj1WDUxwHPPgu6nW",
-#                             "index": 476,
-#                             "type": "file_citation",
-#                             "filename": "in-store-water-analysis.json",
-#                         }
-#                     ],
-#                     "text": "Yes, we offer in-store water analysis at many Summer Smiles® retailers! It’s a free service where our specialists use advanced technology to test up to 12 water parameters. You can simply bring a one-cup (250 ml) sample from your pool or spa for testing. Make sure to use a clean container and to collect the sample from about 15-30 cm (6-12 inches) below the water's surface. You can find a retailer near you using our [Store Locator](https://summersmiles.com/store-locator/).",
-#                 }
-#             ],
-#             "role": "assistant",
-#             "status": "completed",
-#             "type": "message",
-#         },
-#     ],
-#     "usage": {
-#         "input_tokens": 15006,
-#         "input_tokens_details": {"cached_tokens": 1902},
-#         "output_tokens": 155,
-#         "output_tokens_details": {"reasoning_tokens": 0},
-#         "total_tokens": 15161,
-#     },
-# }
+result = {
+    "output": [
+        {
+            "id": "fs_68349c3ca6948198b94e2e47e8a22c880a9b960600c5591f",
+            "queries": [
+                "in store water analysis",
+                "water analysis services",
+                "do you offer water analysis in store?",
+            ],
+            "status": "completed",
+            "type": "file_search_call",
+            "results": None,
+        },
+        # Response Output Message
+        {
+            "id": "msg_68349c3f724c819888f63373986ad5a60a9b960600c5591f",
+            # Content
+            "content": [
+                {
+                    # Annotation
+                    "annotations": [
+                        # Annotation File Citation
+                        {
+                            "file_id": "file-7YAwXyVj1WDUxwHPPgu6nW",
+                            "index": 476,
+                            "type": "file_citation",
+                            "filename": "in-store-water-analysis.json",
+                        }
+                    ],
+                    "text": "Yes, we offer in-store water analysis at many Summer Smiles® retailers! It’s a free service where our specialists use advanced technology to test up to 12 water parameters. You can simply bring a one-cup (250 ml) sample from your pool or spa for testing. Make sure to use a clean container and to collect the sample from about 15-30 cm (6-12 inches) below the water's surface. You can find a retailer near you using our [Store Locator](https://summersmiles.com/store-locator/).",
+                }
+            ],
+            "role": "assistant",
+            "status": "completed",
+            "type": "message",
+        },
+    ],
+    "usage": {
+        "input_tokens": 15006,
+        "input_tokens_details": {"cached_tokens": 1902},
+        "output_tokens": 155,
+        "output_tokens_details": {"reasoning_tokens": 0},
+        "total_tokens": 15161,
+    },
+}

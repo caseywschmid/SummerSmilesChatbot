@@ -42,16 +42,16 @@
   "sku": "3007473",
   "related_products": [
     {
+      "name": "ALG OUT ULTRA 60%",
+      "link": "/fr/produit/alg-out-ultra-60-entretien-de-la-piscine/"
+    },
+    {
       "name": "HIBERNA",
       "link": "/fr/produit/hiberna-entretien-de-la-piscine/"
     },
     {
       "name": "PHOS OUT ULTRA 2 EN 1",
       "link": "/fr/produit/phos-out-ultra-2-en-1-entretien-de-la-piscine/"
-    },
-    {
-      "name": "TROUSSE CLOSING",
-      "link": "/fr/produit/trousse-closing-entretien-de-la-piscine/"
     }
   ]
 }

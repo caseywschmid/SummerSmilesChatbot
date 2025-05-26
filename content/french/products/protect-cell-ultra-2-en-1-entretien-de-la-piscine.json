@@ -42,16 +42,16 @@
   "sku": "3007510",
   "related_products": [
     {
-      "name": "CHLOR OUT (poudre)",
-      "link": "/fr/produit/chlor-out-poudre/"
-    },
-    {
-      "name": "METAL OUT",
-      "link": "/fr/produit/metal-out-entretien-de-la-piscine/"
+      "name": "KLEAN CELL",
+      "link": "/fr/produit/klean-cell-entretien-de-la-piscine/"
     },
     {
       "name": "SALT SHOK ULTRA",
       "link": "/fr/produit/salt-shok-ultra-entretien-de-la-piscine/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/fr/produit/stain-out-entretien-de-la-piscine/"
     }
   ]
 }

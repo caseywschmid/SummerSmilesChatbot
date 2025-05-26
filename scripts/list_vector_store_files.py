@@ -1,6 +1,7 @@
 from services.ai.openai_service import OpenAIService
 import sys
 from services.logger import configure_logging
+from tqdm import tqdm  # Progress bar for file listing
 
 log = configure_logging(__name__, log_level="DEBUG")
 
@@ -38,7 +39,8 @@ def main():
             break
         after = page.data[-1].id  # Use the last file's ID as the cursor
 
-    for f in all_files:
+    # Show progress bar while logging each file
+    for f in tqdm(all_files, desc="Listing files", unit="file"):
         log.debug(f)
     log.info(f"Number of files in vector store '{name}': {len(all_files)}")
 

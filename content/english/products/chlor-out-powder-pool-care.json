@@ -42,16 +42,16 @@
   "sku": "3007290",
   "related_products": [
     {
-      "name": "CHLOR OUT (Liquid)",
-      "link": "/product/chlor-out-liquid-pool-care/"
+      "name": "METAL OUT",
+      "link": "/product/metal-out-pool-care/"
+    },
+    {
+      "name": "PHOS OUT ULTRA 2 IN 1",
+      "link": "/product/phos-out-ultra-2-in-1-pool-care/"
     },
     {
       "name": "SOFT",
       "link": "/product/soft-pool-care/"
-    },
-    {
-      "name": "STAIN OUT",
-      "link": "/product/stain-out-pool-care/"
     }
   ]
 }

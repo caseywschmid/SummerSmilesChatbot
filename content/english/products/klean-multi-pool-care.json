@@ -23,16 +23,16 @@
   "sku": "3007270",
   "related_products": [
     {
+      "name": "KLEAN CELL",
+      "link": "/product/klean-cell-pool-care/"
+    },
+    {
       "name": "KLEAN FILTER",
       "link": "/product/klean-filter-pool-care/"
     },
     {
-      "name": "STAIN OUT",
-      "link": "/product/stain-out-pool-care/"
-    },
-    {
-      "name": "STAIN OUT ULTRA",
-      "link": "/product/stain-out-ultra-pool-care/"
+      "name": "KLEAN SURFACE ULTRA",
+      "link": "/product/klean-surface-ultra-pool-care/"
     }
   ]
 }

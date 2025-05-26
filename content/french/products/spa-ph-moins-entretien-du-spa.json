@@ -46,12 +46,12 @@
   "sku": "2907183",
   "related_products": [
     {
-      "name": "SPA <span class=\"ph-text\">pH+</span>",
-      "link": "/fr/produit/spa-ph-plus-entretien-du-spa/"
-    },
-    {
       "name": "SPA ALKA+",
       "link": "/fr/produit/spa-alka-plus-entretien-du-spa/"
+    },
+    {
+      "name": "SPA ALKA-",
+      "link": "/fr/produit/spa-alka-moins-entretien-du-spa/"
     },
     {
       "name": "SPA CALCIUM +",

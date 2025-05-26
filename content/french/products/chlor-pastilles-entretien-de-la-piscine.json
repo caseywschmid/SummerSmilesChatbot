@@ -52,16 +52,16 @@
   "sku": "3007295",
   "related_products": [
     {
-      "name": "BROMA ULTRA",
-      "link": "/fr/produit/broma-ultra-entretien-de-la-piscine/"
+      "name": "CHLOR (granules)",
+      "link": "/fr/produit/chlor-granules-entretien-de-la-piscine/"
     },
     {
-      "name": "CHLOR ULTRA",
-      "link": "/fr/produit/chlor-ultra-entretien-de-la-piscine/"
+      "name": "CHLOR LIQUID",
+      "link": "/fr/produit/chlor-liquid-entretien-de-la-piscine/"
     },
     {
-      "name": "Duo Z Chlor",
-      "link": "/fr/produit/duo-z-chlor/"
+      "name": "CHLOR ULTRA (1 pouce)",
+      "link": "/fr/produit/chlor-ultra-1-pouce-entretien-de-la-piscine/"
     }
   ]
 }

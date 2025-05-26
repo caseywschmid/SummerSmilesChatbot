@@ -36,16 +36,16 @@
   "sku": "3007305",
   "related_products": [
     {
-      "name": "ICE AWAY ULTRA",
-      "link": "/fr/produit/ice-away-ultra-entretien-de-la-piscine/"
-    },
-    {
-      "name": "TROUSSE CLOSING",
-      "link": "/fr/produit/trousse-closing-entretien-de-la-piscine/"
+      "name": "ICE AWAY",
+      "link": "/fr/produit/ice-away-entretien-de-la-piscine/"
     },
     {
       "name": "TROUSSE CORRECT",
       "link": "/fr/produit/trousse-correct-entretien-de-la-piscine/"
+    },
+    {
+      "name": "TROUSSE OPENING",
+      "link": "/fr/produit/trousse-opening-entretien-de-la-piscine/"
     }
   ]
 }

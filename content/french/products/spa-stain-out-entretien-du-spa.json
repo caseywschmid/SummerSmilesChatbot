@@ -45,12 +45,12 @@
   "sku": "2907335",
   "related_products": [
     {
-      "name": "SPA ALL OUT ULTRA 4 EN 1",
-      "link": "/fr/produit/spa-all-out-ultra-4-en-1-entretien-du-spa/"
-    },
-    {
       "name": "SPA FLUSH OUT",
       "link": "/fr/produit/spa-flush-out-entretien-du-spa/"
+    },
+    {
+      "name": "SPA FOAM OUT",
+      "link": "/fr/produit/spa-foam-out-entretien-du-spa/"
     },
     {
       "name": "SPA PHOS OUT ULTRA 2 EN 1",

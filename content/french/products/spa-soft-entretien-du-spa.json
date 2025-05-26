@@ -45,16 +45,16 @@
   "sku": "2907047",
   "related_products": [
     {
+      "name": "SPA CALCIUM +",
+      "link": "/fr/produit/spa-calcium-plus-entretien-du-spa/"
+    },
+    {
       "name": "SPA CLARITA",
       "link": "/fr/produit/spa-clarita-entretien-du-spa/"
     },
     {
-      "name": "SPA FOAM OUT",
-      "link": "/fr/produit/spa-foam-out-entretien-du-spa/"
-    },
-    {
-      "name": "SPA STAIN OUT",
-      "link": "/fr/produit/spa-stain-out-entretien-du-spa/"
+      "name": "SPA PHOS OUT ULTRA 2 EN 1",
+      "link": "/fr/produit/spa-phos-out-ultra-2-en-1-entretien-du-spa/"
     }
   ]
 }

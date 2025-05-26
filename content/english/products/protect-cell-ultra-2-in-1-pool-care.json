@@ -42,16 +42,16 @@
   "sku": "3007510",
   "related_products": [
     {
+      "name": "CHLOR OUT (Liquid)",
+      "link": "/product/chlor-out-liquid-pool-care/"
+    },
+    {
+      "name": "CHLOR OUT (Powder)",
+      "link": "/product/chlor-out-powder-pool-care/"
+    },
+    {
       "name": "FOAM OUT",
       "link": "/product/foam-out-pool-care/"
-    },
-    {
-      "name": "KLEAN CELL",
-      "link": "/product/klean-cell-pool-care/"
-    },
-    {
-      "name": "SOFT",
-      "link": "/product/soft-pool-care/"
     }
   ]
 }

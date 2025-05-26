@@ -46,12 +46,12 @@
   "sku": "2907981",
   "related_products": [
     {
-      "name": "SPA <span class=\"ph-text\">pH-</span>",
-      "link": "/product/spa-ph-minus-spa-care/"
+      "name": "SPA <span class=\"ph-text\">pH+</span>",
+      "link": "/product/spa-ph-plus-spa-care/"
     },
     {
-      "name": "SPA ALKA+",
-      "link": "/product/spa-alka-plus-spa-care/"
+      "name": "SPA <span class=\"ph-text\">pH-</span>",
+      "link": "/product/spa-ph-minus-spa-care/"
     },
     {
       "name": "SPA CALCIUM +",

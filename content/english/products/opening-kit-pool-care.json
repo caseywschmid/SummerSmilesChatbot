@@ -42,16 +42,16 @@
   "sku": "3007463",
   "related_products": [
     {
-      "name": "CLOSING KIT",
-      "link": "/product/closing-kit-pool-care/"
-    },
-    {
-      "name": "HIBERNA",
-      "link": "/product/hiberna-pool-care/"
+      "name": "CORRECT KIT",
+      "link": "/product/correct-kit-pool-care/"
     },
     {
       "name": "ICE AWAY",
       "link": "/product/ice-away-pool-care/"
+    },
+    {
+      "name": "ICE AWAY ULTRA",
+      "link": "/product/ice-away-ultra-pool-care/"
     }
   ]
 }

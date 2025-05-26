@@ -50,16 +50,16 @@
   "sku": "3007245",
   "related_products": [
     {
-      "name": "BROMA ULTRA",
-      "link": "/product/broma-ultra-pool-care/"
-    },
-    {
-      "name": "CHLOR (granules)",
-      "link": "/product/chlor-granules-pool-care/"
+      "name": "CHLOR (tablets)",
+      "link": "/product/chlor-tablets-pool-care/"
     },
     {
       "name": "CHLOR ULTRA",
       "link": "/product/chlor-ultra-pool-care/"
+    },
+    {
+      "name": "CHLOR ULTRA (3 inches)",
+      "link": "/product/chlor-ultra-3-inches-pool-care/"
     }
   ]
 }

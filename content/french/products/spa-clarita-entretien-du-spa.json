@@ -48,16 +48,16 @@
   "sku": "2907080",
   "related_products": [
     {
-      "name": "SPA ALL OUT ULTRA 4 EN 1",
-      "link": "/fr/produit/spa-all-out-ultra-4-en-1-entretien-du-spa/"
-    },
-    {
-      "name": "SPA FOAM OUT",
-      "link": "/fr/produit/spa-foam-out-entretien-du-spa/"
-    },
-    {
       "name": "SPA PHOS OUT ULTRA 2 EN 1",
       "link": "/fr/produit/spa-phos-out-ultra-2-en-1-entretien-du-spa/"
+    },
+    {
+      "name": "SPA SOFT",
+      "link": "/fr/produit/spa-soft-entretien-du-spa/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/fr/produit/spa-stain-out-entretien-du-spa/"
     }
   ]
 }

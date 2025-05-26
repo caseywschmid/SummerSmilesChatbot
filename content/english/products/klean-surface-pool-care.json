@@ -19,12 +19,12 @@
   "sku": "3007000",
   "related_products": [
     {
-      "name": "KLEAN FILTER",
-      "link": "/product/klean-filter-pool-care/"
-    },
-    {
       "name": "KLEAN MULTI",
       "link": "/product/klean-multi-pool-care/"
+    },
+    {
+      "name": "STAIN OUT",
+      "link": "/product/stain-out-pool-care/"
     },
     {
       "name": "STAIN OUT ULTRA",

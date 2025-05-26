@@ -46,16 +46,16 @@
   "sku": "3007320",
   "related_products": [
     {
-      "name": "KLEAN FILTER",
-      "link": "/fr/produit/klean-filter-entretien-de-la-piscine/"
+      "name": "KLEAN CELL",
+      "link": "/fr/produit/klean-cell-entretien-de-la-piscine/"
     },
     {
       "name": "KLEAN MULTI",
       "link": "/fr/produit/klean-multi-entretien-de-la-piscine/"
     },
     {
-      "name": "KLEAN SURFACE ULTRA",
-      "link": "/fr/produit/klean-surface-ultra-entretien-de-la-piscine/"
+      "name": "STAIN OUT",
+      "link": "/fr/produit/stain-out-entretien-de-la-piscine/"
     }
   ]
 }

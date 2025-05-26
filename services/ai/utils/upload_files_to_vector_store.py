@@ -1,5 +1,6 @@
 import os
 from openai import OpenAI
+from tqdm import tqdm  # Progress bar for file uploads
 
 from constants import (
     FRENCH_PAGES_PATH,
@@ -45,9 +46,13 @@ def upload_files_to_vector_store(client: OpenAI, name: str):
             raise ValueError(f"Directory '{dir_path}' does not exist.")
         if not os.path.isdir(dir_path):
             raise ValueError(f"Path '{dir_path}' is not a directory.")
-        for filename in os.listdir(dir_path):
-            if filename.endswith(".json"):
-                log.fine(f"Uploading file {filename}")
+        # Gather all .json files in the directory for progress tracking
+        json_files = [f for f in os.listdir(dir_path) if f.endswith(".json")]
+        # Use tqdm to show progress bar for uploads in this directory
+        with tqdm(json_files, desc=f"Uploading from {os.path.basename(dir_path)}", unit="file") as pbar:
+            for filename in pbar:
+                # Update the progress bar to show the current file being processed
+                pbar.set_postfix(file=filename)
                 file_path = os.path.join(dir_path, filename)
                 with open(file_path, "rb") as file_content:
                     file_result = client.files.create(

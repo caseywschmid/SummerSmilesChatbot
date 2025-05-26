@@ -56,12 +56,12 @@
   "sku": "2907245",
   "related_products": [
     {
-      "name": "SPA BROMA",
-      "link": "/product/spa-broma-spa-care/"
-    },
-    {
       "name": "SPA BROMA ULTRA",
       "link": "/product/spa-broma-ultra-spa-care/"
+    },
+    {
+      "name": "SPA CHLOR ULTRA",
+      "link": "/product/spa-chlor-ultra-spa-care/"
     },
     {
       "name": "SPA SHOK ULTRA",

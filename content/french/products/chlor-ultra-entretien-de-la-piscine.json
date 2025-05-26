@@ -53,16 +53,16 @@
   "sku": "3007210",
   "related_products": [
     {
+      "name": "CHLOR (pastilles)",
+      "link": "/fr/produit/chlor-pastilles-entretien-de-la-piscine/"
+    },
+    {
       "name": "CHLOR LIQUID",
       "link": "/fr/produit/chlor-liquid-entretien-de-la-piscine/"
     },
     {
       "name": "CHLOR ULTRA (1 pouce)",
       "link": "/fr/produit/chlor-ultra-1-pouce-entretien-de-la-piscine/"
-    },
-    {
-      "name": "CHLOR ULTRA (3 pouces)",
-      "link": "/fr/produit/chlor-ultra-3-pouces-entretien-de-la-piscine/"
     }
   ]
 }

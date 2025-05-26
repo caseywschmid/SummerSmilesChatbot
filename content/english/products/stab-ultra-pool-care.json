@@ -46,16 +46,16 @@
   "sku": "3007345",
   "related_products": [
     {
-      "name": "ALKA +",
-      "link": "/product/alka-plus-pool-care/"
-    },
-    {
       "name": "CALCIUM +",
       "link": "/product/calcium-plus-pool-care/"
     },
     {
       "name": "STAB",
       "link": "/product/stab-pool-care/"
+    },
+    {
+      "name": "pH-",
+      "link": "/product/ph-minus-pool-care/"
     }
   ]
 }

@@ -48,16 +48,16 @@
   "sku": "2907075",
   "related_products": [
     {
-      "name": "SPA ALL OUT ULTRA 4 IN 1",
-      "link": "/product/spa-all-out-ultra-4-in-1-spa-care/"
-    },
-    {
-      "name": "SPA CLARITA",
-      "link": "/product/spa-clarita-spa-care/"
-    },
-    {
       "name": "SPA FOAM OUT",
       "link": "/product/spa-foam-out-spa-care/"
+    },
+    {
+      "name": "SPA SOFT",
+      "link": "/product/spa-soft-spa-care/"
+    },
+    {
+      "name": "SPA STAIN OUT",
+      "link": "/product/spa-stain-out-spa-care/"
     }
   ]
 }

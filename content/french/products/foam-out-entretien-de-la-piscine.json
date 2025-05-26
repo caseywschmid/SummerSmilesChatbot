@@ -46,16 +46,16 @@
   "sku": "3007430",
   "related_products": [
     {
-      "name": "CHLOR OUT (liquide)",
-      "link": "/fr/produit/chlor-out-liquide-entretien-de-la-piscine/"
-    },
-    {
       "name": "CHLOR OUT (poudre)",
       "link": "/fr/produit/chlor-out-poudre/"
     },
     {
-      "name": "PROTECT CELL ULTRA 2 EN 1",
-      "link": "/fr/produit/protect-cell-ultra-2-en-1-entretien-de-la-piscine/"
+      "name": "METAL OUT",
+      "link": "/fr/produit/metal-out-entretien-de-la-piscine/"
+    },
+    {
+      "name": "SOFT",
+      "link": "/fr/produit/soft-entretien-de-la-piscine/"
     }
   ]
 }
