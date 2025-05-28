@@ -1,0 +1,30 @@
+# MESSAGE 1
+###
+POST https://summersmileschatbot.onrender.com/chat
+Content-Type: application/json
+
+{
+"user_input": "",
+"language": "en",
+"previous_response_id": ""
+}
+
+###
+POST https://summersmileschatbot.onrender.com/chat
+Content-Type: application/json
+
+{
+"user_input": "Tell me more about ALL OUT ULTRA 4 in 1",
+"language": "en",
+"previous_response_id": ""
+}
+
+###
+POST https://summersmileschatbot.onrender.com/chat
+Content-Type: application/json
+
+{
+"user_input": "Are there any other products similar to this one?",
+"language": "en",
+"previous_response_id": "resp_6835f2bc803c8198808a44382013075d09c97395b7b6b3d5"
+}
